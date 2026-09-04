@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>South Philly Lead Queue</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<style>
+:root{
+  --bg:#f6f7f9; --surface:#ffffff; --ink:#16191f; --ink-2:#5a6472; --ink-3:#8a93a1;
+  --line:#e3e7ec; --accent:#2f5fd0;
+  --st-new:#2f5fd0; --st-build:#8a5bd6; --st-generated:#0f8a5f;
+  --st-pitched:#b3690e; --st-replied:#0e7d90; --st-sold:#0f8a5f; --st-dead:#8a93a1;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#14171c; --surface:#1d2127; --ink:#eef1f5; --ink-2:#a6afbc; --ink-3:#78818e;
+    --line:#2c323b; --accent:#7ba1f0; --st-new:#7ba1f0; --st-build:#b899ec;
+    --st-generated:#4cc79a; --st-pitched:#e0a353; --st-replied:#54b9cc; --st-sold:#4cc79a; --st-dead:#78818e; }
+}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding:20px}
+.wrap{max-width:960px;margin:0 auto}
+h1{font-size:22px;margin:0 0 2px} .sub{color:var(--ink-2);font-size:13px;margin:0 0 18px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:18px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.tile b{display:block;font-size:26px;font-weight:700;font-variant-numeric:tabular-nums}
+.tile span{color:var(--ink-2);font-size:12.5px}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.filters button{border:1px solid var(--line);background:var(--surface);color:var(--ink-2);
+  border-radius:999px;padding:6px 13px;font-size:13px;cursor:pointer}
+.filters button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px}
+.row1{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}
+.name{font-weight:700;font-size:16px}
+.badge{font-size:11.5px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;
+  padding:3px 9px;border-radius:999px;border:1.5px solid;background:transparent}
+.meta{color:var(--ink-2);font-size:13px;margin-top:3px}
+.flags{margin-top:6px;display:flex;gap:6px;flex-wrap:wrap}
+.flag{font-size:11.5px;background:var(--bg);border:1px solid var(--line);color:var(--ink-2);
+  border-radius:6px;padding:2px 7px;font-family:ui-monospace,monospace}
+.score{font-variant-numeric:tabular-nums;color:var(--ink-2);font-size:13px}
+.score b{color:var(--ink);font-size:15px}
+.notes{margin-top:8px;font-size:13.5px;color:var(--ink);background:var(--bg);
+  border-left:3px solid var(--accent);padding:6px 10px;border-radius:0 6px 6px 0;white-space:pre-wrap}
+.actions{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
+.actions a,.actions button{font-size:13px;font-weight:600;text-decoration:none;cursor:pointer;
+  border:1px solid var(--line);background:var(--surface);color:var(--accent);
+  border-radius:8px;padding:6px 12px}
+.help{background:var(--surface);border:1px dashed var(--line);border-radius:10px;
+  padding:12px 14px;color:var(--ink-2);font-size:13.5px;margin-bottom:18px}
+.help code{background:var(--bg);padding:1px 5px;border-radius:4px;font-size:12.5px}
+dialog{border:none;border-radius:14px;padding:22px;background:var(--surface);color:var(--ink);text-align:center}
+dialog::backdrop{background:rgba(0,0,0,.5)}
+#qrbox{margin:12px auto;background:#fff;padding:10px;border-radius:8px;width:fit-content}
+.empty{color:var(--ink-2);text-align:center;padding:30px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>South Philly Lead Queue</h1>
+  <p class="sub">Updated 2026-08-28 &middot; scored by pitch-worthiness &middot; previews are unlisted &amp; noindexed</p>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="help">To flag a lead for a preview build: open <code>leads.json</code> in the GitHub app,
+  change its <code>"status"</code> from <code>"new"</code> to <code>"build"</code>, and commit &mdash; the
+  Build&nbsp;Previews action runs automatically. Track your pipeline the same way:
+  <code>pitched</code> &rarr; <code>replied</code> &rarr; <code>sold</code> / <code>dead</code>, and keep
+  call notes in each lead&rsquo;s <code>"notes"</code> field.</div>
+
+  <div class="filters" id="filters"></div>
+  <div id="list"></div>
+
+  <dialog id="qrdlg">
+    <div style="font-weight:700" id="qrname"></div>
+    <div id="qrbox"></div>
+    <div style="font-size:12.5px;color:var(--ink-2);max-width:240px;word-break:break-all" id="qrurl"></div>
+    <button style="margin-top:12px" onclick="document.getElementById('qrdlg').close()">Close</button>
+  </dialog>
+</div>
+<script>
+const LEADS = {"DEMO_PLACE_ID_DELETE_ME": {"slug": "demo-rowhouse-bakery-sample", "business_name": "Rowhouse Bakery (fictional demo — delete me)", "status": "generated", "lead_type": "NO_WEBSITE", "category": "Bakery", "address": "1900 Demo St, Philadelphia, PA 19145", "zip": "19145", "phone": "(215) 555-0134", "rating": 4.8, "review_count": 127, "hours": null, "website": null, "audit_flags": [], "score": 94.0, "notes": "This is a fictional sample so you can see the dashboard and preview style. Delete this entry from leads.json (and docs/sites/demo-rowhouse-bakery-sample/) once real leads arrive.", "seen": "2026-08-28", "generated_at": "2026-08-28", "preview_path": "sites/demo-rowhouse-bakery-sample/"}};
+const ORDER = ["new","build","generated","pitched","replied","sold","dead"];
+const COLORS = {new:"--st-new",build:"--st-build",generated:"--st-generated",
+  pitched:"--st-pitched",replied:"--st-replied",sold:"--st-sold",dead:"--st-dead"};
+const ICONS = {new:"●",build:"⚒",generated:"✓",pitched:"➤",
+  replied:"↩",sold:"$",dead:"✕"};
+let filter = "all";
+
+const leads = Object.values(LEADS).filter(l => l.status !== "skipped_good_site")
+  .sort((a,b) => (b.score||0)-(a.score||0));
+
+function tiles(){
+  const c = s => leads.filter(l=>l.status===s).length;
+  const t = [["In queue",c("new")],["Flagged to build",c("build")],
+             ["Previews ready",c("generated")],["Pitched",c("pitched")+c("replied")],
+             ["Sold",c("sold")]];
+  document.getElementById("tiles").innerHTML =
+    t.map(([k,v])=>`<div class="tile"><b>${v}</b><span>${k}</span></div>`).join("");
+}
+function filters(){
+  const el = document.getElementById("filters");
+  const opts = ["all",...ORDER.filter(s=>leads.some(l=>l.status===s))];
+  el.innerHTML = opts.map(s=>`<button data-s="${s}" class="${s===filter?'on':''}">${s==="all"?"All":s[0].toUpperCase()+s.slice(1)}</button>`).join("");
+  el.querySelectorAll("button").forEach(b=>b.onclick=()=>{filter=b.dataset.s;render();});
+}
+function esc(x){return String(x??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;")}
+function card(l){
+  const col = `var(${COLORS[l.status]||"--st-dead"})`;
+  const previewUrl = l.preview_path ? new URL(l.preview_path, location.href).href : null;
+  const bits = [l.category, l.address, l.phone].filter(Boolean).map(esc).join(" &middot; ");
+  const rating = l.rating ? `${l.rating}★ (${l.review_count} reviews on Google)` : "";
+  return `<div class="card">
+    <div class="row1">
+      <span class="name">${esc(l.business_name)}</span>
+      <span class="badge" style="color:${col};border-color:${col}">${ICONS[l.status]||""} ${esc(l.status)}</span>
+    </div>
+    <div class="meta">${bits}${rating ? " &middot; "+rating : ""}</div>
+    <div class="meta score"><b>${l.score??"–"}</b> pitch score &middot; ${esc(l.lead_type||"")}${l.seen?" &middot; found "+l.seen:""}</div>
+    ${l.audit_flags?.length ? `<div class="flags">${l.audit_flags.map(f=>`<span class="flag">${esc(f)}</span>`).join("")}</div>` : ""}
+    ${l.notes ? `<div class="notes">${esc(l.notes)}</div>` : ""}
+    <div class="actions">
+      ${previewUrl ? `<a href="${previewUrl}" target="_blank">Open preview</a>
+        <button data-qr-url="${esc(previewUrl)}" data-qr-name="${esc(l.business_name)}">QR code</button>` : ""}
+      ${l.website ? `<a href="${esc(l.website)}" target="_blank" rel="noopener">Current site</a>` : ""}
+      ${l.phone ? `<a href="tel:${esc(l.phone)}">Call</a>` : ""}
+      ${l.address ? `<a href="https://maps.google.com/?q=${encodeURIComponent(l.address)}" target="_blank">Map</a>` : ""}
+    </div>
+  </div>`;
+}
+function render(){
+  tiles(); filters();
+  const shown = leads.filter(l=>filter==="all"||l.status===filter);
+  document.getElementById("list").innerHTML =
+    shown.length ? shown.map(card).join("") : `<div class="empty">No leads in this view yet.</div>`;
+}
+function showQR(name,url){
+  document.getElementById("qrname").textContent = name;
+  document.getElementById("qrurl").textContent = url;
+  const box = document.getElementById("qrbox"); box.innerHTML = "";
+  if (typeof QRCode !== "undefined") {
+    new QRCode(box,{text:url,width:200,height:200,correctLevel:QRCode.CorrectLevel.M});
+  } else {
+    box.textContent = "QR library didn't load — share the URL below instead.";
+    box.style.maxWidth = "220px"; box.style.color = "#444"; box.style.font = "13px system-ui";
+  }
+  document.getElementById("qrdlg").showModal();
+}
+document.getElementById("list").addEventListener("click", e => {
+  const b = e.target.closest("[data-qr-url]");
+  if (b) showQR(b.dataset.qrName, b.dataset.qrUrl);
+});
+render();
+</script>
+</body>
+</html>

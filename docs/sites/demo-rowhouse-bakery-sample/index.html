@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rowhouse Bakery — South Philadelphia</title>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Rowhouse Bakery",
+    "address": {"@type": "PostalAddress", "streetAddress": "1900 Demo St", "addressLocality": "Philadelphia", "addressRegion": "PA", "postalCode": "19145"},
+    "telephone": "+1-215-555-0134"
+  }
+  </script>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:#fafaf9;color:#1c1917;line-height:1.55;padding-bottom:64px}
+    a{text-decoration:none}
+    .hero{background:linear-gradient(135deg,#7c2d12 0%,#b45309 55%,#d97706 100%);color:#fff;text-align:center;padding:64px 24px 80px}
+    .hero-inner{max-width:720px;margin:0 auto}
+    .pill{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;background:rgba(255,255,255,.15);border-radius:999px;padding:6px 16px;margin-bottom:24px}
+    h1{font-size:clamp(34px,7vw,48px);font-weight:800;letter-spacing:-.02em;margin-bottom:14px}
+    .tag{font-size:18px;color:#fde8c8;margin-bottom:10px}
+    .rating{color:#fde8c8;margin-bottom:32px}
+    .rating small{color:rgba(253,232,200,.7)}
+    .cta-row{display:flex;flex-wrap:wrap;gap:12px;justify-content:center}
+    .btn{display:inline-block;font-weight:700;border-radius:12px;padding:14px 30px;transition:.15s}
+    .btn-light{background:#fff;color:#7c2d12;box-shadow:0 8px 20px rgba(0,0,0,.18)}
+    .btn-light:hover{background:#fef3e2}
+    .btn-ghost{background:rgba(60,20,4,.35);border:1px solid rgba(255,255,255,.35);color:#fff}
+    .btn-ghost:hover{background:rgba(60,20,4,.55)}
+    .hours-banner{background:#fef3c7;border-top:1px solid #fde68a;border-bottom:1px solid #fde68a;color:#78350f;font-weight:500;font-size:14.5px;text-align:center;padding:14px 24px}
+    .section{max-width:720px;margin:0 auto;padding:52px 24px;text-align:center}
+    .card{background:#fff;border:1px solid #e7e5e4;border-radius:18px;box-shadow:0 1px 3px rgba(0,0,0,.05);padding:44px 32px}
+    .card h2{font-size:24px;font-weight:800;margin-bottom:12px}
+    .card p{color:#78716c;max-width:420px;margin:0 auto 28px}
+    .btn-amber{background:#b45309;color:#fff}
+    .btn-amber:hover{background:#92400e}
+    .badges{max-width:720px;margin:0 auto;padding:0 24px 60px;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px}
+    .badge-card{background:#fff;border:1px solid #e7e5e4;border-radius:14px;padding:26px 18px;text-align:center}
+    .badge-card .em{font-size:26px;margin-bottom:8px}
+    .badge-card b{display:block;font-size:15.5px}
+    .badge-card span{color:#78716c;font-size:13.5px}
+    footer{border-top:1px solid #e7e5e4;padding:32px 24px;text-align:center;font-size:14px;color:#78716c}
+    footer b{color:#44403c;display:block;margin-bottom:4px}
+    footer a{color:#b45309;text-decoration:underline}
+    #preview-ribbon{position:fixed;bottom:0;left:0;right:0;z-index:99999;background:#111827;color:#f9fafb;text-align:center;padding:10px 16px;font:600 13px/1.5 system-ui,-apple-system,sans-serif;box-shadow:0 -2px 8px rgba(0,0,0,.25)}
+  </style>
+</head>
+<body>
+
+  <!-- Hero: no photos in payload → gradient + typography, per anti-hallucination rule 4 -->
+  <header class="hero">
+    <div class="hero-inner">
+      <span class="pill">South Philadelphia · Bakery</span>
+      <h1>Rowhouse Bakery</h1>
+      <p class="tag">Fresh-baked, neighborhood-owned, right here in South Philly.</p>
+      <p class="rating"><strong>4.8★</strong> · 127 reviews <small>(Rating on Google)</small></p>
+      <div class="cta-row">
+        <a class="btn btn-light" href="tel:+12155550134">📞 Call Now</a>
+        <a class="btn btn-ghost" href="https://maps.google.com/?q=1900%20Demo%20St%2C%20Philadelphia%2C%20PA%2019145">📍 Get Directions</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hours null → banner, not a fabricated schedule, per rule 2 -->
+  <div class="hours-banner">🕐 Contact us directly for today's operating hours.</div>
+
+  <!-- Menu null → inquiry callout with tap-to-call, per rule 3 -->
+  <section class="section">
+    <div class="card">
+      <h2>Inquire Directly for Daily Specials &amp; Full Menu</h2>
+      <p>Our lineup changes with what's fresh. Give us a ring and we'll tell you what's in the case today.</p>
+      <a class="btn btn-amber" href="tel:+12155550134">📞 (215) 555-0134</a>
+    </div>
+  </section>
+
+  <section class="badges">
+    <div class="badge-card"><div class="em">🏠</div><b>Neighborhood Owned</b></div>
+    <div class="badge-card"><div class="em">⭐</div><b>4.8 on Google</b><span>127 reviews</span></div>
+    <div class="badge-card"><div class="em">📍</div><b>1900 Demo St</b><span>Philadelphia, PA 19145</span></div>
+  </section>
+
+  <footer>
+    <b>Rowhouse Bakery</b>
+    <p>1900 Demo St, Philadelphia, PA 19145 · <a href="tel:+12155550134">(215) 555-0134</a></p>
+  </footer>
+
+  <div id="preview-ribbon">Design preview prepared for Rowhouse Bakery (fictional demo) by Connor &mdash; not the official website.</div>
+</body>
+</html>

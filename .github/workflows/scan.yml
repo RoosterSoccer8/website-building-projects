@@ -1,0 +1,48 @@
+name: Daily lead scan
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 8:00 AM Philadelphia (EDT) daily
+  workflow_dispatch:
+    inputs:
+      categories:
+        description: "Optional comma-separated categories (blank = today's rotation)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Scan Google Maps for new leads
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          SCAN_CATEGORIES: ${{ inputs.categories }}
+        run: python scanner.py
+
+      - name: Rebuild dashboard
+        run: python build_dashboard.py
+
+      - name: Commit results
+        run: |
+          git config user.name "lead-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add leads.json docs/
+          git diff --cached --quiet || git commit -m "Daily scan: $(date -u +%F)"
+          git pull --rebase origin main
+          git push

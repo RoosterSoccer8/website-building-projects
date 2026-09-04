@@ -1,0 +1,24 @@
+{
+  "leads": {
+    "DEMO_PLACE_ID_DELETE_ME": {
+      "slug": "demo-rowhouse-bakery-sample",
+      "business_name": "Rowhouse Bakery (fictional demo — delete me)",
+      "status": "generated",
+      "lead_type": "NO_WEBSITE",
+      "category": "Bakery",
+      "address": "1900 Demo St, Philadelphia, PA 19145",
+      "zip": "19145",
+      "phone": "(215) 555-0134",
+      "rating": 4.8,
+      "review_count": 127,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 94.0,
+      "notes": "This is a fictional sample so you can see the dashboard and preview style. Delete this entry from leads.json (and docs/sites/demo-rowhouse-bakery-sample/) once real leads arrive.",
+      "seen": "2026-08-28",
+      "generated_at": "2026-08-28",
+      "preview_path": "sites/demo-rowhouse-bakery-sample/"
+    }
+  }
+}

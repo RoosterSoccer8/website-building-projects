@@ -1,0 +1,59 @@
+name: Build previews
+
+# Runs when you flag leads:
+#  - automatically, whenever leads.json is edited on GitHub (set a lead's
+#    status to "build" from the GitHub mobile app and commit), or
+#  - manually from the Actions tab, optionally naming specific slugs.
+#
+# Note: commits pushed by the scan workflow use the default GITHUB_TOKEN,
+# which does not re-trigger workflows — no loops.
+
+on:
+  push:
+    branches: [main]
+    paths: ["leads.json"]
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: "Comma-separated slugs (blank = all leads with status 'build')"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # build on latest main even if triggered by an older push
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Generate preview sites for flagged leads
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        run: python generator.py "${{ inputs.slugs }}"
+
+      - name: Rebuild dashboard
+        run: python build_dashboard.py
+
+      - name: Commit results
+        run: |
+          git config user.name "lead-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add leads.json docs/
+          git diff --cached --quiet || git commit -m "Build previews: $(date -u +%F)"
+          git pull --rebase origin main
+          git push
