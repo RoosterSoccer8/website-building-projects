@@ -6636,6 +6636,1492 @@
       "seen": "2026-09-10",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJKSywaiLFxokR51GKbR-Z9E4": {
+      "business_name": "Fusion Gyms",
+      "status": "skipped_good_site",
+      "website": "https://www.fusiongyms.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJk3MU5tnFxokRuUXyBfSE-rY": {
+      "business_name": "Planet Fitness",
+      "status": "skipped_unverified",
+      "website": "https://www.planetfitness.com/gyms/philadelphia-south-philly-pa?utm_medium=organic&utm_source=extnet",
+      "seen": "2026-09-12"
+    },
+    "ChIJMYIU9FrHxokRS4uTwu-b2R8": {
+      "business_name": "City Fitness - East Passyunk",
+      "status": "skipped_good_site",
+      "website": "https://cityfitnessphilly.com/east-passyunk-club/",
+      "seen": "2026-09-12"
+    },
+    "ChIJRYXHWETJxokRoFAYj3d8NRc": {
+      "business_name": "Planet Fitness",
+      "status": "skipped_unverified",
+      "website": "https://www.planetfitness.com/gyms/philadelphia-columbus-blvd-pa?utm_medium=organic&utm_source=extnet",
+      "seen": "2026-09-12"
+    },
+    "ChIJO_QXsh3GxokRc3f2lCD07rI": {
+      "slug": "fitness-works-philadelphia-cd07ri",
+      "business_name": "Fitness Works Philadelphia",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Fitness center",
+      "address": "714 Reed St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 334-8190",
+      "rating": 4.4,
+      "review_count": 211,
+      "hours": [
+        "Monday: 5:00 AM – 9:00 PM",
+        "Tuesday: 5:00 AM – 9:00 PM",
+        "Wednesday: 5:00 AM – 9:00 PM",
+        "Thursday: 5:00 AM – 9:00 PM",
+        "Friday: 5:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: 7:00 AM – 4:00 PM"
+      ],
+      "website": "http://www.fitnessworksphiladelphia.com/",
+      "audit_flags": [
+        "stale_copyright_2020"
+      ],
+      "score": 76.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJCwROWj_GxokRYnLZpNNC034": {
+      "business_name": "City Fitness - Graduate Hospital",
+      "status": "skipped_good_site",
+      "website": "https://cityfitnessphilly.com/graduate-hospital-club/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ1fNKkgvGxokR_TAGMxQjwIw": {
+      "slug": "body-world-fitness-xqjwiw",
+      "business_name": "Body World Fitness",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Gym",
+      "address": "1622 Passyunk Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 334-3325",
+      "rating": 4.6,
+      "review_count": 70,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 1:00 PM"
+      ],
+      "website": "http://www.besttrainingprogram.com/",
+      "audit_flags": [
+        "no_https",
+        "not_mobile_responsive"
+      ],
+      "score": 69.2,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJcSHcERvGxokRPXZftV9UWhM": {
+      "slug": "sweat-fitness-v9uwhm",
+      "business_name": "Sweat Fitness",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Fitness center",
+      "address": "1509 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 485-3181",
+      "rating": 3.7,
+      "review_count": 179,
+      "hours": [
+        "Monday: 5:30 AM – 10:00 PM",
+        "Tuesday: 5:30 AM – 10:00 PM",
+        "Wednesday: 5:30 AM – 10:00 PM",
+        "Thursday: 5:30 AM – 10:00 PM",
+        "Friday: 5:30 AM – 9:00 PM",
+        "Saturday: 7:30 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ],
+      "website": "https://sweatfitness.com/",
+      "audit_flags": [
+        "stale_copyright_2022"
+      ],
+      "score": 75.4,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJczU4_J7IxokRz2IJQ5BJBQ0": {
+      "slug": "sweat-fitness-queen-village-location-5bjbq0",
+      "business_name": "Sweat Fitness - Queen Village Location",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Fitness center",
+      "address": "700 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 635-2670",
+      "rating": 3.8,
+      "review_count": 190,
+      "hours": [
+        "Monday: 5:30 AM – 10:00 PM",
+        "Tuesday: 5:30 AM – 10:00 PM",
+        "Wednesday: 5:30 AM – 10:00 PM",
+        "Thursday: 5:30 AM – 10:00 PM",
+        "Friday: 5:30 AM – 9:00 PM",
+        "Saturday: 7:30 AM – 5:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ],
+      "website": "https://sweatfitness.com/",
+      "audit_flags": [
+        "stale_copyright_2022"
+      ],
+      "score": 75.6,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ62jaE57FxokRfj6cvqFz1L0": {
+      "slug": "lcm-fitness-south-philly-qfz1l0",
+      "business_name": "LCM Fitness - South Philly",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Gym",
+      "address": "1536 W Moyamensing Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": null,
+      "rating": 5,
+      "review_count": 14,
+      "hours": [
+        "Monday: 6:00 AM – 9:00 PM",
+        "Tuesday: 6:00 AM – 9:00 PM",
+        "Wednesday: 6:00 AM – 9:00 PM",
+        "Thursday: 6:00 AM – 9:00 PM",
+        "Friday: 6:00 AM – 9:00 PM",
+        "Saturday: 6:00 AM – 9:00 PM",
+        "Sunday: 6:00 AM – 9:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 72.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJw8jy3QDHxokRIENyZzzQIds": {
+      "business_name": "Planet Fitness",
+      "status": "skipped_unverified",
+      "website": "https://www.planetfitness.com/gyms/philadelphia-washington-ave-pa?utm_medium=yext&utm_source=extnet",
+      "seen": "2026-09-12"
+    },
+    "ChIJh7lOOJrIxokR2PS8Hg7t290": {
+      "business_name": "MASS F.I.T.",
+      "status": "skipped_good_site",
+      "website": "https://www.mass-fit.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJz1M3uJ7IxokRG6yoMfk5uMQ": {
+      "business_name": "G-Strength (Queen Village)",
+      "status": "skipped_good_site",
+      "website": "https://g-strength.com/queen-village/",
+      "seen": "2026-09-12"
+    },
+    "ChIJl8lvq6vHxokRvWOafexOQUA": {
+      "business_name": "Strength Haüs",
+      "status": "skipped_good_site",
+      "website": "http://strengthhaus.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJfaLrYG7HxokR0fpcUY4uF8k": {
+      "business_name": "Christian Street YMCA",
+      "status": "skipped_good_site",
+      "website": "https://www.philaymca.org/locations/christian-street-ymca",
+      "seen": "2026-09-12"
+    },
+    "ChIJvRpBEhXGxokR0IgJy9l6MVw": {
+      "slug": "openbox-athletics-crossfit-gym-center-ci-9l6mvw",
+      "business_name": "OpenBox Athletics | CrossFit Gym Center City Philadelphia",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Gym",
+      "address": "1935-31 Washington Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 787-2463",
+      "rating": 4.9,
+      "review_count": 182,
+      "hours": [
+        "Monday: 5:30 AM – 10:00 PM",
+        "Tuesday: 5:30 AM – 10:00 PM",
+        "Wednesday: 5:30 AM – 10:00 PM",
+        "Thursday: 5:30 AM – 10:00 PM",
+        "Friday: 5:30 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: 8:00 AM – 3:00 PM"
+      ],
+      "website": "http://www.openboxathletics.com/",
+      "audit_flags": [
+        "stale_copyright_2022"
+      ],
+      "score": 77.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJR5pKUQTGxokRDoWRiJA3DeI": {
+      "business_name": "KG Strong",
+      "status": "skipped_good_site",
+      "website": "https://kgstrongtraining.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJXw956mnHxokReF6BEvdTSOU": {
+      "business_name": "F45 Training South St Philly",
+      "status": "skipped_good_site",
+      "website": "https://f45training.com/southstphiladelphia/home",
+      "seen": "2026-09-12"
+    },
+    "ChIJbe5VM7vHxokR1mnuzdLrxuY": {
+      "slug": "warhorse-barbell-club-south-dlrxuy",
+      "business_name": "Warhorse Barbell Club South",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Gym",
+      "address": "2201 Washington Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": 5,
+      "review_count": 76,
+      "hours": [
+        "Monday: 6:00 – 11:00 AM, 4:00 – 7:00 PM",
+        "Tuesday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+        "Wednesday: 6:00 – 11:00 AM, 4:00 – 7:00 PM",
+        "Thursday: 7:00 – 11:00 AM, 4:00 – 7:00 PM",
+        "Friday: 6:00 – 11:00 AM, 4:00 – 7:00 PM",
+        "Saturday: 9:00 – 11:00 AM",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.warhorsebarbellclub.com/grad-hospital",
+      "audit_flags": [
+        "dead_http_404"
+      ],
+      "score": 63.2,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJOflUnf7FxokRfVhJ3teukAg": {
+      "slug": "body-is-the-temple-teukag",
+      "business_name": "Body Is THE TEMPLE",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Gym",
+      "address": "2647 S Beulah St 2nd flr, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(814) 483-4827",
+      "rating": 4.6,
+      "review_count": 39,
+      "hours": [
+        "Monday: 6:30 AM – 8:30 PM",
+        "Tuesday: 6:30 AM – 8:30 PM",
+        "Wednesday: 6:30 AM – 8:30 PM",
+        "Thursday: 6:30 AM – 8:30 PM",
+        "Friday: 6:30 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 77.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJeTXhXRzGxokRT2zeuxaEPVk": {
+      "business_name": "PHL Athletics",
+      "status": "skipped_good_site",
+      "website": "https://phlathletics.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ5b34c33FxokRHc7vm_jnTBQ": {
+      "business_name": "CKO Kickboxing South Philly",
+      "status": "skipped_good_site",
+      "website": "https://www.ckokickboxing.com/pa-philadelphia-south-philly/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ-_HCp-DHxokRJrFjk8UtIVg": {
+      "business_name": "Control Lab (Graduate Hospital)",
+      "status": "skipped_good_site",
+      "website": "http://www.controlabphilly.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJofifcC7HxokRY9FZVqbcIt0": {
+      "business_name": "On Track Fitness",
+      "status": "skipped_good_site",
+      "website": "https://www.on-track-fitness.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJlYcNO3rHxokRCQcyLHr5Wms": {
+      "business_name": "Train & Nourish - Personal Trainer Philadelphia East Passyunk",
+      "status": "skipped_good_site",
+      "website": "https://trainandnourish.com/personal-training-studio-philadelphia/east-passyunk/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ6-07pzrGxokRShiPrkHMXck": {
+      "business_name": "SelfEmbodiment Fitness",
+      "status": "skipped_good_site",
+      "website": "https://selfembodiment.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJK5PrQqfJxokROplx9A8IvpA": {
+      "slug": "on-track-fitness-a8ivpa",
+      "business_name": "On Track Fitness",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Gym",
+      "address": "842 S 2nd St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 201-0986",
+      "rating": 4.5,
+      "review_count": 8,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": "http://www.on-track-fitness.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 48.6,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJoRRLy57IxokR_X3gQBU3ylk": {
+      "slug": "optimal-gym-bu3ylk",
+      "business_name": "Optimal Gym",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Fitness center",
+      "address": "325 Bainbridge St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": null,
+      "rating": 3.4,
+      "review_count": 46,
+      "hours": [
+        "Monday: 8:00 AM – 9:30 PM",
+        "Tuesday: 8:00 AM – 9:30 PM",
+        "Wednesday: 8:00 AM – 9:30 PM",
+        "Thursday: 8:00 AM – 9:30 PM",
+        "Friday: 8:00 AM – 9:30 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: 8:00 AM – 6:00 PM"
+      ],
+      "website": "http://optimalgym.com/",
+      "audit_flags": [
+        "no_https",
+        "stale_copyright_2019"
+      ],
+      "score": 62.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJt6qz0WDFxokRQdBvlstUEmg": {
+      "business_name": "R/M Fitness",
+      "status": "skipped_unverified",
+      "website": "http://instagram.com/rmfitness_philly",
+      "seen": "2026-09-12"
+    },
+    "ChIJG4ACxgvGxokRim_o1O9KtmE": {
+      "business_name": "Guerin Recreation Center",
+      "status": "skipped_good_site",
+      "website": "http://www.phila.gov/",
+      "seen": "2026-09-12"
+    },
+    "ChIJqXVUbkLHxokR6ePQ_kb96lY": {
+      "business_name": "G-Strength (South Street)",
+      "status": "skipped_good_site",
+      "website": "https://g-strength.com/personal-training-in-philadelphiapa-south-street/",
+      "seen": "2026-09-12"
+    },
+    "ChIJO5vwjUPHxokRRRkIxXlJzKg": {
+      "business_name": "On Track Fitness",
+      "status": "skipped_good_site",
+      "website": "https://www.on-track-fitness.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ___vrR3GxokRNXDvV-LoL8Q": {
+      "business_name": "Fitness Alive South Philly",
+      "status": "skipped_good_site",
+      "website": "http://fitnessalivephilly.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJe_FyF6TIxokRZE22uAetv-o": {
+      "business_name": "CrossFit 2 St.",
+      "status": "skipped_good_site",
+      "website": "http://www.crossfit2st.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ1yoMaQzGxokRI71SVFEKBVk": {
+      "slug": "flaunt-fitness-west-fekbvk",
+      "business_name": "Flaunt Fitness West",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Fitness center",
+      "address": "1939 S 17th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 699-6636",
+      "rating": 4.8,
+      "review_count": 116,
+      "hours": null,
+      "website": "http://www.flauntfitness.net/",
+      "audit_flags": [
+        "stale_copyright_2015"
+      ],
+      "score": 70.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJuxqHrJ7IxokRMikMBO_QsH0": {
+      "business_name": "SOLMAR Pilates + Holistic Wellness - Fitler Square",
+      "status": "skipped_good_site",
+      "website": "http://www.solmarpilates.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJNdUTIADHxokR-89g6CEVNtQ": {
+      "business_name": "Juniper Muay Thai Gym",
+      "status": "skipped_good_site",
+      "website": "http://www.junipermuaythai.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJv8kMr0XHxokR8jZd9YbbYXI": {
+      "business_name": "Passyunk Pilates",
+      "status": "skipped_good_site",
+      "website": "http://passyunkpilates.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJTR7qrgXGxokRXYx3yToEtQA": {
+      "business_name": "East Passyunk Community Recreation Center",
+      "status": "skipped_good_site",
+      "website": "http://www.eastpassyunkcommunitycenter.org/",
+      "seen": "2026-09-12"
+    },
+    "ChIJM5p4fAnHxokRN-uqQ5qSOio": {
+      "business_name": "Passyunk Pilates (Studio 1)",
+      "status": "skipped_good_site",
+      "website": "https://passyunkpilates.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJL8nQExvGxokRESjlC7ja2zs": {
+      "business_name": "Movement Source Pilates Studio",
+      "status": "skipped_good_site",
+      "website": "http://www.movementsource.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ8U5w0RrGxokRQZ9ofBbVYBM": {
+      "slug": "t-n-bbvybm",
+      "business_name": "T & N",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Fitness center",
+      "address": "1617 Passyunk Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": null,
+      "rating": 5,
+      "review_count": 2,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 70.4,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJtf9fRtnHxokR2Dqdpr6b5XY": {
+      "business_name": "Social Beings",
+      "status": "skipped_good_site",
+      "website": "https://social-beings.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ310X2j3GxokRQ37R5YqiMtA": {
+      "business_name": "Marian Anderson Recreation Center",
+      "status": "skipped_good_site",
+      "website": "http://www.phila.gov/findafacility/RecCenterDetails.aspx?id=706",
+      "seen": "2026-09-12"
+    },
+    "ChIJt1Nhm1jHxokRzf0aAVPITGs": {
+      "business_name": "MVMNT Graduate Hospital",
+      "status": "skipped_unverified",
+      "website": "https://mvmnt.life/locations/graduate-hospital/",
+      "seen": "2026-09-12"
+    },
+    "ChIJeasNC3DGxokRq1D_oG_7bds": {
+      "business_name": "Vare Recreation Center",
+      "status": "skipped_good_site",
+      "website": "https://www.phila.gov/programs/rebuild/project-sites/vare-recreation-center/",
+      "seen": "2026-09-12"
+    },
+    "ChIJt6DcBZ_HxokRCVCowUZKRAg": {
+      "business_name": "JETSET Modern Pilates - Graduate Hospital",
+      "status": "skipped_good_site",
+      "website": "https://jetsetpilates.com/pa/graduate-hospital/",
+      "seen": "2026-09-12"
+    },
+    "ChIJd_oZtj7GxokR12f5663qZA8": {
+      "business_name": "Zarett Rehab & Fitness",
+      "status": "skipped_good_site",
+      "website": "https://zarettrehab.com/?utm_campaign=gmb&utm_medium=organic&utm_source=gbp",
+      "seen": "2026-09-12"
+    },
+    "ChIJC3iY02LHxokRHM6ZOnQBpG8": {
+      "business_name": "HPY Philly - Hot Power Yoga & Pilates",
+      "status": "skipped_good_site",
+      "website": "https://www.hpyphilly.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ5Z_rYCDGxokRpLvAKHn9g30": {
+      "business_name": "Philly InMovement - Queen Village",
+      "status": "skipped_good_site",
+      "website": "http://www.phillyinmovement.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ2SizThbGxokR7vfGTQwUBOc": {
+      "slug": "feelean-fitness-qwuboc",
+      "business_name": "Feelean Fitness",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Gym",
+      "address": "1559 Washington Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": null,
+      "review_count": null,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJP_uiBFDHxokRcUGn0z8Ib9o": {
+      "business_name": "Mix Fit Nutrition",
+      "status": "skipped_good_site",
+      "website": "http://gethealthyandfitnow.net/",
+      "seen": "2026-09-12"
+    },
+    "ChIJoRRLy57IxokRHMAqEYglkPE": {
+      "business_name": "Gracie Academy Philadelphia",
+      "status": "skipped_good_site",
+      "website": "http://www.gracieacademyphiladelphia.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJFejvwRTGxokROIMtJ8vk86M": {
+      "business_name": "Tuck Barre & Yoga Graduate Hospital",
+      "status": "skipped_good_site",
+      "website": "https://tuckbarreyoga.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJZ1uU56rHxokRQX4wG_V8LT8": {
+      "business_name": "Center City Breathe",
+      "status": "skipped_good_site",
+      "website": "http://www.centercitybreathe.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJQR-zaxfGxokRrbe_jhMkMUM": {
+      "business_name": "Osagame Martial Arts and Fitness",
+      "status": "skipped_good_site",
+      "website": "http://www.osagame.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJwZYWGQTGxokRc04y1uSpwo4": {
+      "business_name": "Royal StriKing Muay Thai & BJJ",
+      "status": "skipped_good_site",
+      "website": "http://royalstriking.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJyV_Rxz7GxokRVaAoGmSyIls": {
+      "slug": "fitness-works-personal-training-msyils",
+      "business_name": "Fitness Works Personal Training",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Health",
+      "address": "530 S 19th St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 808-1522",
+      "rating": 4.7,
+      "review_count": 3,
+      "hours": null,
+      "website": "http://fitness-works.biz/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 48.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ2Ubxc-zHxokRMuXcBUSO8Rc": {
+      "business_name": "Stretch Zone",
+      "status": "skipped_good_site",
+      "website": "https://www.stretchzone.com/locations/south-philly-pa",
+      "seen": "2026-09-12"
+    },
+    "ChIJNc9nL9PHxokRJ1ekMBLm1Dw": {
+      "business_name": "Boxing on Broad",
+      "status": "skipped_good_site",
+      "website": "http://www.boxingonbroad.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJt2zBYELHxokR0AiY0TzZ2Ik": {
+      "slug": "megabalanced-tzz2ik",
+      "business_name": "Megabalanced",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Yoga Studio",
+      "address": "1742 S 24th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(856) 889-6125",
+      "rating": 5,
+      "review_count": 2,
+      "hours": [
+        "Monday: 6:00 AM – 8:00 PM",
+        "Tuesday: 6:00 AM – 8:00 PM",
+        "Wednesday: 6:00 AM – 8:00 PM",
+        "Thursday: 6:00 AM – 8:00 PM",
+        "Friday: 6:00 AM – 8:00 PM",
+        "Saturday: 6:00 AM – 8:00 PM",
+        "Sunday: 6:00 AM – 8:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.4,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJC35Qpp7HxokR28r3BG3_wlQ": {
+      "business_name": "HPY Philly - Hot Power Yoga & Pilates",
+      "status": "skipped_good_site",
+      "website": "http://www.hpyphilly.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJEfM9kJzFxokRzkV-sdLOwZc": {
+      "business_name": "Top Shelf Cleaning and Organizing Service Philadelphia,Pa",
+      "status": "skipped_good_site",
+      "website": "https://topshelfcleaningandorganizingservice.my.canva.site/top-shelf-cleaning-organizing-service-llc",
+      "seen": "2026-09-12"
+    },
+    "ChIJb8LahUE9MCARGM86yFx9q28": {
+      "business_name": "Dhalias cleaning services LLC",
+      "status": "skipped_good_site",
+      "website": "https://www.dhaliascleaningservices.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJ5c3ccQfHxokR8JW_D8p7C6k": {
+      "business_name": "Cruz Cleaning Crews LLC",
+      "status": "skipped_good_site",
+      "website": "https://www.cruzcleaningcrewspa.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJacZ_JdvHxokRJRjttkzyk9E": {
+      "business_name": "AO professional cleaning LLC",
+      "status": "skipped_unverified",
+      "website": "https://www.aoprofessionalcleaning.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJW7ma7-jHxokR9BUTtKN4y5U": {
+      "business_name": "Domenic's Cleaning Service",
+      "status": "skipped_good_site",
+      "website": "https://domenicscleaning.b12sites.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJaRNTkAK0xokRYVsgGpfRJvo": {
+      "business_name": "DB Cleaning Services",
+      "status": "skipped_good_site",
+      "website": "https://mydbcleaning.com/?utm_campaign=gmb",
+      "seen": "2026-09-12"
+    },
+    "ChIJ_TXi_v3JxokRM4xch_XpCqo": {
+      "business_name": "Clear Reflection Cleaning Service",
+      "status": "skipped_good_site",
+      "website": "http://www.clearreflectioncleaning.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJpYvMBm7HxokRUeGQ3ww7sYs": {
+      "slug": "nathaniel-s-cleaning-services-and-demoli-ww7sys",
+      "business_name": "Nathaniel's Cleaning Services and demolition",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Services",
+      "address": "2307 bambrey terrace, 1374 dyre st, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 817-0794",
+      "rating": 4.9,
+      "review_count": 38,
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "website": "http://nathanielcleaningservice.com/",
+      "audit_flags": [
+        "dead_http_404"
+      ],
+      "score": 55.4,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJSc540CLHxokRhUNCCKCAwRI": {
+      "business_name": "XpressMaids House Cleaning South Phila Inc",
+      "status": "skipped_good_site",
+      "website": "https://www.xpress-maids.com/office-cleaning-philadelphia-pa-19148/",
+      "seen": "2026-09-12"
+    },
+    "ChIJPRU9OwDHxokRmZ24IaGMvII": {
+      "business_name": "MULTI-PRO Cleaning Services",
+      "status": "skipped_good_site",
+      "website": "https://multi-procleaningservices.org/",
+      "seen": "2026-09-12"
+    },
+    "ChIJY4R3UXvGxokRWT1T4M7V034": {
+      "slug": "super-cleaning-services-m7v034",
+      "business_name": "super cleaning services",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Services",
+      "address": "1618 S 30th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 474-0599",
+      "rating": 5,
+      "review_count": 4,
+      "hours": null,
+      "website": "http://www.supercleaningservicesinc.com/contact-us/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 48.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJeXDX6YXHxokR7aQguI1WLQM": {
+      "slug": "jd-cleaning-services-pa-i1wlqm",
+      "business_name": "JD Cleaning Services PA",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "424 Moore St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(267) 974-4953",
+      "rating": 5,
+      "review_count": 4,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ5cz79DjFxokR89rUphCd3Ps": {
+      "business_name": "ServiceMaster TBS - Philadelphia",
+      "status": "skipped_good_site",
+      "website": "http://www.servicemasterclean.com/tbs",
+      "seen": "2026-09-12"
+    },
+    "ChIJgf3uBnXGxokRVvaVJ8kox_c": {
+      "business_name": "Nu Way Discount Cleaners",
+      "status": "skipped_good_site",
+      "website": "http://www.nuwayorganicdrycleaning.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJs7MMiRvGxokRdMHbuBleioo": {
+      "slug": "lime-cleaners-bleioo",
+      "business_name": "Lime Cleaners",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Laundry",
+      "address": "1357 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 773-8641",
+      "rating": 4,
+      "review_count": 20,
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 72.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJtX4aPwPGxokRkae7ZVUpTmc": {
+      "slug": "sparkling-cleaners-vuptmc",
+      "business_name": "Sparkling Cleaners",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "1303 S 7th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 909-1236",
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJVVUQSALGxokRgsCLCWRQ9GA": {
+      "slug": "bas-cleaning-and-construction-company-ll-wrq9ga",
+      "business_name": "Bas Cleaning And Construction Company llc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "607 Dudley St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(267) 250-1729",
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJU8w-PBDGxokR59-5ZaBwGNs": {
+      "business_name": "Broad Street Cleaners",
+      "status": "skipped_good_site",
+      "website": "http://broadstreetdrycleaners.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJDbjHGQ7GxokRrXJZ9MFTEoc": {
+      "slug": "duong-s-cleaners-mfteoc",
+      "business_name": "Duong's Cleaners",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Laundry",
+      "address": "1514 Morris St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 551-7723",
+      "rating": 5,
+      "review_count": 12,
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 72.4,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJU4WNUAnGxokRjbfaHmcW2cM": {
+      "business_name": "Linn Cleaners",
+      "status": "skipped_good_site",
+      "website": "http://www.linncleaners.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJq6qP5gPGxokRfC2SeVeovjs": {
+      "business_name": "All-Out House Works LLC",
+      "status": "skipped_good_site",
+      "website": "http://www.allouthouseworks.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJBavQZGzGxokRea3bpR4EeiI": {
+      "slug": "scipio-s-commercial-cleaning-r4eeii",
+      "business_name": "Scipio's Commercial Cleaning",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Services",
+      "address": "1901 S 9th St Suite BG, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(855) 438-4248",
+      "rating": 4.8,
+      "review_count": 18,
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "website": "http://www.scipioscommercialcleaning.com/",
+      "audit_flags": [
+        "stale_copyright_2020"
+      ],
+      "score": 51.2,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ49cwR17HxokRHHDdIv_dUD4": {
+      "slug": "mdg-frech-clean-ivdud4",
+      "business_name": "MDG FRECH CLEAN",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "820 McClellan St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": null,
+      "rating": null,
+      "review_count": null,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJq975-_DHxokRNHngx06HyMQ": {
+      "business_name": "Anderson Chimney Sweep Philadelphia",
+      "status": "skipped_good_site",
+      "website": "https://andersonchimneysweepphiladelphia.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJScMrTnHHxokRmHxOuig8Ip0": {
+      "business_name": "NEO Duct Cleaning",
+      "status": "skipped_good_site",
+      "website": "https://neoductcleaning.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJoycxI8LHxokRmqx57vWnpnY": {
+      "slug": "draft-line-air-duct-experts-vwnpny",
+      "business_name": "Draft Line Air Duct Experts",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "1356 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(940) 242-5846",
+      "rating": 5,
+      "review_count": 15,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 73.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJXbc_RA_GxokRNJKh3gWoUzk": {
+      "slug": "k-l-cleaners-gwouzk",
+      "business_name": "K.L. Cleaners",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Laundry",
+      "address": "1949 S 13th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": null,
+      "rating": null,
+      "review_count": null,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJr-Gf0QDGxokRvLVcJs_jUh0": {
+      "business_name": "4J Laundromat",
+      "status": "skipped_good_site",
+      "website": "http://4jlaundromat.com/?utm_source=gmb&utm_medium=organic&utm_campaign=wolf_street",
+      "seen": "2026-09-12"
+    },
+    "ChIJGxuDRy7HxokRvAprZbhZBSE": {
+      "slug": "dom-s-shoe-repair-bhzbse",
+      "business_name": "Dom's Shoe Repair",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "1325 Tasker St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 468-4353",
+      "rating": 4.7,
+      "review_count": 91,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 87.6,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJbe7ccq7HxokRgfB7b4qhrXY": {
+      "business_name": "Good Buy Supply®",
+      "status": "skipped_good_site",
+      "website": "http://www.goodbuysupply.co/",
+      "seen": "2026-09-12"
+    },
+    "ChIJDXO098_HxokR9_NTNcBBipU": {
+      "slug": "j-y-laundromat-cbbipu",
+      "business_name": "J&Y Laundromat",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Laundry",
+      "address": "2011 S 7th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": null,
+      "rating": 4.9,
+      "review_count": 8,
+      "hours": [
+        "Monday: 8:00 AM – 6:30 PM",
+        "Tuesday: 8:00 AM – 6:30 PM",
+        "Wednesday: 8:00 AM – 6:30 PM",
+        "Thursday: 8:00 AM – 6:30 PM",
+        "Friday: 8:00 AM – 6:30 PM",
+        "Saturday: 8:00 AM – 6:30 PM",
+        "Sunday: 8:00 AM – 6:30 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 71.4,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJIerRY7DHxokRah_eYVXEi7k": {
+      "business_name": "S&B Organic Cleaning Solutions",
+      "status": "skipped_good_site",
+      "website": "https://www.sbocsgroup.net/",
+      "seen": "2026-09-12"
+    },
+    "ChIJfzC1SmfHxokRdakM5o0QUwk": {
+      "slug": "xpressmaids-house-cleaning-philadelphia-o0quwk",
+      "business_name": "XpressMaids House Cleaning Philadelphia",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "2501 Wharton St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 888-5770",
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ372p-nbGxokRhbuSEbgllmE": {
+      "slug": "btn-janitorial-services-bgllme",
+      "business_name": "BTN Janitorial Services",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "2202 S Bucknell St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 432-4252",
+      "rating": 5,
+      "review_count": 5,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 71.0,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ0x0rHg_GxokRGmuWbZlxf-M": {
+      "slug": "ten-pennies-florist-flower-delivery-bzlxfm",
+      "business_name": "Ten Pennies Florist & Flower Delivery",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Florist",
+      "address": "1921 S Broad St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 336-3557",
+      "rating": 4.8,
+      "review_count": 204,
+      "hours": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://tenpenniesfloral.com/",
+      "audit_flags": [
+        "near_empty_page"
+      ],
+      "score": 77.6,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJIxEMiBzGxokRZY90MebtrI8": {
+      "business_name": "Stephanie's Flowers",
+      "status": "skipped_good_site",
+      "website": "https://www.stephaniesflowershopphilly.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJk5cpFhTHxokRygyYiL7GeAg": {
+      "slug": "red-flowers-l7geag",
+      "business_name": "Red Flowers",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Florist",
+      "address": "1516 Reed St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 595-2802",
+      "rating": 5,
+      "review_count": 82,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 3:00 PM"
+      ],
+      "website": "https://redflowersllc.com/",
+      "audit_flags": [
+        "near_empty_page"
+      ],
+      "score": 64.4,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJu0x8bAPGxokRXcW7F9dpSdM": {
+      "business_name": "Creations by Coppola",
+      "status": "skipped_good_site",
+      "website": "https://www.creationsbycoppola.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJwWiXUkfGxokRH1Bfhn2VvfI": {
+      "slug": "pure-design-n2vvfi",
+      "business_name": "Pure Design",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Florist",
+      "address": "500 S 22nd St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 545-6666",
+      "rating": 4.8,
+      "review_count": 93,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://puredesignflorist.com/",
+      "audit_flags": [
+        "near_empty_page"
+      ],
+      "score": 66.2,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJMeHuLuDFxokR0ywD-9SQk9E": {
+      "business_name": "Petals Florist & Decorators",
+      "status": "skipped_good_site",
+      "website": "http://www.petalsfloristanddecorators.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJP4dEa-LFxokRwqjNwqy0ZHY": {
+      "business_name": "Petal Pusher",
+      "status": "skipped_good_site",
+      "website": "https://www.petalpusherflowers.net/",
+      "seen": "2026-09-12"
+    },
+    "ChIJya_OIzXJxokR4LdFhrJiPaM": {
+      "business_name": "Walter Pine Floral Studio",
+      "status": "skipped_good_site",
+      "website": "http://walterpine.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJQw-xTSfGxokRIKi6MPSUfBU": {
+      "slug": "cedrone-s-flowers-psufbu",
+      "business_name": "Cedrone's Flowers",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Florist",
+      "address": "800 Lombard St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 629-9858",
+      "rating": 4.5,
+      "review_count": 34,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "http://www.cedronesflowers.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 53.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJtUGnZanIxokRaHEYRWbuX8U": {
+      "business_name": "Quinn's Flower Shop",
+      "status": "skipped_good_site",
+      "website": "https://quinnsflorist.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJA6nQrwHBxokRAlw26A2QMWw": {
+      "business_name": "House of Flowers Philly",
+      "status": "skipped_good_site",
+      "website": "https://www.houseofflowersphilly.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJG1jWwUDGxokR7R17Ye6qQ8Y": {
+      "business_name": "Sweet Pea Event Decorator",
+      "status": "skipped_good_site",
+      "website": "http://www.sweetpeaflowers.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJkYhoHxvGxokRslXjvlAiSuk": {
+      "business_name": "Urban Jungle",
+      "status": "skipped_good_site",
+      "website": "http://urbanjunglephilly.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJvwNick3HxokRIKv_1Y7BCWQ": {
+      "slug": "gift-boutique-creations-y7bcwq",
+      "business_name": "Gift Boutique Creations",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Florist",
+      "address": "1162 S 9th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(856) 316-6308",
+      "rating": 4.9,
+      "review_count": 39,
+      "hours": [
+        "Monday: 10:00 AM – 8:30 PM",
+        "Tuesday: 10:00 AM – 8:30 PM",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 8:30 PM",
+        "Friday: 10:00 AM – 8:30 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 8:30 PM"
+      ],
+      "website": "https://giftboutiquecreations.com/philadelphia-florist-flower-delivery/",
+      "audit_flags": [
+        "near_empty_page"
+      ],
+      "score": 55.6,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ5cy_hAHGxokRN5zq2Wo63fU": {
+      "slug": "pat-florist-wo63fu",
+      "business_name": "Pat FLORIST",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Florist",
+      "address": "608 E Snyder Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(267) 312-9330",
+      "rating": 4.3,
+      "review_count": 6,
+      "hours": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 11:00 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 5:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 69.8,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJOVP1CADJxokRJ46JLjrxhfY": {
+      "business_name": "Holland & Stokes",
+      "status": "skipped_good_site",
+      "website": "https://hollandandstokes.com/",
+      "seen": "2026-09-12"
+    },
+    "ChIJCYW2c97FxokRUtNJ0b9P-Dg": {
+      "business_name": "ACME Markets",
+      "status": "skipped_good_site",
+      "website": "https://local.acmemarkets.com/pa/philadelphia/1901-johnston-st.html",
+      "seen": "2026-09-12"
+    },
+    "ChIJq707s3O3xokRXkPPxIZ-Eo0": {
+      "business_name": "Italian Market 9th Street",
+      "status": "skipped_good_site",
+      "website": "https://www.italianmarketphilly.org/",
+      "seen": "2026-09-12"
+    },
+    "ChIJhYA2gsXJxokR1SR0qSfLG_E": {
+      "business_name": "Michaels",
+      "status": "skipped_good_site",
+      "website": "https://locations.michaels.com/PA/Philadelphia/8354/?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+      "seen": "2026-09-12"
+    },
+    "ChIJT-LZmO3KxokRABQy2GlDja4": {
+      "slug": "ziegfield-florist-gifts-flower-delivery-gldja4",
+      "business_name": "Ziegfield Florist, Gifts & Flower Delivery",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Florist",
+      "address": "14 E Main St, Maple Shade, NJ 08052, USA",
+      "zip": null,
+      "phone": "(856) 667-2101",
+      "rating": 4.6,
+      "review_count": 147,
+      "hours": [
+        "Monday: 9:00 AM – 4:00 PM",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.ziegfieldflorist.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=main_button",
+      "audit_flags": [
+        "stale_copyright_2010"
+      ],
+      "score": 76.6,
+      "notes": "",
+      "seen": "2026-09-12",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
