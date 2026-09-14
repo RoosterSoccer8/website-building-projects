@@ -8841,6 +8841,3834 @@
       "seen": "2026-09-13",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJlT7VlTzGxokRCBFKum31X-I": {
+      "business_name": "Rex at the Royal",
+      "status": "skipped_good_site",
+      "website": "http://rexphl.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJs2tmNubFxokRamoNvUs9GR0": {
+      "business_name": "Chickie's & Pete's",
+      "status": "skipped_good_site",
+      "website": "https://chickiesandpetes.com/location/south-philadelphia-2/?utm_source=gmb&utm_medium=organic&utm_campaign=south_philly",
+      "seen": "2026-09-14"
+    },
+    "ChIJtaDAFQ_GxokReejnTfRLY94": {
+      "business_name": "Le Virtù",
+      "status": "skipped_good_site",
+      "website": "http://www.levirtu.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJW1og2ATGxokRudQGgwqw90Y": {
+      "slug": "south-philly-barbacoa-wqw90y",
+      "business_name": "South Philly Barbacoa",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Mexican Restaurant",
+      "address": "1134 S 9th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 694-3797",
+      "rating": 4.6,
+      "review_count": 2460,
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 6:00 AM – 9:00 PM",
+        "Sunday: 6:00 AM – 9:00 PM"
+      ],
+      "website": "https://chefcristinamartinez.com/restaurantes-y-experiencias/south-philly-barbacoa/",
+      "audit_flags": [
+        "near_empty_page",
+        "not_mobile_responsive"
+      ],
+      "score": 85.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJFUP8EeLFxokRc8OtFMPJMnw": {
+      "business_name": "Scannicchio's",
+      "status": "skipped_good_site",
+      "website": "http://www.scannicchio.online/",
+      "seen": "2026-09-14"
+    },
+    "ChIJZ1xhQgXGxokRKssMj6MaWdA": {
+      "business_name": "Barcelona Wine Bar",
+      "status": "skipped_good_site",
+      "website": "https://www.barcelonawinebar.com/location/philadelphia/?utm_source=yext&utm_medium=localsearch&utm_campaign=landing-page&utm_content=passyunk",
+      "seen": "2026-09-14"
+    },
+    "ChIJs-EGbQ_GxokR8kAldeCnjVY": {
+      "business_name": "Noir Restaurant & Bar",
+      "status": "skipped_good_site",
+      "website": "http://noirrestaurantandbar.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJhUX-_6jIxokR0_6S4NF6sr4": {
+      "business_name": "Moonshine Philly",
+      "status": "skipped_good_site",
+      "website": "https://moonshinephilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJwfA48eLFxokRloeqyIl3jLU": {
+      "business_name": "SouthHouse",
+      "status": "skipped_good_site",
+      "website": "http://www.southhousephilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJv0WxhQ7GxokR80Faw7TNibE": {
+      "business_name": "South Philadelphia Tap Room",
+      "status": "skipped_good_site",
+      "website": "http://southphiladelphiataproom.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ6zAsyqfIxokRgUEWwIqcvXk": {
+      "business_name": "The Dutch",
+      "status": "skipped_good_site",
+      "website": "http://thedutchphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJZaOxu9zFxokRuujP9zluA84": {
+      "slug": "penrose-diner-zlua84",
+      "business_name": "Penrose Diner",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Diner",
+      "address": "2016 Penrose Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 465-1097",
+      "rating": 4.4,
+      "review_count": 5470,
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "website": "http://www.penrosediner.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 76.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ851bnZnIxokRFdlArxg6Yu4": {
+      "business_name": "Bridget Foy's",
+      "status": "skipped_good_site",
+      "website": "http://www.bridgetfoys.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJSbZp9KDJxokRZvQCVNqzq88": {
+      "business_name": "Waltz Restaurant",
+      "status": "skipped_good_site",
+      "website": "https://www.waltzphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJg2ZRTc_HxokRm73PeNNCzbE": {
+      "business_name": "River Twice",
+      "status": "skipped_good_site",
+      "website": "http://www.rivertwicerestaurant.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJR_sXcZnIxokRI6dOYPg_CfU": {
+      "business_name": "La Nonna",
+      "status": "skipped_good_site",
+      "website": "http://ristorantelanonna.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJYbo6YwXGxokRtukCDX00KKw": {
+      "business_name": "Stogie Joe's Tavern",
+      "status": "skipped_good_site",
+      "website": "http://www.stogiejoestavern.net/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ43FLEdjHxokROO1TtOKDTaA": {
+      "business_name": "Irwin's",
+      "status": "skipped_good_site",
+      "website": "https://www.irwinsupstairs.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJH6xFz57IxokRFvflfE0ibVI": {
+      "slug": "southwark-restaurant-e0ibvi",
+      "business_name": "Southwark Restaurant",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "American Restaurant",
+      "address": "701 S 4th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 930-8538",
+      "rating": 4.7,
+      "review_count": 338,
+      "hours": [
+        "Monday: 7:00 PM – 1:00 AM",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 – 11:00 PM",
+        "Friday: 11:30 AM – 2:30 PM, 5:00 PM – 12:00 AM",
+        "Saturday: 11:30 AM – 2:30 PM, 5:00 PM – 12:00 AM",
+        "Sunday: Closed"
+      ],
+      "website": "http://www.southwarkrestaurantphilly.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 77.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJeciRBeLFxokR27sxVM-hz7U": {
+      "slug": "l-angolo-ristorante-vmhz7u",
+      "business_name": "L'Angolo Ristorante",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Italian Restaurant",
+      "address": "1415 W Porter St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 389-4252",
+      "rating": 4.7,
+      "review_count": 766,
+      "hours": [
+        "Monday: 4:30 – 9:00 PM",
+        "Tuesday: 4:30 – 9:00 PM",
+        "Wednesday: 4:30 – 9:00 PM",
+        "Thursday: 4:30 – 9:00 PM",
+        "Friday: 4:30 – 9:45 PM",
+        "Saturday: 4:30 – 9:45 PM",
+        "Sunday: 3:00 – 7:45 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJsTSGghrGxokRI2egPU4sCOI": {
+      "business_name": "The Victor Café",
+      "status": "skipped_good_site",
+      "website": "http://victorcafe.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJnRHaZ7DHxokR4zcFN9gbbko": {
+      "business_name": "Izzy's 33",
+      "status": "skipped_good_site",
+      "website": "http://izzys-33.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJUzTPYfvFxokR2Uj2ZSkN56s": {
+      "business_name": "Luk Fu - Philadelphia Live!",
+      "status": "skipped_good_site",
+      "website": "https://www.livech.com/philadelphia/dine-and-drink/luk-fu?utm_campaign=foodbev%20lukfu-onlinelistings%200426&utm_medium=gbp&utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJzTpvu1XPxokRB87gR9wJ_d4": {
+      "business_name": "Oregon Diner",
+      "status": "skipped_good_site",
+      "website": "http://oregondinerphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ4TpSfn_HxokRNJgy0rTJKVQ": {
+      "business_name": "Mish Mish",
+      "status": "skipped_good_site",
+      "website": "https://www.mishmishphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJVVW8GxrGxokRZJ1JaER4I58": {
+      "slug": "burrata-er4i58",
+      "business_name": "Burrata",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Italian Restaurant",
+      "address": "1247 S 13th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 465-2200",
+      "rating": 4.7,
+      "review_count": 493,
+      "hours": [
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 9:30 PM",
+        "Saturday: 5:00 – 9:30 PM",
+        "Sunday: 4:00 – 8:30 PM"
+      ],
+      "website": "http://www.burrataphilly.com/",
+      "audit_flags": [
+        "stale_copyright_2016"
+      ],
+      "score": 77.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJMUY9oqbFxokReE-rRhYJqzA": {
+      "slug": "1731-restaurant-hyjqza",
+      "business_name": "1731 Restaurant",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Italian Restaurant",
+      "address": "1731 Packer Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 372-7269",
+      "rating": 4.8,
+      "review_count": 150,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 2:00 – 8:00 PM"
+      ],
+      "website": "https://1731restaurant.com/",
+      "audit_flags": [
+        "near_empty_page",
+        "not_mobile_responsive"
+      ],
+      "score": 85.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ20IkHA_GxokRTNzdwP0rnJc": {
+      "business_name": "Ristorante Pesto",
+      "status": "skipped_good_site",
+      "website": "http://www.ristorantepesto.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJf5dA5ArGxokRSPsEAL05Vdg": {
+      "business_name": "Barrel's Fine Food",
+      "status": "skipped_good_site",
+      "website": "https://barrelsfinefood.net/",
+      "seen": "2026-09-14"
+    },
+    "ChIJpzQdugfGxokRc-beSCfPuNo": {
+      "business_name": "Bomb Bomb Bar",
+      "status": "skipped_good_site",
+      "website": "http://bombbombbar.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJYyaheRDGxokR9L5t5b1ldgs": {
+      "business_name": "Green Eggs Cafe",
+      "status": "skipped_good_site",
+      "website": "http://greeneggscafe.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJF6edwzrHxokREqiy4zUGqB0": {
+      "business_name": "El Mictlan Restaurant",
+      "status": "skipped_good_site",
+      "website": "https://elmictlanrestaurantpa.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJOzQiLZrIxokR59aSKTVMlfA": {
+      "business_name": "Pizzeria Stella",
+      "status": "skipped_good_site",
+      "website": "https://pizzeriastella.net/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=MapLabs",
+      "seen": "2026-09-14"
+    },
+    "ChIJVa9DNATHxokRhvmsXGgYFXc": {
+      "slug": "bucatini-caff-ggyfxc",
+      "business_name": "Bucatini Caffè",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Italian Restaurant",
+      "address": "1824 S 13th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 990-2821",
+      "rating": 5,
+      "review_count": 154,
+      "hours": [
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 9:30 PM",
+        "Saturday: 5:00 – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://bucatinicaffe.com/",
+      "audit_flags": [
+        "stale_copyright_2014"
+      ],
+      "score": 78.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJwd8T4h_GxokRabbsrQnnAcY": {
+      "business_name": "Royal Tavern",
+      "status": "skipped_good_site",
+      "website": "https://www.royaltavern.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJPbDGEvjHxokReLMrYJDi2no": {
+      "business_name": "Creme Brulee",
+      "status": "skipped_good_site",
+      "website": "https://cremebruleepassyunk.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ0Z-dttzFxokR_hmyTD7HanA": {
+      "business_name": "Popi's Restaurant",
+      "status": "skipped_good_site",
+      "website": "http://www.popisrestaurant.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJoZYFdA_GxokRix-Wdpw7nO4": {
+      "business_name": "Stargazy",
+      "status": "skipped_good_site",
+      "website": "https://www.stargazywastaken.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJBUclNAXGxokRfGdQRhkXjWw": {
+      "slug": "cantina-los-caballitos-hkxjww",
+      "business_name": "Cantina Los Caballitos",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Mexican Restaurant",
+      "address": "1651 Passyunk Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 755-3550",
+      "rating": 4.3,
+      "review_count": 1765,
+      "hours": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 2:00 AM"
+      ],
+      "website": "http://cantinaloscaballitos.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 76.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJQ-b1FgzGxokRPpM17CqYYAQ": {
+      "business_name": "Second District Brewing",
+      "status": "skipped_good_site",
+      "website": "http://www.seconddistrictbrewing.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJaR4NJBvGxokR0cjQZSlXNhA": {
+      "slug": "perla-slxnha",
+      "business_name": "Perla",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Filipino Restaurant",
+      "address": "1535 S 11th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 480-0344",
+      "rating": 4.6,
+      "review_count": 433,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 9:00 PM",
+        "Saturday: 4:00 – 9:00 PM",
+        "Sunday: 4:00 – 8:30 PM"
+      ],
+      "website": "http://www.perlaphilly.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 77.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ_f_GIg_GxokReUHxNopKMwg": {
+      "business_name": "Pistolas Del Sur",
+      "status": "skipped_good_site",
+      "website": "https://www.pistolaslife.com/del-sur-s-menu",
+      "seen": "2026-09-14"
+    },
+    "ChIJedbG6XTGxokRpOKUo8LQ4gc": {
+      "slug": "old-original-nick-s-roast-beef-8lq4gc",
+      "business_name": "Old Original Nick's Roast Beef",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "American Restaurant",
+      "address": "2149 S 20th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 463-4114",
+      "rating": 4.7,
+      "review_count": 1585,
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "http://www.nicksroastbeef.com/",
+      "audit_flags": [
+        "no_https",
+        "near_empty_page"
+      ],
+      "score": 85.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ2xiTqBPHxokRZ8aDvFzoNvI": {
+      "business_name": "La Llorona Cocina & Mezcaleria",
+      "status": "skipped_good_site",
+      "website": "https://lalloronaphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJychkXBrGxokRF54kDJfKeUM": {
+      "business_name": "Palizzi Social Club",
+      "status": "skipped_good_site",
+      "website": "https://palizzisocial.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJu2NxkgvGxokR_tuZgIefDDE": {
+      "slug": "caf-nhan-iefdde",
+      "business_name": "Café Nhan",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Vietnamese Restaurant",
+      "address": "1606 W Passyunk Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 551-2407",
+      "rating": 4.7,
+      "review_count": 587,
+      "hours": [
+        "Monday: 10:00 AM – 7:00 PM",
+        "Tuesday: 10:00 AM – 7:00 PM",
+        "Wednesday: Closed",
+        "Thursday: 10:00 AM – 7:00 PM",
+        "Friday: 10:00 AM – 7:00 PM",
+        "Saturday: 10:00 AM – 7:00 PM",
+        "Sunday: 10:00 AM – 7:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJp-k9bg7GxokRGuMstperzi8": {
+      "business_name": "Hardena",
+      "status": "skipped_good_site",
+      "website": "https://hardenapa.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJZ09jqAfGxokRi4fDPGkK5Rw": {
+      "business_name": "Frida Cantina",
+      "status": "skipped_unverified",
+      "website": "https://fridacantina.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJ_wWfBCzHxokR3KAENlN4Q30": {
+      "business_name": "Wakamole Mexican Restaurant",
+      "status": "skipped_good_site",
+      "website": "https://wakamolemexicanrestaurant.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJQ-cOIBvGxokR0yauD9kfo14": {
+      "slug": "stateside-9kfo14",
+      "business_name": "Stateside",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "American Restaurant",
+      "address": "1536 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 551-2500",
+      "rating": 4.4,
+      "review_count": 324,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 3:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 – 8:00 PM"
+      ],
+      "website": "http://statesidephiladelphia.com/",
+      "audit_flags": [
+        "stale_copyright_2017"
+      ],
+      "score": 76.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJry-PhsjHxokREPUQS5E0Nr4": {
+      "business_name": "Love & Honey Fried Chicken- South Philly, PA",
+      "status": "skipped_good_site",
+      "website": "https://www.loveandhoneyfriedchicken.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJzRjQVADHxokRn92cHZaW0EE": {
+      "business_name": "Supérette",
+      "status": "skipped_good_site",
+      "website": "http://www.superettephl.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJsb-XNQXGxokRM1rB8_7ifNg": {
+      "slug": "mr-martino-s-trattoria-87ifng",
+      "business_name": "Mr. Martino's Trattoria",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Italian Restaurant",
+      "address": "1646 Passyunk Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 755-0663",
+      "rating": 4.6,
+      "review_count": 126,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 5:30 – 11:30 PM",
+        "Saturday: 5:30 – 11:00 PM",
+        "Sunday: 5:30 – 11:00 PM"
+      ],
+      "website": "https://www.instagram.com/mrmartinos",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 72.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJCw1vlJ7IxokRzh-XNkaAyt0": {
+      "business_name": "Gnocchi Restaurant",
+      "status": "skipped_unverified",
+      "website": "https://gnocchi-restaurant.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJufFmDYDHxokR3svwL73aqJM": {
+      "business_name": "MoonNight",
+      "status": "skipped_good_site",
+      "website": "https://moonnightphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJy5-OjRvGxokRwuWTYQcyAh4": {
+      "slug": "triangle-tavern-qcyah4",
+      "business_name": "Triangle Tavern",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Bar",
+      "address": "1338 S 10th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 800-1992",
+      "rating": 4.6,
+      "review_count": 1179,
+      "hours": [
+        "Monday: 12:00 PM – 2:00 AM",
+        "Tuesday: 12:00 PM – 2:00 AM",
+        "Wednesday: 12:00 PM – 2:00 AM",
+        "Thursday: 12:00 PM – 2:00 AM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ],
+      "website": "http://www.triangletavernphilly.com",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 77.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJAclYGRzGxokRw-ty74nFpKI": {
+      "business_name": "Geno's Steaks",
+      "status": "skipped_good_site",
+      "website": "https://www.genosteaks.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJjfJZaMjHxokRqkMwrOKaj0A": {
+      "business_name": "Good Hatch",
+      "status": "skipped_unverified",
+      "website": "https://goodhatchphilly.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJUSZwpwjGxokRpPURfAyTF1g": {
+      "business_name": "Pat's King of Steaks",
+      "status": "skipped_good_site",
+      "website": "http://www.patskingofsteaks.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJX2h3id3HxokRXbNrn7UWKdw": {
+      "business_name": "Juana Tamale",
+      "status": "skipped_good_site",
+      "website": "http://juana-tamale.square.site/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ___LgA_GxokRy26ERGM6yLU": {
+      "business_name": "DaVinci & Yu",
+      "status": "skipped_unverified",
+      "website": "https://davinciandyu.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJR26q48nHxokRvqYpYg9fFOY": {
+      "business_name": "Gabriella's Vietnam",
+      "status": "skipped_good_site",
+      "website": "http://www.gabriellasvietnam.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJk73lx2nHxokRHe5KlTo3kD8": {
+      "business_name": "El Chingon Philly",
+      "status": "skipped_good_site",
+      "website": "https://www.elchingonphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJZRD1cgrGxokRvND1Vj4-n88": {
+      "business_name": "Sky Cafe",
+      "status": "skipped_unverified",
+      "website": "http://skycafephilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJGSBJd5THxokRkKsC6D7xmuI": {
+      "slug": "rice-sambal-d7xmui",
+      "business_name": "Rice & Sambal",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Restaurant",
+      "address": "1911 Passyunk Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 279-7052",
+      "rating": 4.8,
+      "review_count": 51,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 6:00 – 8:30 PM",
+        "Friday: 6:00 – 8:30 PM",
+        "Saturday: 6:00 – 8:30 PM",
+        "Sunday: 11:00 AM – 4:00 PM"
+      ],
+      "website": "https://ricensambal.com/",
+      "audit_flags": [
+        "broken_ssl"
+      ],
+      "score": 57.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ79vxrxvGxokRlO8fCh9Xtds": {
+      "business_name": "Sao",
+      "status": "skipped_good_site",
+      "website": "https://www.saophilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJpRGkYubHxokR6hJ-e77CcTo": {
+      "business_name": "PIZZATA PIZZERIA & BIRRERIA",
+      "status": "skipped_good_site",
+      "website": "https://www.pizzatabirreria.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJQR0vLSDHxokRid8INtpE8Yk": {
+      "business_name": "Ground Up Cafe and Coffee",
+      "status": "skipped_good_site",
+      "website": "http://www.groundupcafeandcoffee.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ9xQTtTXHxokR28lSpqJEmhQ": {
+      "business_name": "Comfort & Floyd",
+      "status": "skipped_good_site",
+      "website": "http://comfortandfloyd.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ0ZeW3ibHxokRaD4xatvRgf0": {
+      "business_name": "Fiorella Pasta",
+      "status": "skipped_good_site",
+      "website": "https://fiorellaphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJQ2X11wTGxokR43mR-ht_A98": {
+      "business_name": "Mike's BBQ",
+      "status": "skipped_good_site",
+      "website": "http://www.mikesbbqphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJXZbYEx7GxokRZNLQHSxtN5E": {
+      "slug": "tamalex-restaurant-sxtn5e",
+      "business_name": "Tamalex Restaurant",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Mexican Restaurant",
+      "address": "1163 S 7th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 465-1665",
+      "rating": 4.4,
+      "review_count": 766,
+      "hours": [
+        "Monday: 10:00 AM – 11:00 PM",
+        "Tuesday: 10:00 AM – 11:00 PM",
+        "Wednesday: 10:00 AM – 11:00 PM",
+        "Thursday: 10:00 AM – 11:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ],
+      "website": "http://tamalexphilly.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 76.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJEXKFwxjGxokRlROdveluIQc": {
+      "business_name": "Nam Phuong Restaurant",
+      "status": "skipped_good_site",
+      "website": "http://namphuongphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ-af6gA_GxokRygm0a3GmMlU": {
+      "business_name": "P'unk Burger",
+      "status": "skipped_unverified",
+      "website": "https://punkburger.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJZWkFV9HHxokR8NTU71rNlyo": {
+      "business_name": "Asian Fusion",
+      "status": "skipped_good_site",
+      "website": "https://asianfusionpassyunkave.com/index.html",
+      "seen": "2026-09-14"
+    },
+    "ChIJiQFTBwfGxokRUveys-FodT8": {
+      "business_name": "Los Gallos",
+      "status": "skipped_good_site",
+      "website": "http://www.losgallos-mexicantaqueria.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJEaQPxg_GxokR_kP21mtDEbY": {
+      "business_name": "Foodpoint Deli",
+      "status": "skipped_good_site",
+      "website": "http://foodpointdeli.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJf8UroJXHxokR1toEZXXOcgs": {
+      "business_name": "Tesiny",
+      "status": "skipped_good_site",
+      "website": "https://www.tesiny.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ8a20hBbHxokRZGZvlueBVEc": {
+      "business_name": "Miles Table",
+      "status": "skipped_good_site",
+      "website": "https://www.milestable.com/bok-philadelphia-brunch-lunch/?utm_source=google&utm_medium=organic&utm_campaign=seolocale",
+      "seen": "2026-09-14"
+    },
+    "ChIJK91CahTGxokRYexHytuYDbk": {
+      "business_name": "American Sardine Bar",
+      "status": "skipped_good_site",
+      "website": "http://www.americansardinebar.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJSy96PBnHxokREWSN6tP7BWo": {
+      "slug": "el-mezcal-cantina-tp7bwo",
+      "business_name": "El Mezcal Cantina",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Mexican Restaurant",
+      "address": "1260 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 534-5933",
+      "rating": 4.8,
+      "review_count": 353,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 4:00 – 10:00 PM",
+        "Wednesday: 4:00 – 10:00 PM",
+        "Thursday: 4:00 – 10:00 PM",
+        "Friday: 4:00 – 10:00 PM",
+        "Saturday: 11:30 AM – 10:00 PM",
+        "Sunday: 11:30 AM – 9:00 PM"
+      ],
+      "website": "http://elmezcalcantina.us/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 77.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJWQeDuRXGxokRRNtBmIqyDkk": {
+      "business_name": "Chick's",
+      "status": "skipped_good_site",
+      "website": "http://www.chicksphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJQ4HNIkDGxokRYxgH87uN53w": {
+      "business_name": "The Sidecar Bar & Grille",
+      "status": "skipped_good_site",
+      "website": "http://www.thesidecarbar.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJkdsjAm3GxokRS1k8ZoPy4ok": {
+      "slug": "point-breakfast-restaurant-opy4ok",
+      "business_name": "Point Breakfast Restaurant",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Breakfast Restaurant",
+      "address": "1438 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 551-7170",
+      "rating": 4.3,
+      "review_count": 293,
+      "hours": [
+        "Monday: 5:30 AM – 1:00 PM",
+        "Tuesday: 5:30 AM – 1:00 PM",
+        "Wednesday: 5:30 AM – 1:00 PM",
+        "Thursday: 5:30 AM – 1:00 PM",
+        "Friday: 5:30 AM – 1:00 PM",
+        "Saturday: 5:30 AM – 1:00 PM",
+        "Sunday: 5:30 AM – 1:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJWTqeUHjHxokRg-yLOe-eB18": {
+      "slug": "good-morning-breakfast-point-breeze-oeeb18",
+      "business_name": "Good Morning Breakfast - Point Breeze",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Breakfast Restaurant",
+      "address": "1408 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 467-0775",
+      "rating": 4.4,
+      "review_count": 271,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 5:40 AM – 2:00 PM",
+        "Wednesday: 5:40 AM – 2:00 PM",
+        "Thursday: 5:40 AM – 2:00 PM",
+        "Friday: 5:40 AM – 2:00 PM",
+        "Saturday: 5:40 AM – 2:00 PM",
+        "Sunday: 6:30 AM – 2:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ_0FpvzDHxokRkx43XKcWlpA": {
+      "business_name": "Two Eagles Cafe",
+      "status": "skipped_good_site",
+      "website": "https://twoeaglescafe.square.site/",
+      "seen": "2026-09-14"
+    },
+    "ChIJCbh6ADfHxokR8yRv9btESRw": {
+      "business_name": "Royal Chicken And Grill",
+      "status": "skipped_unverified",
+      "website": "https://royalchickenandgrill.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJbcPCCkbHxokRWKH9S6PPLGA": {
+      "business_name": "Griddle & Rice",
+      "status": "skipped_good_site",
+      "website": "http://griddlericephilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJNwgubxLHxokREhCMYfwrK5g": {
+      "business_name": "Alice",
+      "status": "skipped_good_site",
+      "website": "https://www.alicephiladelphia.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJfzgo_8fHxokRz8aH4rvKXbY": {
+      "business_name": "Insatiable Restaurant",
+      "status": "skipped_good_site",
+      "website": "http://www.insatiablephilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJN8_WHADHxokRV_A5DpzBMw8": {
+      "slug": "hannah-k-cafe-pzbmw8",
+      "business_name": "Hannah K Cafe",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Breakfast Restaurant",
+      "address": "1200 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 666-8150",
+      "rating": 4.8,
+      "review_count": 118,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 4:00 PM",
+        "Wednesday: 8:00 AM – 4:00 PM",
+        "Thursday: 8:00 AM – 4:00 PM",
+        "Friday: 8:00 AM – 4:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ],
+      "website": "https://www.instagram.com/hannahkcafe/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 71.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ22wAGgDHxokRN-qeC6G0z1s": {
+      "slug": "anh-em-6g0z1s",
+      "business_name": "Anh Em",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Vietnamese Restaurant",
+      "address": "1252 S 21st St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": 4.9,
+      "review_count": 42,
+      "hours": [
+        "Monday: 4:00 PM – 2:00 AM",
+        "Tuesday: Closed",
+        "Wednesday: 4:00 PM – 2:00 AM",
+        "Thursday: 4:00 PM – 2:00 AM",
+        "Friday: 4:00 PM – 2:00 AM",
+        "Saturday: 4:00 PM – 2:00 AM",
+        "Sunday: 4:00 PM – 2:00 AM"
+      ],
+      "website": "https://www.instagram.com/anhemphilly/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 56.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJKwElMh3HxokR_niIUlOeTlg": {
+      "business_name": "Bake'n Bacon Philadelphia",
+      "status": "skipped_unverified",
+      "website": "https://bakenbacon.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJwUim62zGxokRmwSPeW6nP8A": {
+      "slug": "the-tasty-toast-w6np8a",
+      "business_name": "The Tasty Toast",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Restaurant",
+      "address": "1320 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 465-1040",
+      "rating": 4.3,
+      "review_count": 421,
+      "hours": [
+        "Monday: 7:30 AM – 2:30 PM",
+        "Tuesday: 7:30 AM – 2:30 PM",
+        "Wednesday: 7:30 AM – 2:30 PM",
+        "Thursday: 7:30 AM – 2:30 PM",
+        "Friday: 7:30 AM – 2:30 PM",
+        "Saturday: 7:30 AM – 2:30 PM",
+        "Sunday: 7:30 AM – 2:30 PM"
+      ],
+      "website": "https://www.facebook.com/Tasty-Toast-405993742937981/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 76.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJuzvzvVLHxokRLKEZDQ9015A": {
+      "business_name": "ILLATA",
+      "status": "skipped_good_site",
+      "website": "http://www.illataphl.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJebPS5WzGxokR8JizyLIwwkU": {
+      "slug": "point-breeze-liwwku",
+      "business_name": "Point Breeze",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Restaurant",
+      "address": "1411 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": null,
+      "review_count": null,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJe8zkbx_GxokRlhzi-rii3NY": {
+      "business_name": "Blue Corn Restaurant and Bar",
+      "status": "skipped_good_site",
+      "website": "https://www.bluecornmexphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJPyRdtzzGxokRZtqwNQ74fyU": {
+      "business_name": "PHS Pop Up Garden at South Street",
+      "status": "skipped_good_site",
+      "website": "https://www.phspopupgardens.com/location/phs-pop-up-garden-south-street/",
+      "seen": "2026-09-14"
+    },
+    "ChIJleZkh2zGxokRGzVsmpShddM": {
+      "slug": "22nd-street-cafe-pshddm",
+      "business_name": "22nd Street Cafe",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Bar",
+      "address": "1266 S 22nd St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 519-9888",
+      "rating": 4.4,
+      "review_count": 258,
+      "hours": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 4:00 – 11:00 PM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 4:00 PM – 1:00 AM",
+        "Sunday: Closed"
+      ],
+      "website": "https://m.facebook.com/22ndStreetCafe/?ref=page_internal&mt_nav=1",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 76.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJNzo2khjJxokRRSYqIP0Pqko": {
+      "business_name": "Fitz on 4th",
+      "status": "skipped_good_site",
+      "website": "https://fitzon4th.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJF8-kspfHxokRrWs6IzvaNFg": {
+      "business_name": "Small Oven Pastry Shop & Porco's Porchetteria",
+      "status": "skipped_good_site",
+      "website": "http://www.porcosphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJX6vIvkDGxokRU5ewr8ef5wU": {
+      "business_name": "Ants Pants Cafe",
+      "status": "skipped_good_site",
+      "website": "https://antspantscafe.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJI-VfZl3HxokRwqFRZoiY1GY": {
+      "business_name": "Sabrina's Cafe",
+      "status": "skipped_good_site",
+      "website": "http://sabrinascafe.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJj-88HkHHxokRgsLyNxFRVcc": {
+      "business_name": "Dock Street Brewery South",
+      "status": "skipped_good_site",
+      "website": "http://www.dockstreetbeer.com/dock-street-south-point-breeze",
+      "seen": "2026-09-14"
+    },
+    "ChIJ74dLgJnFxokRHJ2p07l5AuE": {
+      "business_name": "HomeGrown215",
+      "status": "skipped_good_site",
+      "website": "http://homegrownsouthphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ-VWVqyHGxokRMGwj66qv2SY": {
+      "slug": "angelo-s-pizzeria-6qv2sy",
+      "business_name": "Angelo's Pizzeria",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "736 S 9th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 922-0000",
+      "rating": 4.6,
+      "review_count": 4867,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 7:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "website": "https://www.angelospizzeriasouthphiladelphia.com/",
+      "audit_flags": [
+        "stale_copyright_2015"
+      ],
+      "score": 77.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJn2WIpF_HxokRxiSrcG0-pTA": {
+      "business_name": "Puglia Pizza",
+      "status": "skipped_good_site",
+      "website": "http://pugliapizza.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJa-ueHDzGxokRvhZ3aC0RKeM": {
+      "business_name": "Lazaro's Pizzeria and Grill",
+      "status": "skipped_good_site",
+      "website": "https://lazarospizzeriagrill.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ5zsh_BHHxokRR9PgiDYs00I": {
+      "business_name": "Dough Head Pizza",
+      "status": "skipped_good_site",
+      "website": "http://www.doughheadpizza.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJqQOIAgDJxokRZVTiGS90BwQ": {
+      "slug": "angelo-s-pizzeria-s90bwq",
+      "business_name": "Angelo's Pizzeria",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "22 Wolf St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 983-8843",
+      "rating": 4.3,
+      "review_count": 146,
+      "hours": [
+        "Monday: 11:00 AM – 8:00 PM",
+        "Tuesday: 11:00 AM – 8:00 PM",
+        "Wednesday: 11:00 AM – 8:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ],
+      "website": "https://www.order.store/store/angelos-pizzeria-22-wolf-street/GN-Kkp0VUgmxQkIsA8c2gA?diningMode=PICKUP",
+      "audit_flags": [
+        "dead_http_404"
+      ],
+      "score": 75.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJz-tXyufFxokR9vFTbpK9CjA": {
+      "business_name": "Celebre's Pizzeria",
+      "status": "skipped_good_site",
+      "website": "https://www.celebrespizzeriamenu.com/?utm_source=gbp",
+      "seen": "2026-09-14"
+    },
+    "ChIJVVWI5iHGxokR1XUsd69qV38": {
+      "business_name": "Santucci's Original Square Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.santuccispizza.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJAW_tWpnIxokRfoqs_RzGdog": {
+      "slug": "lorenzo-and-sons-pizza-rzgdog",
+      "business_name": "Lorenzo and Sons Pizza",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "305 South St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 800-1942",
+      "rating": 4.5,
+      "review_count": 3319,
+      "hours": [
+        "Monday: 11:00 AM – 1:00 AM",
+        "Tuesday: 11:00 AM – 1:00 AM",
+        "Wednesday: 11:00 AM – 1:00 AM",
+        "Thursday: 11:00 AM – 3:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 1:00 AM"
+      ],
+      "website": "https://www.facebook.com/LorenzoAndSonsPizza/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 77.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJValFkZ_IxokRgO0ck6-oqQo": {
+      "slug": "square-pie-k6oqqo",
+      "business_name": "Square Pie",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "801 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 238-0615",
+      "rating": 4.7,
+      "review_count": 502,
+      "hours": [
+        "Monday: 4:00 – 9:00 PM",
+        "Tuesday: 12:00 – 2:00 PM, 4:00 – 9:00 PM",
+        "Wednesday: 12:00 – 2:00 PM, 4:00 – 9:00 PM",
+        "Thursday: 12:00 – 2:00 PM, 4:00 – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 12:00 – 8:00 PM"
+      ],
+      "website": "http://www.squarepiephilly.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 77.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJL_RHjwzGxokRstGK8H5G-BA": {
+      "business_name": "San Lucas Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.sanlucaspizzeria.com/?utm_source=gbp",
+      "seen": "2026-09-14"
+    },
+    "ChIJSajJP83HxokRqoLYdDTKvWw": {
+      "business_name": "Stina",
+      "status": "skipped_good_site",
+      "website": "https://www.stinaphiladelphia.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ98u8Q3rJxokRHi1BExDE6IE": {
+      "business_name": "Emmy Squared Pizza: Queen Village",
+      "status": "skipped_good_site",
+      "website": "https://www.emmysquaredpizza.com/location/queen-village-philadelphia-pa/",
+      "seen": "2026-09-14"
+    },
+    "ChIJQ-MwOwnGxokRLM42YKPLGBk": {
+      "business_name": "La Rosa Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.larosapizzeriamenu.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJbT-CamfHxokRelazxwDHHZg": {
+      "business_name": "Paulie Gee’s Slice Shop",
+      "status": "skipped_good_site",
+      "website": "http://pauliegee.com/soul-city/",
+      "seen": "2026-09-14"
+    },
+    "ChIJtX8DmR7HxokRQBJ3FJ5E8u4": {
+      "business_name": "Pizza Mixta",
+      "status": "skipped_good_site",
+      "website": "https://pizzamixtapa.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJJQlAMwDFxokRKI7FtqLbmRg": {
+      "business_name": "Danny D's Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.dannyspizzaphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJCezLpD7GxokR7aVynIDDG7s": {
+      "business_name": "Randazzo's Pizzeria",
+      "status": "skipped_good_site",
+      "website": "https://www.randazzospizzaphiladelphia.com/?utm_source=gbp",
+      "seen": "2026-09-14"
+    },
+    "ChIJMaacQcrHxokRxe3yUTnLCwI": {
+      "business_name": "Nannie Franco's Pizzeria",
+      "status": "skipped_good_site",
+      "website": "https://www.nanniefrancospizzamenu.com/?utm_source=gbp",
+      "seen": "2026-09-14"
+    },
+    "ChIJgVZ-8OHFxokR6W7g5ej37j0": {
+      "business_name": "The Pizza Shack",
+      "status": "skipped_good_site",
+      "website": "http://pizzashackphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJl4ayeqXIxokRV3c9y8zyu1M": {
+      "business_name": "Little Sicily Pizza 2",
+      "status": "skipped_good_site",
+      "website": "https://www.littlesicily2.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJU9Z5X5_IxokRvka0-tbey2g": {
+      "business_name": "Little Italy Pizza & Trattoria",
+      "status": "skipped_good_site",
+      "website": "http://littleitalyphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJdaeeMKzIxokRh49iT7IFCGU": {
+      "business_name": "Uncle Oogie's Pizzeria & Specialty Sandwiches",
+      "status": "skipped_good_site",
+      "website": "http://www.uncleoogies.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJmZ0lEiPGxokRG60lSpDlvpE": {
+      "business_name": "Gennaro's Pizza‎ & Steaks",
+      "status": "skipped_good_site",
+      "website": "https://www.gennarospizzasouthphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJATTbHeHFxokR8sVINjg-9zA": {
+      "slug": "city-pizza-njg9za",
+      "business_name": "City Pizza",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "2700 S 16th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 755-8888",
+      "rating": 4,
+      "review_count": 507,
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJeWc2pkLHxokRyP9Pbyg4o1g": {
+      "slug": "cj-d-s-trenton-tomato-pies-yg4o1g",
+      "business_name": "CJ & D's Trenton Tomato Pies",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "1326 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": null,
+      "rating": 4.8,
+      "review_count": 110,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 5:00 – 8:00 PM",
+        "Thursday: Closed",
+        "Friday: 4:00 – 9:00 PM",
+        "Saturday: Closed",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "website": "https://www.instagram.com/cjdtomatopies/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 69.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ37uyKRHGxokRfHEgKpXQi84": {
+      "business_name": "Rosario's Pizzeria",
+      "status": "skipped_good_site",
+      "website": "https://www.orderrosariospizzeria.com/?utm_source=gbp",
+      "seen": "2026-09-14"
+    },
+    "ChIJARDUHw_GxokRYsPRA5mpZvc": {
+      "business_name": "Pizzeria Pesto",
+      "status": "skipped_good_site",
+      "website": "http://www.pizzeriapesto.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ3X1kMu3FxokRdS86YL9BBQU": {
+      "business_name": "Avenue Steaks & Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.avenuesteaks.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJS6gFEgrGxokRQwcMh3cM9pY": {
+      "slug": "cacia-s-bakery-3cm9py",
+      "business_name": "Cacia's Bakery",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Bakery",
+      "address": "1526 W Ritner St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 334-1340",
+      "rating": 4.6,
+      "review_count": 476,
+      "hours": [
+        "Monday: 6:00 AM – 6:30 PM",
+        "Tuesday: 6:00 AM – 6:30 PM",
+        "Wednesday: 6:00 AM – 6:30 PM",
+        "Thursday: 6:00 AM – 6:30 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 4:00 PM"
+      ],
+      "website": "http://www.caciabakery.com/",
+      "audit_flags": [
+        "stale_copyright_2019"
+      ],
+      "score": 77.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJG68MLB3HxokRKKbr3JVfP-M": {
+      "business_name": "Southside Pizza - 20th St.",
+      "status": "skipped_good_site",
+      "website": "https://southsidepizza.net/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ40LcSNLHxokRtmf_pvIauvk": {
+      "business_name": "Pronto Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.prontopizzaandpasta.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJQXzNvgrHxokRTA3oKKHHncM": {
+      "slug": "enzo-s-pizza-kitchen-khhncm",
+      "business_name": "Enzo's Pizza Kitchen",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "1849 Wolf St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 315-9004",
+      "rating": 4.5,
+      "review_count": 177,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "website": "https://www.enzospizzakitchen.com/",
+      "audit_flags": [
+        "stale_copyright_2010"
+      ],
+      "score": 77.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJnwbVznXGxokRbu7ib9A-VEY": {
+      "business_name": "Wolf Street Pizza",
+      "status": "skipped_unverified",
+      "website": "https://wolfstreetpizza.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJeXnHzgfGxokRvqrmzsljuMA": {
+      "business_name": "Not Just Pizza",
+      "status": "skipped_unverified",
+      "website": "http://www.notjustpizza.net/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJCX8Pp23GxokRkTsx5y5Gq-8": {
+      "business_name": "South Side Pizzaria",
+      "status": "skipped_good_site",
+      "website": "http://www.southsidemenuphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ5xBLBqzIxokR8NXU4gvwSdU": {
+      "business_name": "City Pizza",
+      "status": "skipped_good_site",
+      "website": "http://citypizzaphiladelphia.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJiQnsfyPHxokRjDMEMPL3DDU": {
+      "slug": "pete-s-famous-pizza-pl3ddu",
+      "business_name": "Pete's Famous Pizza",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "2942 Wharton St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 690-5667",
+      "rating": 3.9,
+      "review_count": 184,
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "website": "http://www.petesfamouspizza.com/",
+      "audit_flags": [
+        "no_https",
+        "near_empty_page",
+        "not_mobile_responsive"
+      ],
+      "score": 91.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJI9YVlh7GxokRPBPsLfAbwcE": {
+      "business_name": "J & J Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.j-jpizza.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ8aTb2vLHxokRcKHKg_mfxQg": {
+      "business_name": "Inside Out Pizza",
+      "status": "skipped_good_site",
+      "website": "http://insideout.pizza/",
+      "seen": "2026-09-14"
+    },
+    "ChIJR1LKSpHHxokRBdLdrfiEG8U": {
+      "business_name": "Pat's Pizza & Pasta",
+      "status": "skipped_good_site",
+      "website": "https://philly.patspizzapasta.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJhykD0SHGxokRJ4s9D_Rjmuc": {
+      "business_name": "Lorenzo's Pizza",
+      "status": "skipped_good_site",
+      "website": "http://orderlorenzospizza.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJnYds7QvGxokRsYd4kr0T81U": {
+      "business_name": "Romeo Pizza",
+      "status": "skipped_good_site",
+      "website": "https://romeospizza.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJozw8jsPFxokRu3kUp9I7FT4": {
+      "business_name": "Nitty's Tavern",
+      "status": "skipped_good_site",
+      "website": "https://www.nittystavernmenu.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJB0yDGv_FxokRl3SeyglqbZs": {
+      "business_name": "Mr.Wings Pizza & Grill South Philly",
+      "status": "skipped_good_site",
+      "website": "http://www.mrwingspizzaandgrill.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJM5U3qXrGxokRqm6N7BGD1RM": {
+      "business_name": "Uncle Tomy's Original Pizza",
+      "status": "skipped_good_site",
+      "website": "http://uncletomysoriginalpizza.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ976ylfvHxokR0V51UN8Yg-Y": {
+      "business_name": "Algerinos",
+      "status": "skipped_good_site",
+      "website": "http://www.algerinos.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJi01RDQ_GxokRB1X9Rq3XdrY": {
+      "slug": "l-mancuso-son-q3xdry",
+      "business_name": "L. Mancuso & Son",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1902 Passyunk Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 389-1817",
+      "rating": 4.8,
+      "review_count": 158,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 3:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ-62dDRvGxokRSKE56Gje7SA": {
+      "slug": "the-pub-on-passyunk-east-gje7sa",
+      "business_name": "The Pub on Passyunk East",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Pub",
+      "address": "1501 Passyunk Ave #03, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 755-5125",
+      "rating": 4.5,
+      "review_count": 1000,
+      "hours": [
+        "Monday: 4:00 PM – 2:00 AM",
+        "Tuesday: 4:00 PM – 2:00 AM",
+        "Wednesday: 4:00 PM – 2:00 AM",
+        "Thursday: 4:00 PM – 2:00 AM",
+        "Friday: 4:00 PM – 2:00 AM",
+        "Saturday: 4:00 PM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJkXTjnx7GxokRgQA7mIv2L2g": {
+      "business_name": "Garage Passyunk",
+      "status": "skipped_good_site",
+      "website": "https://www.garagephilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ09q1bA_GxokRfjMqbOqKEqY": {
+      "business_name": "Fuel Healthy Kitchen (South Philly)",
+      "status": "skipped_good_site",
+      "website": "https://fuel.toast.site/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ75FO5aTHxokRJYpIOn5Vd8s": {
+      "business_name": "Pizza Plus South",
+      "status": "skipped_good_site",
+      "website": "http://pizzaplusphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJdVXHmQPGxokRwh920O9K8mo": {
+      "business_name": "Southside Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.southsidepizzaexpress.com/?utm_source=gbp",
+      "seen": "2026-09-14"
+    },
+    "ChIJv-v0bQDHxokRO_577WVvOYU": {
+      "business_name": "Crown Fried chicken & Pizza",
+      "status": "skipped_good_site",
+      "website": "https://crownchickenandpizzapa.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJFauURRvGxokRg6DRHqbcPxk": {
+      "business_name": "Fountain Porter",
+      "status": "skipped_good_site",
+      "website": "http://fountainporter.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJHV4VFibHxokR67UirdCu0b4": {
+      "business_name": "Gaby's Station Pizza",
+      "status": "skipped_good_site",
+      "website": "https://www.gabysstationpizza.com/?utm_source=gbp",
+      "seen": "2026-09-14"
+    },
+    "ChIJBX6CBQDHxokRxqtXbEbOFJA": {
+      "business_name": "PIZZA SANDWICH SHOP",
+      "status": "skipped_good_site",
+      "website": "http://pizzaritophilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJpZ52gg_GxokRaDIF7LJ9kFo": {
+      "business_name": "The Bottle Shop",
+      "status": "skipped_good_site",
+      "website": "https://bottleshopbeer.square.site/",
+      "seen": "2026-09-14"
+    },
+    "ChIJP4QpXmjHxokRmTzKbfQUQEw": {
+      "slug": "cartesian-brewing-fquqew",
+      "business_name": "Cartesian Brewing",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Brewery",
+      "address": "1326 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": null,
+      "rating": 4.7,
+      "review_count": 142,
+      "hours": [
+        "Monday: 3:00 – 10:00 PM",
+        "Tuesday: 3:00 – 10:00 PM",
+        "Wednesday: 3:00 – 10:00 PM",
+        "Thursday: 3:00 – 10:00 PM",
+        "Friday: 3:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 8:00 PM"
+      ],
+      "website": "http://cartesianbrewing.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 75.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJr0qEkibHxokR8ImxOxll-60": {
+      "business_name": "Chiquita's Pizzeria & Mexican Grill",
+      "status": "skipped_good_site",
+      "website": "http://chiquitaspizzeria.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJxWt0g9_FxokRnbM5oKlQxaw": {
+      "business_name": "Three Countries Pizzeria",
+      "status": "skipped_good_site",
+      "website": "http://threecountriespizzeriapa.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJRcV7pmvHxokRchmLjQk2tbM": {
+      "business_name": "L' Anima",
+      "status": "skipped_good_site",
+      "website": "http://www.lanimaphiladelphia.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJnfbVWwXHxokR347kqhZMfG0": {
+      "business_name": "Los Portales Restaurant & Cafe",
+      "status": "skipped_good_site",
+      "website": "https://losportalesrestaurantcafe.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ6x0W40DGxokRKFmt3Di_8UA": {
+      "slug": "old-towne-sanna-s-3di8ua",
+      "business_name": "Old Towne & Sanna's",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Mediterranean Restaurant",
+      "address": "2301 Grays Ferry Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 731-1111",
+      "rating": 4.3,
+      "review_count": 215,
+      "hours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "website": "http://oldtowneandsannas.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 76.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJKWi2TQDHxokRNi6-FeWrfOU": {
+      "slug": "pizza-one-in-all-ewrfou",
+      "business_name": "pizza one in all",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Pizza Restaurant",
+      "address": "1140-1150 S 12th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": null,
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJzWEnfRTHxokROsSu62q6vG4": {
+      "business_name": "Blazerz Food Joint",
+      "status": "skipped_good_site",
+      "website": "http://www.blazerzfoodjoint.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJxal40YnHxokRozkAwXalAiY": {
+      "slug": "tortas-pizza-el-sabor-de-mi-tierra-xalaiy",
+      "business_name": "Tortas & Pizza El Sabor de Mi Tierra",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Mexican Restaurant",
+      "address": "1501 S 26th St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 519-3036",
+      "rating": 4.1,
+      "review_count": 81,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 2:00 PM – 2:00 AM",
+        "Wednesday: 2:00 PM – 2:00 AM",
+        "Thursday: 2:00 PM – 2:00 AM",
+        "Friday: 2:00 PM – 2:00 AM",
+        "Saturday: 2:00 PM – 2:00 AM",
+        "Sunday: Closed"
+      ],
+      "website": "http://ordertortasandpizzaelsabordemitierra.mobile-webview1.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 62.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJAfSPYTzGxokR90L-ccZZTG8": {
+      "business_name": "Founding Fathers South St Sports Bar & Grill",
+      "status": "skipped_good_site",
+      "website": "https://www.foundingfathersbar.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJf49Zz57IxokR1cf2dJk1qzo": {
+      "business_name": "Famous 4th Street Delicatessen",
+      "status": "skipped_good_site",
+      "website": "https://www.famous4thstreetdelicatessen.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJqUCM-hzGxokRqxq085TaneA": {
+      "business_name": "Cosmi's Deli",
+      "status": "skipped_good_site",
+      "website": "https://www.cosmisdeli.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ0xf8Q8jJxokRsZH1v0P181k": {
+      "business_name": "Wholesome Deli",
+      "status": "skipped_good_site",
+      "website": "http://wholesomedelimenu.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ9zbHsmbGxokR2gBQvY53loI": {
+      "slug": "grays-ferry-deli-now-open-under-new-mana-y53loi",
+      "business_name": "Grays Ferry Deli ( Now Open Under New Management )",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1204 S 31st St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 463-3915",
+      "rating": 4.5,
+      "review_count": 226,
+      "hours": [
+        "Monday: 6:00 AM – 6:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJkXCUTxnGxokR9wruVsECz20": {
+      "business_name": "Antonio's Deli",
+      "status": "skipped_good_site",
+      "website": "http://antoniosdeliphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ-1FfWeLFxokRdjcqH4_Tc3g": {
+      "slug": "lil-nick-s-deli-h4tc3g",
+      "business_name": "Lil nick's deli",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Deli",
+      "address": "1311 W Moyamensing Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 468-4647",
+      "rating": 4.8,
+      "review_count": 342,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.facebook.com/LilNicksDeli/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 77.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJH2E4GzzGxokR7HvYGf1bSBE": {
+      "slug": "south-deli-and-grocery-f1bsbe",
+      "business_name": "South deli and grocery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1739 South St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 546-1580",
+      "rating": 4.6,
+      "review_count": 67,
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 82.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJJ5KqNObFxokRDgJNJwQ5ge8": {
+      "slug": "pastificio-deli-wq5ge8",
+      "business_name": "Pastificio Deli",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Deli",
+      "address": "1528 Packer Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 467-1111",
+      "rating": 4.6,
+      "review_count": 516,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 2:00 PM"
+      ],
+      "website": "http://pastificiophilly.com/",
+      "audit_flags": [
+        "no_https"
+      ],
+      "score": 77.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJj3NrSArGxokR6NdGMm-5tzA": {
+      "slug": "mi-pal-s-deli-mm5tza",
+      "business_name": "Mi Pal's Deli",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Deli",
+      "address": "2300 S 16th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 271-5545",
+      "rating": 4.6,
+      "review_count": 253,
+      "hours": [
+        "Monday: 8:30 AM – 5:15 PM",
+        "Tuesday: 8:30 AM – 5:15 PM",
+        "Wednesday: 8:30 AM – 5:15 PM",
+        "Thursday: 8:30 AM – 5:15 PM",
+        "Friday: 8:30 AM – 5:15 PM",
+        "Saturday: 8:30 AM – 5:15 PM",
+        "Sunday: Closed"
+      ],
+      "website": "http://mipalsdeli.com/",
+      "audit_flags": [
+        "no_https",
+        "not_mobile_responsive"
+      ],
+      "score": 85.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJHWxh01PHxokRYrD4480L56c": {
+      "slug": "hoagies-and-more-maty-inc-80l56c",
+      "business_name": "HOAGIES AND MORE MATY INC",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "902 Carpenter St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 274-8597",
+      "rating": 4.9,
+      "review_count": 65,
+      "hours": [
+        "Monday: 6:00 AM – 5:00 PM",
+        "Tuesday: 6:00 AM – 6:00 PM",
+        "Wednesday: 6:00 AM – 6:00 PM",
+        "Thursday: 6:00 AM – 6:00 PM",
+        "Friday: 6:00 AM – 6:00 PM",
+        "Saturday: 6:00 AM – 6:00 PM",
+        "Sunday: 6:00 AM – 5:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 82.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJV48QVQPGxokRsnlY9Na06K0": {
+      "business_name": "Vincenzo's Deli",
+      "status": "skipped_good_site",
+      "website": "http://vincenzosphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ-1FfWeLFxokRQcSHLPEbjEY": {
+      "slug": "big-nicks-cold-cuts-italian-specialties-pebjey",
+      "business_name": "Big Nicks Cold Cuts & Italian Specialties",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Food Delivery",
+      "address": "1311 W Moyamensing Ave, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 952-2500",
+      "rating": 4.8,
+      "review_count": 58,
+      "hours": [
+        "Monday: 8:15 AM – 5:00 PM",
+        "Tuesday: 8:15 AM – 5:00 PM",
+        "Wednesday: 8:15 AM – 5:00 PM",
+        "Thursday: 8:15 AM – 5:00 PM",
+        "Friday: 8:15 AM – 5:00 PM",
+        "Saturday: 8:15 AM – 4:30 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 81.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJS_1nPhnGxokRwJZUYKTQtOY": {
+      "slug": "ricci-s-hoagies-ktqtoy",
+      "business_name": "Ricci's Hoagies",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Sandwich Shop",
+      "address": "1165 S 11th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 334-6910",
+      "rating": 4.7,
+      "review_count": 1164,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 8:00 AM – 3:00 PM",
+        "Wednesday: 8:00 AM – 3:00 PM",
+        "Thursday: 8:00 AM – 3:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.originalriccishoagies.com/",
+      "audit_flags": [
+        "near_empty_page",
+        "not_mobile_responsive"
+      ],
+      "score": 85.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJOUNg4jHJxokRAHGfNSY9lX8": {
+      "slug": "dolores-deli-sy9lx8",
+      "business_name": "Dolores` Deli",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Deli",
+      "address": "1841 S 2nd St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(267) 519-3212",
+      "rating": 4.8,
+      "review_count": 195,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "website": "https://facebook.com/Dolores2Street/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 77.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ4eQmhgXGxokRs5verhz120Y": {
+      "slug": "mike-matt-s-italian-market-hz120y",
+      "business_name": "Mike & Matt's Italian Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1206 Mifflin St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 336-4733",
+      "rating": 4.9,
+      "review_count": 155,
+      "hours": [
+        "Monday: 8:30 AM – 4:30 PM",
+        "Tuesday: 8:30 AM – 4:30 PM",
+        "Wednesday: 8:30 AM – 4:30 PM",
+        "Thursday: 8:30 AM – 4:30 PM",
+        "Friday: 8:30 AM – 4:30 PM",
+        "Saturday: 8:30 AM – 4:00 PM",
+        "Sunday: 8:30 AM – 1:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJIWh3heHFxokRUJaJ-wruRKs": {
+      "slug": "jeanne-s-corner-grocery-deli-wrurks",
+      "business_name": "Jeanne's Corner Grocery & Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1440 W Shunk St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 389-2927",
+      "rating": 4.9,
+      "review_count": 23,
+      "hours": [
+        "Monday: 6:00 AM – 3:00 PM",
+        "Tuesday: 6:00 AM – 3:00 PM",
+        "Wednesday: 6:00 AM – 3:00 PM",
+        "Thursday: 6:00 AM – 3:00 PM",
+        "Friday: 6:00 AM – 3:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 74.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJWyQ9fR_GxokRvFeR9TkwIHw": {
+      "business_name": "Di Bruno Bros. at the Italian Market",
+      "status": "skipped_good_site",
+      "website": "http://www.dibruno.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJO1RNOOfFxokR54UF7avdywQ": {
+      "slug": "a-s-deli-avdywq",
+      "business_name": "A & S Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "2848 S 17th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 755-0837",
+      "rating": 4.9,
+      "review_count": 46,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 7:00 AM – 4:30 PM",
+        "Wednesday: 7:00 AM – 4:30 PM",
+        "Thursday: 7:00 AM – 4:30 PM",
+        "Friday: 7:00 AM – 4:30 PM",
+        "Saturday: 7:00 AM – 4:30 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 79.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJp9nT4gDHxokRkdhPvWsT21g": {
+      "slug": "antonio-s-italian-specialties-wst21g",
+      "business_name": "Antonio’s Italian Specialties",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1138 W Ritner St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 982-2946",
+      "rating": 4.9,
+      "review_count": 65,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM – 4:30 PM",
+        "Wednesday: 10:00 AM – 4:30 PM",
+        "Thursday: 10:00 AM – 4:30 PM",
+        "Friday: 10:00 AM – 4:30 PM",
+        "Saturday: 10:00 AM – 3:30 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 82.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJqZxiEgrGxokR7wmFSRtfrYI": {
+      "business_name": "PrimoHoagies",
+      "status": "skipped_good_site",
+      "website": "https://www.primohoagies.com/location/Philadelphia-South-PA",
+      "seen": "2026-09-14"
+    },
+    "ChIJ3xpTbR_GxokRkBJcyvB5FCk": {
+      "business_name": "Paesano's",
+      "status": "skipped_good_site",
+      "website": "https://www.paesanosphilly.com/menu",
+      "seen": "2026-09-14"
+    },
+    "ChIJL3ph_ATJxokR6SDlurwm5x0": {
+      "slug": "farina-di-vita-rwm5x0",
+      "business_name": "Farina Di Vita",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Sandwich Shop",
+      "address": "250 Catharine St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(267) 639-5185",
+      "rating": 4.9,
+      "review_count": 246,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 6:00 PM",
+        "Wednesday: 11:00 AM – 6:00 PM",
+        "Thursday: 11:00 AM – 6:00 PM",
+        "Friday: 11:00 AM – 6:00 PM",
+        "Saturday: 11:00 AM – 4:00 PM",
+        "Sunday: 11:00 AM – 4:00 PM"
+      ],
+      "website": "http://farinadivita.com/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 77.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ0xxQl-DFxokREwxle9TIt-8": {
+      "business_name": "P&S Ravioli Company",
+      "status": "skipped_good_site",
+      "website": "http://www.psravioli.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ03gM5KjIxokRGMyBpIbKy00": {
+      "slug": "gooey-looies-ibky00",
+      "business_name": "Gooey Looies",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Sandwich Shop",
+      "address": "231 McClellan St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 334-7668",
+      "rating": 4.6,
+      "review_count": 1544,
+      "hours": [
+        "Monday: 10:30 AM – 7:30 PM",
+        "Tuesday: 10:30 AM – 7:30 PM",
+        "Wednesday: 10:30 AM – 7:30 PM",
+        "Thursday: 10:30 AM – 7:30 PM",
+        "Friday: 10:30 AM – 7:30 PM",
+        "Saturday: 10:30 AM – 7:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJa2W1pf3FxokRcxLgvr72O_c": {
+      "slug": "josie-s-food-market-vr72oc",
+      "business_name": "Josie's Food Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "2554 S 9th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 467-2565",
+      "rating": 4.8,
+      "review_count": 26,
+      "hours": [
+        "Monday: 9:00 AM – 9:00 PM",
+        "Tuesday: 9:00 AM – 9:00 PM",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 74.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJXygnK-THxokRF73QiOk9On0": {
+      "business_name": "Breezy's Deli and Market",
+      "status": "skipped_good_site",
+      "website": "https://breezysdeli.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJdeEOE57IxokRz53GeNZh5hs": {
+      "slug": "woodrow-s-sandwich-shop-nzh5hs",
+      "business_name": "Woodrow's Sandwich Shop",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Sandwich Shop",
+      "address": "630 South St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 470-3559",
+      "rating": 4.6,
+      "review_count": 1553,
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "website": "http://www.woodrowsandwich.com/",
+      "audit_flags": [
+        "dead_http_404"
+      ],
+      "score": 77.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJmS-MfB_GxokRknTIk-AWK94": {
+      "slug": "claudio-s-specialty-foods-kawk94",
+      "business_name": "Claudio's Specialty Foods",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Grocery Store",
+      "address": "924 S 9th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 627-1873",
+      "rating": 4.8,
+      "review_count": 279,
+      "hours": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 5:00 PM",
+        "Sunday: 8:30 AM – 2:00 PM"
+      ],
+      "website": "http://www.claudiofood.com/",
+      "audit_flags": [
+        "no_https",
+        "not_mobile_responsive"
+      ],
+      "score": 85.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJmfTNR8PFxokRgTjtpIlcTgU": {
+      "business_name": "On a Roll Italian Sandwich Co.",
+      "status": "skipped_good_site",
+      "website": "https://onaroll0700.s4shops.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJMfVOsJ7IxokRKNz9ctvYNG4": {
+      "business_name": "Jim's South St.",
+      "status": "skipped_good_site",
+      "website": "http://www.jimssouthstreet.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJ06bcbx_GxokRItdcH0ImLc8": {
+      "slug": "talluto-s-philadelphia-0imlc8",
+      "business_name": "Talluto's - Philadelphia",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Deli",
+      "address": "944 S 9th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 627-4967",
+      "rating": 4.7,
+      "review_count": 294,
+      "hours": [
+        "Monday: 8:30 AM – 5:00 PM",
+        "Tuesday: 8:30 AM – 5:00 PM",
+        "Wednesday: 8:30 AM – 5:00 PM",
+        "Thursday: 8:30 AM – 5:00 PM",
+        "Friday: 8:30 AM – 5:00 PM",
+        "Saturday: 8:30 AM – 5:00 PM",
+        "Sunday: 8:30 AM – 3:00 PM"
+      ],
+      "website": "http://www.tallutos.com/",
+      "audit_flags": [
+        "no_https",
+        "near_empty_page",
+        "not_mobile_responsive"
+      ],
+      "score": 93.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJmws7AdTHxokRsU_IR5aBdtI": {
+      "business_name": "Biederman’s Italian Market",
+      "status": "skipped_good_site",
+      "website": "http://www.biedermansphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJf4nPoUPGxokRToht3VrQhZg": {
+      "business_name": "Waterfront Gourmet Cafe & Deli - Catering & Events Services in South St, Philadelphia",
+      "status": "skipped_good_site",
+      "website": "https://waterfrontgourmet.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJZZd0aaLIxokRodS4GRS9zlo": {
+      "slug": "palm-tree-market-rs9zlo",
+      "business_name": "Palm Tree Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "901 S 2nd St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 334-2400",
+      "rating": 4.8,
+      "review_count": 95,
+      "hours": [
+        "Monday: 7:30 AM – 8:30 PM",
+        "Tuesday: 7:30 AM – 8:30 PM",
+        "Wednesday: 7:30 AM – 8:30 PM",
+        "Thursday: 7:30 AM – 8:30 PM",
+        "Friday: 7:30 AM – 8:30 PM",
+        "Saturday: 8:00 AM – 8:30 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 88.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJVfbe0CHGxokRn4PRcazTmPw": {
+      "slug": "george-s-sandwich-shop-aztmpw",
+      "business_name": "George's Sandwich Shop",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Sandwich Shop",
+      "address": "900 S 9th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 592-8363",
+      "rating": 4.4,
+      "review_count": 251,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 9:00 AM – 4:00 PM",
+        "Wednesday: 9:00 AM – 4:00 PM",
+        "Thursday: 9:00 AM – 4:00 PM",
+        "Friday: 9:00 AM – 4:00 PM",
+        "Saturday: 9:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJl_zKZQDHxokRwtWN4PZdWzc": {
+      "slug": "met-fresh-of-south-philadelphia-pzdwzc",
+      "business_name": "Met Fresh of South Philadelphia",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Supermarket",
+      "address": "2014 S Broad St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 218-2877",
+      "rating": 4.7,
+      "review_count": 73,
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: 7:00 AM – 10:00 PM",
+        "Sunday: 7:00 AM – 10:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 84.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJv1svzlTPxokRIey3FO4GteE": {
+      "slug": "tony-s-market-o4gtee",
+      "business_name": "Tony's Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "153 W Porter St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 465-6650",
+      "rating": 4.6,
+      "review_count": 69,
+      "hours": [
+        "Monday: 6:00 AM – 6:30 PM",
+        "Tuesday: 6:00 AM – 6:30 PM",
+        "Wednesday: 6:00 AM – 6:30 PM",
+        "Thursday: 6:00 AM – 6:30 PM",
+        "Friday: 6:00 AM – 6:30 PM",
+        "Saturday: 6:30 AM – 6:30 PM",
+        "Sunday: 7:00 AM – 1:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 83.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJM3LVPOLFxokRwDJBmnYzAIk": {
+      "business_name": "Beef Boss",
+      "status": "skipped_good_site",
+      "website": "https://www.beefboss.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJWTGBgz3GxokRyle6wN8PJcg": {
+      "slug": "nu-ez-deli-grocery-n8pjcg",
+      "business_name": "Nuñez Deli & Grocery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Convenience Store",
+      "address": "1544 Christian St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 772-1106",
+      "rating": 4.4,
+      "review_count": 22,
+      "hours": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:30 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 73.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ-abUNAfGxokRczyd_-tdpVE": {
+      "slug": "san-mateo-delie-inc-dtdpve",
+      "business_name": "San Mateo Delie Inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "2347 S 8th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 271-8007",
+      "rating": 4.5,
+      "review_count": 12,
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 71.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJq6CN19LHxokRlItEQiKaPwI": {
+      "slug": "newbold-cafe-ikapwi",
+      "business_name": "Newbold Cafe",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Sandwich Shop",
+      "address": "1514 Tasker St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 644-8171",
+      "rating": 4.9,
+      "review_count": 127,
+      "hours": [
+        "Monday: 11:00 AM – 5:00 PM",
+        "Tuesday: 11:00 AM – 5:00 PM",
+        "Wednesday: 11:00 AM – 5:00 PM",
+        "Thursday: 11:00 AM – 5:00 PM",
+        "Friday: 11:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.instagram.com/NEWBOLDCAFE/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 73.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJJwXgyJ7IxokRU6Ev5BSdP6w": {
+      "business_name": "Queen Village Food Market",
+      "status": "skipped_good_site",
+      "website": "http://www.queenvillagemarkets.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJMU6pnRvGxokRiRobHmjBe_E": {
+      "slug": "passyunk-market-hmjbee",
+      "business_name": "Passyunk Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Market",
+      "address": "1407-13 Passyunk Ave, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 789-5524",
+      "rating": 4.1,
+      "review_count": 15,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 71.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJpe3zdU3HxokR0SENBDLHwn8": {
+      "business_name": "Slice & Schmear",
+      "status": "skipped_unverified",
+      "website": "https://sliceandschmear.com/?utm_source=google",
+      "seen": "2026-09-14"
+    },
+    "ChIJ75JQUCLHxokRLjcFbeIs6u0": {
+      "business_name": "Philadelphia Pickle Company",
+      "status": "skipped_good_site",
+      "website": "https://philadelphiapicklecompany.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJFY223R3GxokRqyRryrtLHk0": {
+      "slug": "richette-s-south-philly-cold-rtlhk0",
+      "business_name": "Richette's South Philly Cold",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Restaurant",
+      "address": "701 Wharton St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 468-9676",
+      "rating": 4.2,
+      "review_count": 17,
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 71.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJBRuKxaXHxokR42RS1fREOLw": {
+      "slug": "charlie-s-grocery-freolw",
+      "business_name": "CHARLIE'S GROCERY",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1700 S 12th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 755-1696",
+      "rating": 4.7,
+      "review_count": 29,
+      "hours": [
+        "Monday: 9:00 AM – 1:00 AM",
+        "Tuesday: 9:00 AM – 1:00 AM",
+        "Wednesday: 9:00 AM – 1:00 AM",
+        "Thursday: 9:00 AM – 1:00 AM",
+        "Friday: 9:00 AM – 1:00 AM",
+        "Saturday: 9:00 AM – 1:00 AM",
+        "Sunday: 10:00 AM – 1:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 75.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJsZjXcgvGxokRy2rDYmDqg7Q": {
+      "slug": "caff-ida-mdqg7q",
+      "business_name": "Caffè Ida",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Cafe",
+      "address": "1732 W Passyunk Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 218-0100",
+      "rating": 4.7,
+      "review_count": 192,
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 7:00 AM – 9:00 PM",
+        "Sunday: 7:00 AM – 9:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ__-TtAPGxokRsAVWhzEkQ_A": {
+      "slug": "latino-envios-y-deli-hzekqa",
+      "business_name": "Latino Envios Y Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1915 S 7th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": null,
+      "rating": 5,
+      "review_count": 12,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 9:30 AM – 8:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 72.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJpyUqweXHxokRCzpo2qSqGwY": {
+      "slug": "olives-organic-deli-qsqgwy",
+      "business_name": "Olives organic deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1710 S 10th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(423) 534-6454",
+      "rating": 4.2,
+      "review_count": 13,
+      "hours": [
+        "Monday: 8:30 AM – 12:00 AM",
+        "Tuesday: 8:30 AM – 12:00 AM",
+        "Wednesday: 8:30 AM – 12:00 AM",
+        "Thursday: 8:30 AM – 12:00 AM",
+        "Friday: 8:30 AM – 12:00 AM",
+        "Saturday: 8:30 AM – 12:00 AM",
+        "Sunday: 8:30 AM – 12:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 71.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJAQCEem7GxokReUbEuS0fp-g": {
+      "slug": "fresh-choice-food-market-inc-us0fpg",
+      "business_name": "fresh choice food market inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1501 S 24th St #4132, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 334-1507",
+      "rating": 4.8,
+      "review_count": 86,
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 8:30 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 86.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJfYCRYFDHxokRYukdEzbXvaA": {
+      "slug": "federal-deli-zbxvaa",
+      "business_name": "Federal Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Fast Food Restaurant",
+      "address": "1501 Federal St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 634-1609",
+      "rating": 5,
+      "review_count": 69,
+      "hours": [
+        "Monday: 6:00 AM – 11:30 PM",
+        "Tuesday: 6:00 AM – 11:30 PM",
+        "Wednesday: 6:00 AM – 11:30 PM",
+        "Thursday: 6:00 AM – 11:30 PM",
+        "Friday: 6:00 AM – 11:30 PM",
+        "Saturday: 6:00 AM – 11:30 PM",
+        "Sunday: 6:00 AM – 11:30 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 83.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJYcb_cHLGxokRm1OPpFcJmJY": {
+      "slug": "wow-food-market-fcjmjy",
+      "business_name": "Wow Food Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1334, 2201 Morris St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 336-3775",
+      "rating": 4.2,
+      "review_count": 222,
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 8:00 AM – 11:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJU3YvvRLGxokRWOZMxZsk74Q": {
+      "slug": "19th-food-market-zsk74q",
+      "business_name": "19th Food Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1600 S 19th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 551-9431",
+      "rating": 4.2,
+      "review_count": 41,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 76.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ77KlPgDHxokR5LhFRdpTJ9E": {
+      "slug": "federal-deli-market-i-inc-dptj9e",
+      "business_name": "Federal Deli Market I inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1944 Federal St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 755-2207",
+      "rating": 5,
+      "review_count": 3,
+      "hours": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJMeRBnHPGxokRfa-dTOH72vM": {
+      "slug": "zorilla-deli-grocery-oh72vm",
+      "business_name": "Zorilla Deli Grocery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1950 S 21st St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": null,
+      "rating": 4.7,
+      "review_count": 17,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:30 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 72.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJGTEYb0DGxokR6Lt7p2rW-J4": {
+      "slug": "brianette-convenience-store-tobacco-shop-p2rwj4",
+      "business_name": "Brianette Convenience Store | Tobacco Shop",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Store",
+      "address": "755 S 22nd St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(814) 346-3178",
+      "rating": 4.3,
+      "review_count": 23,
+      "hours": [
+        "Monday: 8:00 AM – 1:00 AM",
+        "Tuesday: 8:00 AM – 1:00 AM",
+        "Wednesday: 8:00 AM – 1:00 AM",
+        "Thursday: 8:00 AM – 1:00 AM",
+        "Friday: 8:00 AM – 1:00 AM",
+        "Saturday: 8:00 AM – 1:00 AM",
+        "Sunday: 8:00 AM – 1:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 73.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJVUCQ5nHGxokRJBWj4pouXEI": {
+      "slug": "morris-super-deli-pouxei",
+      "business_name": "Morris Super Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1639 S 24th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 463-8319",
+      "rating": 4.4,
+      "review_count": 7,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJY7uK-gzGxokRhOL1RCbA-WU": {
+      "slug": "cruz-mini-market-rcbawu",
+      "business_name": "Cruz Mini Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1901 S 18th St #1, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 462-3031",
+      "rating": 4.2,
+      "review_count": 98,
+      "hours": [
+        "Monday: 7:30 AM – 9:00 PM",
+        "Tuesday: 7:30 AM – 9:00 PM",
+        "Wednesday: 7:30 AM – 9:00 PM",
+        "Thursday: 7:30 AM – 9:00 PM",
+        "Friday: 7:30 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 88.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJV0C6mnLGxokRqz5Z4CvY58M": {
+      "slug": "c-l-mini-market-cvy58m",
+      "business_name": "C & L Mini Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "2060 Morris St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 339-5380",
+      "rating": 4.5,
+      "review_count": 24,
+      "hours": [
+        "Monday: 8:00 AM – 8:30 PM",
+        "Tuesday: 8:00 AM – 8:30 PM",
+        "Wednesday: 8:00 AM – 8:30 PM",
+        "Thursday: 8:00 AM – 8:30 PM",
+        "Friday: 8:00 AM – 8:30 PM",
+        "Saturday: 8:30 AM – 8:30 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 73.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ__-rbjzGxokRcFGW6zHhcLM": {
+      "slug": "choice-beer-deli-zhhclm",
+      "business_name": "Choice Beer Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Liquor Store",
+      "address": "1642 South St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 758-5734",
+      "rating": 4.4,
+      "review_count": 90,
+      "hours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 86.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ7bur58_HxokRDk2Uhc1f5i8": {
+      "slug": "philly-s-hoagie-house-c1f5i8",
+      "business_name": "Philly’s Hoagie House",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1322 S 21st St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 398-5907",
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: 10:00 AM – 7:30 PM",
+        "Tuesday: 10:00 AM – 7:30 PM",
+        "Wednesday: 10:00 AM – 7:30 PM",
+        "Thursday: 10:00 AM – 7:30 PM",
+        "Friday: 10:00 AM – 7:30 PM",
+        "Saturday: 11:00 AM – 7:30 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJze8P3mzGxokRV2N7RlhDCCo": {
+      "slug": "fang-s-ice-cold-beer-wine-deli-lhdcco",
+      "business_name": "Fang's Ice Cold Beer Wine & Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1415 S 21st St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": 3.9,
+      "review_count": 32,
+      "hours": [
+        "Monday: 10:00 AM – 12:00 AM",
+        "Tuesday: 10:00 AM – 12:00 AM",
+        "Wednesday: 10:00 AM – 12:00 AM",
+        "Thursday: 10:00 AM – 12:00 AM",
+        "Friday: 10:00 AM – 1:00 AM",
+        "Saturday: 10:00 AM – 1:00 AM",
+        "Sunday: 10:00 AM – 12:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 74.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJKZ_YGwzGxokR72ZTyUrSZhQ": {
+      "slug": "erie-deli-grocery-urszhq",
+      "business_name": "Erie Deli & Grocery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1551 McKean St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": null,
+      "rating": 5,
+      "review_count": 1,
+      "hours": [
+        "Monday: 9:00 AM – 5:30 PM",
+        "Tuesday: 9:00 AM – 5:30 PM",
+        "Wednesday: 9:00 AM – 5:30 PM",
+        "Thursday: 9:00 AM – 5:30 PM",
+        "Friday: 9:00 AM – 5:30 PM",
+        "Saturday: 9:00 AM – 5:30 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ59bcYwzGxokRyUQ0hIzdgWs": {
+      "business_name": "Rowhouse Grocery",
+      "status": "skipped_good_site",
+      "website": "http://www.rowhousegrocery.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJjaPdKRHGxokRt75ONvAwlgU": {
+      "slug": "gomez-deli-grocery-vawlgu",
+      "business_name": "Gomez Deli Grocery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1429 Wharton St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 218-4009",
+      "rating": 2,
+      "review_count": 4,
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 64.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJWZk39m_GxokRODgmxhhekXA": {
+      "slug": "8-brothers-super-market-hhekxa",
+      "business_name": "8 Brothers Super Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Supermarket",
+      "address": "2639 Tasker St #43, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 551-0430",
+      "rating": 4.2,
+      "review_count": 202,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJp-ixHwDHxokRE0zpuV0UjJ8": {
+      "slug": "wharton-deli-market-inc-v0ujj8",
+      "business_name": "Wharton deli market inc.",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1429 Wharton St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": 5,
+      "review_count": 2,
+      "hours": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ27OzvWXGxokR64-p0503IVU": {
+      "slug": "deb-s-deli-503ivu",
+      "business_name": "Deb's Deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Deli",
+      "address": "1353 S Newkirk St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": 4,
+      "review_count": 3,
+      "hours": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 12:00 – 4:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 68.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJWeXIMRDGxokRLMzEPdFBI2I": {
+      "slug": "morel-grocery-dfbi2i",
+      "business_name": "Morel Grocery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1600 S Broad St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 334-1293",
+      "rating": 4.2,
+      "review_count": 20,
+      "hours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 8:30 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 72.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJRUiBcxTGxokRAuGrLbLYBnE": {
+      "slug": "fernandez-grocery-blybne",
+      "business_name": "Fernandez Grocery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1227 S 18th St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 465-0892",
+      "rating": 4.4,
+      "review_count": 33,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 75.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJOb0Gl1jHxokRad2Em1AD8NY": {
+      "slug": "joas-super-deli-1ad8ny",
+      "business_name": "Joas Super Deli",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Convenience Store",
+      "address": "1701 S 20th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 858-5883",
+      "rating": 5,
+      "review_count": 5,
+      "hours": null,
+      "website": "https://www.instagram.com/joas.deli/profilecard/?igsh=cGd0Znh4NXBqa29t",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 49.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJXZA_rBTGxokRNLibHq9kOzg": {
+      "slug": "point-save-super-market-q9kozg",
+      "business_name": "Point Save Super Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1245 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": 4.5,
+      "review_count": 6,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJkfo2GG3GxokRPt7xYt1Y_RA": {
+      "slug": "stop-shop-grocery-inc-yt1yra",
+      "business_name": "Stop Shop Grocery Inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Convenience Store",
+      "address": "2050 Dickinson St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 467-9175",
+      "rating": 4.8,
+      "review_count": 5,
+      "hours": [
+        "Monday: 7:45 AM – 8:00 PM",
+        "Tuesday: 7:45 AM – 8:00 PM",
+        "Wednesday: 7:45 AM – 8:00 PM",
+        "Thursday: 7:45 AM – 8:00 PM",
+        "Friday: 7:45 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJSVXcIg7GxokRF2mXqMyCWJ8": {
+      "slug": "morris-market-mycwj8",
+      "business_name": "Morris Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1500 Morris St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 333-0460",
+      "rating": 4,
+      "review_count": 14,
+      "hours": [
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.8,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ30crYenHxokRQkYVmLA1W9g": {
+      "business_name": "Luhv Vegan Bistro",
+      "status": "skipped_good_site",
+      "website": "https://www.luhvfood.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJhzbdGhLGxokRUh-55blKZCE": {
+      "slug": "dean-food-market-blkzce",
+      "business_name": "Dean Food Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1601 S Chadwick St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 271-6873",
+      "rating": 3.2,
+      "review_count": 21,
+      "hours": [
+        "Monday: 9:00 AM – 8:30 PM",
+        "Tuesday: 9:00 AM – 8:30 PM",
+        "Wednesday: 9:00 AM – 8:30 PM",
+        "Thursday: 9:00 AM – 8:30 PM",
+        "Friday: 9:00 AM – 8:30 PM",
+        "Saturday: 10:00 AM – 7:30 PM",
+        "Sunday: 10:00 AM – 7:30 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJU18stTPHxokRLeJnba3z5qE": {
+      "business_name": "Nipotina",
+      "status": "skipped_good_site",
+      "website": "http://nipotinaphilly.com/",
+      "seen": "2026-09-14"
+    },
+    "ChIJz3mEws_HxokRNPdUm3nZZco": {
+      "slug": "s-j-market-3nzzco",
+      "business_name": "S&J Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1443 Tasker St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 230-1885",
+      "rating": 4.5,
+      "review_count": 13,
+      "hours": [
+        "Monday: 9:30 AM – 9:00 PM",
+        "Tuesday: 9:30 AM – 9:00 PM",
+        "Wednesday: 9:30 AM – 9:00 PM",
+        "Thursday: 9:30 AM – 9:00 PM",
+        "Friday: 9:30 AM – 9:00 PM",
+        "Saturday: 9:30 AM – 9:00 PM",
+        "Sunday: 2:00 – 9:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 71.6,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJx7EqLQvGxokRXyIOl5HcrGk": {
+      "slug": "rafi-mini-market-llc-5hcrgk",
+      "business_name": "Rafi mini market llc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1848 W Passyunk Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(610) 332-1834",
+      "rating": 5,
+      "review_count": 10,
+      "hours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 2:30 PM",
+        "Thursday: 7:00 AM – 11:00 PM",
+        "Friday: 7:00 AM – 11:00 PM",
+        "Saturday: 7:00 AM – 11:00 PM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 72.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ8eAM-g3GxokR8xKLiP4lKxc": {
+      "slug": "sunny-beer-deli-p4lkxc",
+      "business_name": "Sunny beer deli",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Liquor Store",
+      "address": "1655 S Chadwick St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 777-5416",
+      "rating": 4.1,
+      "review_count": 25,
+      "hours": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 1:00 AM",
+        "Saturday: 12:00 PM – 1:00 AM",
+        "Sunday: 12:00 – 11:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 73.2,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJd0DuY2_GxokR3-1e4h77W5U": {
+      "slug": "reed-food-market-h77w5u",
+      "business_name": "Reed Food Market",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "2701 Reed St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(267) 333-0801",
+      "rating": 4.2,
+      "review_count": 33,
+      "hours": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 75.0,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJpSPFntnHxokRu1POor8NJ5o": {
+      "slug": "kim-woa-grocery-store-r8nj5o",
+      "business_name": "Kim Woa Grocery store",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1300 S 17th St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 463-5426",
+      "rating": 4.7,
+      "review_count": 60,
+      "hours": [
+        "Monday: 9:00 AM – 6:30 PM",
+        "Tuesday: 9:00 AM – 6:30 PM",
+        "Wednesday: 9:00 AM – 6:30 PM",
+        "Thursday: 9:00 AM – 6:30 PM",
+        "Friday: 9:00 AM – 6:30 PM",
+        "Saturday: 9:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 81.4,
+      "notes": "",
+      "seen": "2026-09-14",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
