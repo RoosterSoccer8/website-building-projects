@@ -6524,7 +6524,7 @@
     "ChIJ81UuBK0lraMRjWpqi7IHX9k": {
       "slug": "upper-darby-mobile-detailing-7ihx9k",
       "business_name": "Upper Darby Mobile Detailing",
-      "status": "new",
+      "status": "generated",
       "lead_type": "NO_WEBSITE",
       "category": "Point Of Interest",
       "address": "25 Powell Ln, Upper Darby Township, PA 19082, USA",
@@ -6546,8 +6546,9 @@
       "score": 100.0,
       "notes": "",
       "seen": "2026-09-10",
-      "generated_at": null,
-      "preview_path": null
+      "generated_at": "2026-09-15",
+      "preview_path": "sites/upper-darby-mobile-detailing-7ihx9k/",
+      "design_seed": "GAxatpYZbqMC9AgyNnyqa1pwOVFtY2z2UNOKfwae5wmIV2VK"
     },
     "ChIJySG-8RDGxokRHGRVQxO0MNY": {
       "slug": "car-wash-xo0mny",
