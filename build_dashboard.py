@@ -1,15 +1,24 @@
 """Builds docs/index.html — the lead dashboard — from leads.json.
 
-Run after every scan or generate. The page is static and self-contained
-(lead data embedded), served by GitHub Pages from /docs. QR codes are
-rendered client-side from the page's own origin, so they always point at
-the live preview URLs no matter where the repo is hosted.
+The page ships with a snapshot of the ledger baked in (so it renders
+instantly and still works offline), then fetches leads.json live from the
+repo on every load. That means a status change shows up on a bookmarked
+phone dashboard as soon as it lands in the repo — no rebuild, no waiting
+for a Pages deploy, no stale cache.
+
+Each card also carries next-step buttons that open a pre-filled GitHub
+issue ("build: <slug>", "pitched: <slug>", ...). The flag workflow picks
+that up, applies it, builds the preview if asked, and closes the issue —
+so the whole pipeline can be run from a phone.
 """
 
+import datetime
 import json
 
 import config
 from scanner import load_ledger
+
+REPO = "RoosterSoccer8/website-building-projects"
 
 TEMPLATE = r"""<!DOCTYPE html>
 <html lang="en">
@@ -17,6 +26,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
+<meta http-equiv="Cache-Control" content="no-store">
 <title>South Philly Lead Queue</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <style>
@@ -34,7 +44,12 @@ TEMPLATE = r"""<!DOCTYPE html>
 *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);
   font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding:20px}
 .wrap{max-width:960px;margin:0 auto}
-h1{font-size:22px;margin:0 0 2px} .sub{color:var(--ink-2);font-size:13px;margin:0 0 18px}
+h1{font-size:22px;margin:0 0 2px} .sub{color:var(--ink-2);font-size:13px;margin:0 0 6px}
+.freshness{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--ink-2);margin-bottom:16px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--st-generated);flex-shrink:0}
+.dot.stale{background:var(--st-pitched)}
+.freshness button{border:1px solid var(--line);background:var(--surface);color:var(--accent);
+  border-radius:8px;padding:4px 12px;font-size:12.5px;font-weight:600;cursor:pointer}
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:18px}
 .tile{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
 .tile b{display:block;font-size:26px;font-weight:700;font-variant-numeric:tabular-nums}
@@ -59,11 +74,14 @@ h1{font-size:22px;margin:0 0 2px} .sub{color:var(--ink-2);font-size:13px;margin:
 .actions{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
 .actions a,.actions button{font-size:13px;font-weight:600;text-decoration:none;cursor:pointer;
   border:1px solid var(--line);background:var(--surface);color:var(--accent);
-  border-radius:8px;padding:6px 12px}
+  border-radius:8px;padding:7px 13px}
+.actions a.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.actions a.step{color:var(--ink-2)}
+.pending{margin-top:10px;font-size:13px;color:var(--st-build);font-weight:600}
 .help{background:var(--surface);border:1px dashed var(--line);border-radius:10px;
   padding:12px 14px;color:var(--ink-2);font-size:13.5px;margin-bottom:18px}
-.help code{background:var(--bg);padding:1px 5px;border-radius:4px;font-size:12.5px}
-dialog{border:none;border-radius:14px;padding:22px;background:var(--surface);color:var(--ink);text-align:center}
+.help b{color:var(--ink)}
+dialog{border:none;border-radius:14px;padding:22px;background:var(--surface);color:var(--ink);text-align:center;max-width:90vw}
 dialog::backdrop{background:rgba(0,0,0,.5)}
 #qrbox{margin:12px auto;background:#fff;padding:10px;border-radius:8px;width:fit-content}
 .empty{color:var(--ink-2);text-align:center;padding:30px 0}
@@ -72,15 +90,16 @@ dialog::backdrop{background:rgba(0,0,0,.5)}
 <body>
 <div class="wrap">
   <h1>South Philly Lead Queue</h1>
-  <p class="sub">Updated __UPDATED__ &middot; scored by pitch-worthiness &middot; previews are unlisted &amp; noindexed</p>
+  <p class="sub">Ranked by pitch-worthiness &middot; previews are unlisted &amp; noindexed</p>
+  <div class="freshness"><span class="dot" id="dot"></span><span id="freshtext">Loading latest&hellip;</span>
+    <button id="refresh">Refresh</button></div>
 
   <div class="tiles" id="tiles"></div>
 
-  <div class="help">To flag a lead for a preview build: open <code>leads.json</code> in the GitHub app,
-  change its <code>"status"</code> from <code>"new"</code> to <code>"build"</code>, and commit &mdash; the
-  Build&nbsp;Previews action runs automatically. Track your pipeline the same way:
-  <code>pitched</code> &rarr; <code>replied</code> &rarr; <code>sold</code> / <code>dead</code>, and keep
-  call notes in each lead&rsquo;s <code>"notes"</code> field.</div>
+  <div class="help"><b>Running this from your phone:</b> tap a button on any card &mdash;
+  <b>Build this site</b>, <b>Mark pitched</b>, <b>Mark sold</b> &mdash; and GitHub opens with the request
+  pre-filled. Hit <b>Submit new issue</b> and it happens: the status changes, previews build themselves,
+  and this page updates. No file editing.</div>
 
   <div class="filters" id="filters"></div>
   <div id="list"></div>
@@ -93,37 +112,61 @@ dialog::backdrop{background:rgba(0,0,0,.5)}
   </dialog>
 </div>
 <script>
-const LEADS = __LEADS_JSON__;
+const REPO = "__REPO__";
+const SNAPSHOT = __LEADS_JSON__;
+const BUILT_AT = "__UPDATED__";
+const RAW = `https://raw.githubusercontent.com/${REPO}/main/leads.json`;
+
 const ORDER = ["new","build","generated","pitched","replied","sold","dead"];
 const COLORS = {new:"--st-new",build:"--st-build",generated:"--st-generated",
   pitched:"--st-pitched",replied:"--st-replied",sold:"--st-sold",dead:"--st-dead"};
 const ICONS = {new:"●",build:"⚒",generated:"✓",pitched:"➤",
   replied:"↩",sold:"$",dead:"✕"};
+// What you can do next from each state, as [label, action].
+const NEXT = {
+  new:       [["Build this site","build"]],
+  generated: [["Mark pitched","pitched"]],
+  pitched:   [["Mark replied","replied"],["Mark sold","sold"],["Mark dead","dead"]],
+  replied:   [["Mark sold","sold"],["Mark dead","dead"]],
+};
+
+let RAW_LEADS = SNAPSHOT;
 let filter = "all";
 
-const leads = Object.values(LEADS).filter(l => l.status !== "skipped_good_site")
-  .sort((a,b) => (b.score||0)-(a.score||0));
+function leadList(){
+  return Object.values(RAW_LEADS)
+    .filter(l => l.status !== "skipped_good_site" && l.status !== "skipped_unverified")
+    .sort((a,b) => (b.score||0)-(a.score||0));
+}
+function esc(x){return String(x??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;")}
+
+function issueLink(action, l){
+  const title = `${action}: ${l.slug}`;
+  const body = `Requested from the dashboard for ${l.business_name}.\n\nJust tap "Submit new issue" — the pipeline handles the rest and closes this automatically.`;
+  return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+}
 
 function tiles(){
-  const c = s => leads.filter(l=>l.status===s).length;
-  const t = [["In queue",c("new")],["Flagged to build",c("build")],
+  const leads = leadList(), c = s => leads.filter(l=>l.status===s).length;
+  const t = [["In queue",c("new")],["Building now",c("build")],
              ["Previews ready",c("generated")],["Pitched",c("pitched")+c("replied")],
              ["Sold",c("sold")]];
   document.getElementById("tiles").innerHTML =
     t.map(([k,v])=>`<div class="tile"><b>${v}</b><span>${k}</span></div>`).join("");
 }
 function filters(){
-  const el = document.getElementById("filters");
+  const leads = leadList(), el = document.getElementById("filters");
   const opts = ["all",...ORDER.filter(s=>leads.some(l=>l.status===s))];
   el.innerHTML = opts.map(s=>`<button data-s="${s}" class="${s===filter?'on':''}">${s==="all"?"All":s[0].toUpperCase()+s.slice(1)}</button>`).join("");
   el.querySelectorAll("button").forEach(b=>b.onclick=()=>{filter=b.dataset.s;render();});
 }
-function esc(x){return String(x??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;")}
 function card(l){
   const col = `var(${COLORS[l.status]||"--st-dead"})`;
   const previewUrl = l.preview_path ? new URL(l.preview_path, location.href).href : null;
   const bits = [l.category, l.address, l.phone].filter(Boolean).map(esc).join(" &middot; ");
   const rating = l.rating ? `${l.rating}★ (${l.review_count} reviews on Google)` : "";
+  const steps = (NEXT[l.status]||[]).map(([label,action],i)=>
+    `<a class="step${i===0&&l.status==="new"?" primary":""}" href="${issueLink(action,l)}" target="_blank" rel="noopener">${label}</a>`).join("");
   return `<div class="card">
     <div class="row1">
       <span class="name">${esc(l.business_name)}</span>
@@ -133,9 +176,11 @@ function card(l){
     <div class="meta score"><b>${l.score??"–"}</b> pitch score &middot; ${esc(l.lead_type||"")}${l.seen?" &middot; found "+l.seen:""}</div>
     ${l.audit_flags?.length ? `<div class="flags">${l.audit_flags.map(f=>`<span class="flag">${esc(f)}</span>`).join("")}</div>` : ""}
     ${l.notes ? `<div class="notes">${esc(l.notes)}</div>` : ""}
+    ${l.status==="build" ? `<div class="pending">⚒ Queued — the preview builds in about a minute, then this page shows it.</div>` : ""}
     <div class="actions">
-      ${previewUrl ? `<a href="${previewUrl}" target="_blank">Open preview</a>
+      ${previewUrl ? `<a class="primary" href="${previewUrl}" target="_blank">Open preview</a>
         <button data-qr-url="${esc(previewUrl)}" data-qr-name="${esc(l.business_name)}">QR code</button>` : ""}
+      ${steps}
       ${l.website ? `<a href="${esc(l.website)}" target="_blank" rel="noopener">Current site</a>` : ""}
       ${l.phone ? `<a href="tel:${esc(l.phone)}">Call</a>` : ""}
       ${l.address ? `<a href="https://maps.google.com/?q=${encodeURIComponent(l.address)}" target="_blank">Map</a>` : ""}
@@ -144,7 +189,7 @@ function card(l){
 }
 function render(){
   tiles(); filters();
-  const shown = leads.filter(l=>filter==="all"||l.status===filter);
+  const shown = leadList().filter(l=>filter==="all"||l.status===filter);
   document.getElementById("list").innerHTML =
     shown.length ? shown.map(card).join("") : `<div class="empty">No leads in this view yet.</div>`;
 }
@@ -164,19 +209,57 @@ document.getElementById("list").addEventListener("click", e => {
   const b = e.target.closest("[data-qr-url]");
   if (b) showQR(b.dataset.qrName, b.dataset.qrUrl);
 });
+
+// Always show the current ledger, not the copy baked in at build time.
+async function refresh(){
+  const dot = document.getElementById("dot"), txt = document.getElementById("freshtext");
+  txt.textContent = "Checking for updates…";
+  try{
+    const r = await fetch(`${RAW}?t=${Date.now()}`, {cache:"no-store"});
+    if(!r.ok) throw new Error(r.status);
+    const j = await r.json();
+    RAW_LEADS = j.leads;
+    dot.classList.remove("stale");
+    txt.textContent = `Live — updated just now (${Object.keys(j.leads).length} businesses tracked)`;
+  }catch(e){
+    dot.classList.add("stale");
+    txt.textContent = `Offline — showing the copy saved ${BUILT_AT}`;
+  }
+  render();
+}
+document.getElementById("refresh").onclick = refresh;
+document.addEventListener("visibilitychange", () => { if(!document.hidden) refresh(); });
 render();
+refresh();
 </script>
 </body>
 </html>
 """
 
 
+SNAPSHOT_SIZE = 60          # leads baked in for instant first paint
+SKIPPED = ("skipped_good_site", "skipped_unverified")
+
+
+def snapshot(leads):
+    """The small head-start copy shipped inside the page.
+
+    The page fetches the full ledger live on every load, so this only has
+    to cover the first screenful (and keep the page useful if GitHub is
+    unreachable). Businesses that were audited and skipped never render,
+    so they are left out entirely — that alone drops most of the weight.
+    """
+    active = {k: v for k, v in leads.items() if v.get("status") not in SKIPPED}
+    top = sorted(active.items(), key=lambda kv: -(kv[1].get("score") or 0))[:SNAPSHOT_SIZE]
+    return dict(top)
+
+
 def main():
-    import datetime
     ledger = load_ledger()
     html = (TEMPLATE
-            .replace("__LEADS_JSON__", json.dumps(ledger["leads"], ensure_ascii=False))
-            .replace("__UPDATED__", datetime.date.today().isoformat()))
+            .replace("__LEADS_JSON__", json.dumps(snapshot(ledger["leads"]), ensure_ascii=False))
+            .replace("__UPDATED__", datetime.date.today().isoformat())
+            .replace("__REPO__", REPO))
     with open(config.DASHBOARD_PATH, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"Dashboard written to {config.DASHBOARD_PATH}")
