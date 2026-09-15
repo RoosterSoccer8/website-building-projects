@@ -75,6 +75,17 @@ def build_brief(lead, seed=None):
     name = lead.get("business_name") or "This business"
     seed = seed or design_seed()
     today = datetime.date.today().isoformat()
+    # Only claim a rival design exists when one actually does.
+    has_preview = bool(lead.get("design_seed") and lead.get("preview_path"))
+    seed_note = (
+        "This seed is new. A different design for this same business already exists, and the point\n"
+        "of this build is to arrive somewhere else — a different palette, a different type voice, a\n"
+        "different structure — so the owner has two real options to react to. Follow the seed where\n"
+        "it leads rather than reaching for the safe version."
+        if has_preview else
+        "Follow the seed where it leads rather than reaching for the safe version. A generic result\n"
+        "is a failed result here."
+    )
     rating = lead.get("rating")
     reviews = lead.get("review_count")
     rating_line = (f"{rating} out of 5 from {reviews} Google reviews — you may show this ONLY "
@@ -112,10 +123,7 @@ a layout structure, and a texture treatment.
 
     {seed}
 
-This seed is new. A different design for this same business already exists, and the point of
-this build is to arrive somewhere else — a different palette, a different type voice, a
-different structure — so the owner has two real options to react to. Follow the seed where it
-leads rather than reaching for the safe version.
+{seed_note}
 
 Then bend that direction toward this specific business and neighborhood (South Philadelphia)
 so it feels like this place and not a generic template. Commit to ONE layout archetype and
