@@ -43,6 +43,7 @@ jobs:
       - name: Generate preview sites for flagged leads
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
         run: python generator.py "${{ inputs.slugs }}"
 
