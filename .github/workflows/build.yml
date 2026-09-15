@@ -45,7 +45,8 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
-        run: python generator.py "${{ inputs.slugs }}"
+          SLUGS: ${{ inputs.slugs }}
+        run: python generator.py "$SLUGS"
 
       - name: Rebuild dashboard
         run: python build_dashboard.py
@@ -55,6 +56,7 @@ jobs:
           git config user.name "lead-pipeline-bot"
           git config user.email "actions@users.noreply.github.com"
           git add leads.json docs/
+          git add briefs/ || true
           git diff --cached --quiet || git commit -m "Build previews: $(date -u +%F)"
           git pull --rebase origin main
           git push
