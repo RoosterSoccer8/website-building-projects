@@ -148,6 +148,45 @@ def test_payload_never_invents():
     assert p["hours"] is None and p["status"] == "NO_WEBSITE"
 
 
+
+
+# --- dashboard flagging (added with phone control) -------------------------
+
+def test_flag_parse_valid_and_invalid():
+    from flag_lead import parse_title
+    assert parse_title("build: tony-s-pizza-abc123") == ("build", "tony-s-pizza-abc123")
+    assert parse_title("  Pitched :  KX-Auto-Byyawg ") == ("pitched", "kx-auto-byyawg")
+    for bad in ["", "hello there", "delete: everything", "build:", "rm -rf: x",
+                "build: ../../etc/passwd", "build: a; curl evil.com"]:
+        try:
+            parse_title(bad)
+            assert False, f"should have rejected {bad!r}"
+        except ValueError:
+            pass
+
+
+def test_flag_apply_changes_status_only_for_known_slug():
+    from flag_lead import apply
+    ledger = {"leads": {"P1": {"slug": "kx-auto-byyawg", "business_name": "KX Auto",
+                               "status": "new", "score": 80}}}
+    msg, action, lead = apply("build: kx-auto-byyawg", ledger)
+    assert action == "build" and lead["status"] == "build" and "KX Auto" in msg
+    # unknown slug must not mutate anything
+    try:
+        apply("build: not-a-real-slug", ledger)
+        assert False, "should have raised"
+    except ValueError as e:
+        assert "No lead found" in str(e)
+    assert ledger["leads"]["P1"]["status"] == "build"
+
+
+def test_flag_apply_is_idempotent():
+    from flag_lead import apply
+    ledger = {"leads": {"P1": {"slug": "s", "business_name": "B", "status": "sold"}}}
+    msg, action, _ = apply("sold: s", ledger)
+    assert action is None and "already marked" in msg
+
+
 if __name__ == "__main__":
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_")]
     for fn in fns:
