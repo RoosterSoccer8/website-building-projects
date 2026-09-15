@@ -183,6 +183,7 @@ function card(l){
       ${previewUrl ? `<a class="primary" href="${previewUrl}" target="_blank">Open preview</a>
         <button data-qr-url="${esc(previewUrl)}" data-qr-name="${esc(l.business_name)}">QR code</button>
         <a href="https://github.com/${REPO}/raw/main/docs/sites/${l.slug}/index.html" target="_blank" rel="noopener">Source file</a>` : ""}
+      ${l.brief_path ? `<a href="https://github.com/${REPO}/raw/main/${l.brief_path}" target="_blank" rel="noopener">Replit brief</a>` : ""}
       ${steps}
       ${l.website ? `<a href="${esc(l.website)}" target="_blank" rel="noopener">Current site</a>` : ""}
       ${l.phone ? `<a href="tel:${esc(l.phone)}">Call</a>` : ""}
