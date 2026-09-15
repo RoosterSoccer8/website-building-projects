@@ -251,6 +251,12 @@ def main():
         lead["status"] = "generated"
         lead["generated_at"] = today()
         lead["preview_path"] = f"sites/{lead['slug']}/"
+        try:  # the paste-into-Replit brief for the wow tier; never fatal
+            from replit_brief import write_brief
+            write_brief(lead)
+            print(f"  -> {lead['brief_path']}")
+        except Exception as e:
+            print(f"  (brief not written: {type(e).__name__})")
         built += 1
         print(f"  -> {out_dir}/index.html")
 
