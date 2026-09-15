@@ -5709,7 +5709,7 @@
     "ChIJrUjCfgbGxokRdRK91Pynpbg": {
       "slug": "rocco-s-collision-center-snyder-pynpbg",
       "business_name": "Rocco's Collision Center - Snyder",
-      "status": "new",
+      "status": "generated",
       "lead_type": "NO_WEBSITE",
       "category": "Car repair and maintenance service",
       "address": "1021 E Snyder Ave, Philadelphia, PA 19148, USA",
@@ -5731,8 +5731,9 @@
       "score": 99.2,
       "notes": "",
       "seen": "2026-09-10",
-      "generated_at": null,
-      "preview_path": null
+      "generated_at": "2026-09-15",
+      "preview_path": "sites/rocco-s-collision-center-snyder-pynpbg/",
+      "design_seed": "Po3xbR0Xvg74UhUB92nzvlwYUxFEwnxHLRvW7wlEp6JWJMWL"
     },
     "ChIJ14nPEHHGxokRae3xwmrkvXw": {
       "slug": "mcneils-auto-repair-mrkvxw",
