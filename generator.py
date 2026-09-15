@@ -111,7 +111,7 @@ def generate_site(lead, client, model):
     if resp.stop_reason == "max_tokens":
         raise RuntimeError("response truncated at max_tokens — refusing to ship a half-built page "
                            "(raise MAX_TOKENS in config.py and rerun)")
-    html = strip_fences(resp.content[0].text)
+    html = strip_fences("".join(b.text for b in resp.content if getattr(b, "type", "") == "text"))
     if "</html>" not in html.lower():
         raise RuntimeError("output does not look like a complete HTML document")
     return inject_preview_guards(html, lead["business_name"])
@@ -123,7 +123,7 @@ def main():
         sys.exit("ANTHROPIC_API_KEY is not set.")
     import anthropic
     client = anthropic.Anthropic(api_key=api_key)
-    model = os.environ.get("CLAUDE_MODEL", config.DEFAULT_CLAUDE_MODEL)
+    model = os.environ.get("CLAUDE_MODEL") or config.DEFAULT_CLAUDE_MODEL
 
     requested = set()
     if len(sys.argv) > 1 and sys.argv[1].strip():
