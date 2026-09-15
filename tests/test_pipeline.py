@@ -203,7 +203,8 @@ def test_prompt_template_has_both_placeholders_and_secrecy_rule():
     t = open(config.PROMPT_PATH, encoding="utf-8").read()
     assert "{payload}" in t and "{seed}" in t
     assert "Never print, display, embed" in t
-    assert "design inspiration ONLY" in t
+    assert "DESIGN ONLY, NEVER FACTS" in t
+    assert "NO service list" in t
 
 
 def test_reference_photos_degrade_gracefully_without_key():
