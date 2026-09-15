@@ -187,6 +187,38 @@ def test_flag_apply_is_idempotent():
     assert action is None and "already marked" in msg
 
 
+# --- creative direction (seed + reference photos) ---------------------------
+
+def test_design_seed_is_long_random_alphanumeric():
+    from generator import design_seed
+    import config
+    a, b = design_seed(), design_seed()
+    assert len(a) == config.SEED_LENGTH >= 32, a
+    assert a.isalnum() and a.isascii()
+    assert a != b, "two builds must not share a seed"
+
+
+def test_prompt_template_has_both_placeholders_and_secrecy_rule():
+    import config
+    t = open(config.PROMPT_PATH, encoding="utf-8").read()
+    assert "{payload}" in t and "{seed}" in t
+    assert "Never print, display, embed" in t
+    assert "design inspiration ONLY" in t
+
+
+def test_reference_photos_degrade_gracefully_without_key():
+    from generator import fetch_reference_photos
+    assert fetch_reference_photos("ChIJabc", None) == []
+    assert fetch_reference_photos(None, "key") == []
+    assert fetch_reference_photos("ChIJabc", "key", limit=0) == []
+
+
+def test_seed_leak_guard_rejects_page_containing_seed():
+    seed = "AbC123xyz"
+    page = "<!DOCTYPE html><html><body>AbC123XYZ</body></html>"
+    assert seed.lower() in page.lower(), "case-insensitive leak must be caught"
+
+
 if __name__ == "__main__":
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_")]
     for fn in fns:
