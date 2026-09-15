@@ -4,49 +4,14 @@
   <meta name="robots" content="noindex,nofollow">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mike & Matt's Italian Market — Neighborhood Grocery in South Philly</title>
-<meta name="description" content="Mike & Matt's Italian Market, 1206 Mifflin St, Philadelphia PA. Produce, grocery, deli & imports. Rated 4.9 on Google. Call or visit today.">
+<title>Mike & Matt's Italian Market — Grocery Store on Mifflin St, South Philadelphia</title>
+<meta name="description" content="Mike & Matt's Italian Market, a grocery store at 1206 Mifflin St, South Philadelphia. Rated 4.9 on Google. Call (215) 336-4733 or visit in person.">
 
-<script src="https://cdn.tailwindcss.com"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;0,700;1,500&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-<script>
-  tailwind.config = {
-    theme: {
-      extend: {
-        colors: {
-          brick: {
-            50: '#FBF6EC',
-            100: '#F3E6C4',
-            300: '#DEBE7C',
-            500: '#C8A257',
-            700: '#9C7A3B',
-            900: '#5C4726',
-          },
-          awning: {
-            600: '#245C40',
-            700: '#1B4732',
-            900: '#0F2B1E',
-          },
-          tomato: {
-            500: '#C1442C',
-            600: '#A6371F',
-          },
-          gold: {
-            500: '#D98E1F',
-          },
-          ink: '#2B2118',
-        },
-        fontFamily: {
-          display: ['Fraunces', 'serif'],
-          body: ['Work Sans', 'sans-serif'],
-        },
-      }
-    }
-  }
-</script>
+<script src="https://cdn.tailwindcss.com"></script>
 
 <script type="application/ld+json">
 {
@@ -80,182 +45,278 @@
 </script>
 
 <style>
-  body { font-family: 'Work Sans', sans-serif; background:#FBF6EC; color:#2B2118; }
-  .font-display { font-family: 'Fraunces', serif; }
-
-  .brick-texture {
-    background-color: #C8A257;
-    background-image:
-      repeating-linear-gradient(0deg, rgba(92,71,38,0.18) 0px, rgba(92,71,38,0.18) 2px, transparent 2px, transparent 34px),
-      repeating-linear-gradient(90deg, rgba(92,71,38,0.14) 0px, rgba(92,71,38,0.14) 2px, transparent 2px, transparent 70px);
+  :root{
+    --cream:#F3E8D2;
+    --green:#1E4A34;
+    --green-dark:#123424;
+    --red:#C1272D;
+    --ink:#241F1B;
+    --ink-black:#16120E;
+    --gold:#D9A441;
   }
-
-  .awning-stripes {
-    background-image: repeating-linear-gradient(
-      100deg,
-      #245C40 0px, #245C40 40px,
-      #F3E6C4 40px, #F3E6C4 80px
-    );
+  html{scroll-behavior:smooth;}
+  body{font-family:'Inter',sans-serif; background:var(--cream); color:var(--ink);}
+  .font-display{font-family:'Fraunces',serif;}
+  .stripe-green{
+    background-image:repeating-linear-gradient(45deg, var(--green) 0 18px, var(--cream) 18px 36px);
   }
-
-  .scallop {
-    height: 22px;
-    background: #1B4732;
-    -webkit-mask-image: radial-gradient(circle at 11px 0px, transparent 11px, black 12px);
-    mask-image: radial-gradient(circle at 11px 0px, transparent 11px, black 12px);
-    -webkit-mask-size: 22px 22px;
-    mask-size: 22px 22px;
-    -webkit-mask-repeat: repeat-x;
-    mask-repeat: repeat-x;
+  .stripe-red{
+    background-image:repeating-linear-gradient(45deg, var(--red) 0 16px, var(--ink-black) 16px 32px);
   }
-
-  .glass-shine {
-    background: linear-gradient(180deg, rgba(255,255,255,0.55), rgba(255,255,255,0.05));
+  .hatch{
+    background-image:repeating-linear-gradient(135deg, rgba(36,31,27,0.06) 0 2px, transparent 2px 14px);
+  }
+  .num-underline{
+    text-decoration: underline;
+    text-decoration-color: var(--red);
+    text-decoration-thickness: 4px;
+    text-underline-offset: 8px;
+  }
+  .today-row{
+    background:rgba(193,39,45,0.15);
+    border-left:3px solid var(--red);
   }
 </style>
 </head>
-
 <body class="antialiased">
 
-  <!-- Top contact strip -->
-  <div class="bg-awning-900 text-brick-100 text-sm">
-    <div class="max-w-5xl mx-auto px-4 py-2 flex items-center justify-between">
-      <span class="hidden sm:inline">1206 Mifflin St, Philadelphia, PA 19148</span>
-      <a href="tel:+12153364733" class="font-semibold tracking-wide hover:text-gold-500 transition-colors">
-        📞 (215) 336-4733
-      </a>
+<!-- ================= HEADER / HERO ================= -->
+<header class="relative bg-[var(--green)] text-[var(--cream)] overflow-hidden">
+
+  <!-- decorative slice motif -->
+  <svg class="absolute -right-16 -top-16 w-[26rem] h-[26rem] opacity-90 pointer-events-none select-none" viewBox="0 0 400 400" aria-hidden="true">
+    <circle cx="200" cy="200" r="190" fill="none" stroke="#F3E8D2" stroke-opacity="0.15" stroke-width="2"/>
+    <circle cx="200" cy="200" r="150" fill="#C1272D" fill-opacity="0.28"/>
+    <circle cx="200" cy="200" r="105" fill="#C1272D" fill-opacity="0.35"/>
+    <circle cx="200" cy="200" r="60" fill="#F3E8D2" fill-opacity="0.12"/>
+    <circle cx="150" cy="150" r="7" fill="#F3E8D2" fill-opacity="0.7"/>
+    <circle cx="255" cy="120" r="5" fill="#F3E8D2" fill-opacity="0.6"/>
+    <circle cx="270" cy="240" r="6" fill="#F3E8D2" fill-opacity="0.5"/>
+    <circle cx="140" cy="260" r="4" fill="#F3E8D2" fill-opacity="0.6"/>
+    <circle cx="200" cy="200" r="4" fill="#F3E8D2" fill-opacity="0.7"/>
+  </svg>
+
+  <nav class="relative z-10 max-w-6xl mx-auto px-6 pt-6 flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <div class="w-11 h-11 rounded-full border-2 border-[var(--gold)] flex items-center justify-center font-display font-bold text-lg">M&M</div>
+      <span class="hidden sm:block text-sm tracking-widest uppercase text-[var(--cream)]/80">Mifflin St · South Philadelphia</span>
     </div>
+
+    <div class="hidden md:flex items-center gap-8 text-sm uppercase tracking-wider">
+      <a href="#visit" class="hover:text-[var(--gold)] transition-colors">Visit</a>
+      <a href="#hours" class="hover:text-[var(--gold)] transition-colors">Hours</a>
+      <a href="tel:+12153364733" class="bg-[var(--red)] hover:bg-[#a11f24] transition-colors rounded-full px-5 py-2.5 font-semibold text-white active:scale-95">Call Now</a>
+    </div>
+
+    <button id="menuBtn" class="md:hidden flex flex-col gap-1.5 w-8" aria-label="Toggle menu">
+      <span class="h-0.5 w-full bg-[var(--cream)]"></span>
+      <span class="h-0.5 w-full bg-[var(--cream)]"></span>
+      <span class="h-0.5 w-full bg-[var(--cream)]"></span>
+    </button>
+  </nav>
+
+  <div id="mobileMenu" class="hidden md:hidden relative z-10 px-6 pb-4 flex flex-col gap-3 text-sm uppercase tracking-wider">
+    <a href="#visit" class="py-2 border-b border-white/10">Visit</a>
+    <a href="#hours" class="py-2 border-b border-white/10">Hours</a>
+    <a href="tel:+12153364733" class="py-2 font-semibold text-[var(--gold)]">Call (215) 336-4733</a>
   </div>
 
-  <!-- HERO -->
-  <header class="brick-texture relative overflow-hidden">
-    <div class="max-w-5xl mx-auto px-4 pt-14 pb-24 sm:pt-20 sm:pb-32 relative z-10">
-      <div class="inline-block bg-tomato-600 text-brick-50 text-xs font-bold tracking-widest uppercase px-4 py-1.5 rounded-sm shadow-md mb-6">
-        South Philly · Est. Neighborhood Market
-      </div>
-      <h1 class="font-display font-semibold text-4xl sm:text-6xl leading-[1.05] text-awning-900 drop-shadow-sm max-w-2xl">
-        Mike &amp; Matt's<br>
-        <span class="italic text-tomato-600">Italian Market</span>
+  <div class="relative z-10 max-w-6xl mx-auto px-6 pt-10 pb-24 md:pb-32 grid md:grid-cols-5 gap-10 items-end">
+    <div class="md:col-span-4">
+      <p class="uppercase tracking-[0.3em] text-xs sm:text-sm text-[var(--gold)] mb-4">South Philadelphia · Grocery Store</p>
+      <h1 class="font-display font-black leading-[0.92] text-[clamp(2.75rem,9vw,6.5rem)]">
+        Mike &amp; Matt's
       </h1>
-      <p class="mt-6 text-lg sm:text-xl font-medium text-awning-900/90 max-w-xl">
-        Produce, grocery, deli &amp; imports — right on the corner of Mifflin Street.
+      <p class="font-display italic font-medium text-[clamp(1.5rem,4.2vw,2.75rem)] text-[var(--gold)] mt-1 num-underline">
+        Italian Market
       </p>
 
-      <div class="mt-9 flex flex-wrap gap-4">
-        <a href="tel:+12153364733"
-           class="inline-flex items-center gap-2 bg-tomato-600 hover:bg-tomato-500 text-white font-semibold px-7 py-3.5 rounded-md shadow-lg transition-colors text-lg">
-          Call the Market
+      <p class="mt-6 max-w-xl text-[var(--cream)]/85 text-base sm:text-lg leading-relaxed">
+        A neighborhood grocery store rooted in the Mifflin Street corridor of South Philadelphia.
+        Stop in, or call ahead.
+      </p>
+
+      <div class="mt-8 flex flex-wrap items-center gap-4">
+        <a href="tel:+12153364733" class="inline-flex items-center gap-2 bg-[var(--red)] hover:bg-[#a11f24] transition-colors rounded-full px-7 py-3.5 font-semibold text-white active:scale-95 shadow-lg shadow-black/20">
+          Call (215) 336-4733
         </a>
-        <a href="https://maps.google.com/?q=Mike%20%26%20Matt%27s%20Italian%20Market%2C%201206%20Mifflin%20St%2C%20Philadelphia%2C%20PA%2019148"
-           target="_blank" rel="noopener"
-           class="inline-flex items-center gap-2 bg-awning-900 hover:bg-awning-700 text-brick-100 font-semibold px-7 py-3.5 rounded-md shadow-lg transition-colors text-lg">
+        <a href="https://maps.google.com/?q=1206+Mifflin+St+Philadelphia+PA+19148" target="_blank" rel="noopener" class="inline-flex items-center gap-2 border-2 border-[var(--cream)]/60 hover:border-[var(--gold)] hover:text-[var(--gold)] transition-colors rounded-full px-7 py-3.5 font-semibold active:scale-95">
           Get Directions
         </a>
       </div>
 
-      <div class="mt-10 inline-flex items-center gap-3 bg-brick-50/90 backdrop-blur px-5 py-3 rounded-lg shadow-md border border-brick-300">
-        <span class="font-display text-2xl font-bold text-tomato-600">4.9</span>
-        <div class="text-sm leading-tight">
-          <div class="flex text-gold-500">★★★★★</div>
-          <span class="text-ink/70">Rating on Google · 155 reviews</span>
+      <div class="mt-8 flex items-center gap-3">
+        <div class="flex" aria-hidden="true">
+          <svg class="w-5 h-5 text-[var(--gold)]" fill="currentColor" viewBox="0 0 20 20"><path d="M10 1.5l2.6 5.6 6.1.7-4.5 4.2 1.2 6-5.4-3-5.4 3 1.2-6-4.5-4.2 6.1-.7z"/></svg>
+          <svg class="w-5 h-5 text-[var(--gold)]" fill="currentColor" viewBox="0 0 20 20"><path d="M10 1.5l2.6 5.6 6.1.7-4.5 4.2 1.2 6-5.4-3-5.4 3 1.2-6-4.5-4.2 6.1-.7z"/></svg>
+          <svg class="w-5 h-5 text-[var(--gold)]" fill="currentColor" viewBox="0 0 20 20"><path d="M10 1.5l2.6 5.6 6.1.7-4.5 4.2 1.2 6-5.4-3-5.4 3 1.2-6-4.5-4.2 6.1-.7z"/></svg>
+          <svg class="w-5 h-5 text-[var(--gold)]" fill="currentColor" viewBox="0 0 20 20"><path d="M10 1.5l2.6 5.6 6.1.7-4.5 4.2 1.2 6-5.4-3-5.4 3 1.2-6-4.5-4.2 6.1-.7z"/></svg>
+          <svg class="w-5 h-5 text-[var(--gold)]" fill="currentColor" viewBox="0 0 20 20"><path d="M10 1.5l2.6 5.6 6.1.7-4.5 4.2 1.2 6-5.4-3-5.4 3 1.2-6-4.5-4.2 6.1-.7z"/></svg>
         </div>
+        <p class="text-sm text-[var(--cream)]/80"><span class="font-semibold text-[var(--cream)]">4.9</span> Rating on Google &middot; 155 reviews</p>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ribbon transition -->
+<div class="stripe-green h-6 sm:h-8 w-full"></div>
+
+<!-- ================= ABOUT / VISIT ================= -->
+<main>
+<section id="visit" class="bg-[var(--cream)] hatch">
+  <div class="max-w-6xl mx-auto px-6 py-16 md:py-24 grid md:grid-cols-5 gap-12">
+
+    <div class="md:col-span-3">
+      <p class="uppercase tracking-[0.3em] text-xs text-[var(--red)] font-semibold mb-3">Visit the Market</p>
+      <h2 class="font-display font-bold text-[clamp(2rem,4vw,3.2rem)] leading-tight mb-6">
+        Right on Mifflin Street, in the heart of South Philadelphia.
+      </h2>
+      <p class="text-base sm:text-lg leading-relaxed text-[var(--ink)]/80 max-w-xl">
+        Mike &amp; Matt's Italian Market is a grocery store serving the neighborhood, open six days
+        a week. The best way to know what's in the case today is to stop by or give the shop a call.
+      </p>
+
+      <div class="mt-8">
+        <a href="tel:+12153364733" class="inline-flex items-center gap-2 underline decoration-[var(--red)] decoration-2 underline-offset-4 font-semibold hover:text-[var(--red)] transition-colors">
+          (215) 336-4733
+        </a>
       </div>
     </div>
 
-    <!-- awning shape at bottom of hero -->
-    <div class="absolute bottom-0 left-0 w-full">
-      <div class="awning-stripes h-10 sm:h-14 w-full"></div>
-      <div class="scallop w-full"></div>
-    </div>
-  </header>
-
-  <!-- DAILY SPECIALS CALLOUT -->
-  <section class="bg-awning-700">
-    <div class="max-w-5xl mx-auto px-4 py-10 flex flex-col sm:flex-row items-center justify-between gap-6 text-center sm:text-left">
-      <div>
-        <h2 class="font-display text-2xl sm:text-3xl font-semibold text-brick-50">
-          Inquire Directly for Daily Specials &amp; Full Menu
-        </h2>
-        <p class="text-brick-100/80 mt-1">Deli, produce &amp; imported goods change daily — give us a call.</p>
+    <div class="md:col-span-2">
+      <div class="bg-[var(--green)] text-[var(--cream)] p-8 border-4 border-[var(--ink)] relative">
+        <svg class="w-8 h-8 text-[var(--gold)] mb-4" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+          <path d="M12 21s-7-6.2-7-11.3A7 7 0 0112 2a7 7 0 017 7.7C19 14.8 12 21 12 21z"/>
+          <circle cx="12" cy="9.5" r="2.5"/>
+        </svg>
+        <address class="not-italic font-display text-xl leading-snug">
+          1206 Mifflin St<br>
+          Philadelphia, PA 19148
+        </address>
+        <a href="https://maps.google.com/?q=1206+Mifflin+St+Philadelphia+PA+19148" target="_blank" rel="noopener"
+           class="mt-6 inline-flex items-center gap-2 bg-[var(--gold)] text-[var(--ink)] hover:bg-white transition-colors rounded-full px-6 py-3 font-semibold active:scale-95">
+          Get Directions
+        </a>
       </div>
-      <a href="tel:+12153364733"
-         class="whitespace-nowrap inline-flex items-center gap-2 bg-gold-500 hover:bg-tomato-600 text-awning-900 hover:text-white font-bold px-7 py-3.5 rounded-md shadow-lg transition-colors text-lg">
-        📞 (215) 336-4733
+    </div>
+
+  </div>
+</section>
+
+<!-- ribbon transition -->
+<div class="stripe-red h-6 sm:h-8 w-full"></div>
+
+<!-- ================= HOURS + SPECIALS ================= -->
+<section id="hours" class="bg-[var(--ink)] text-[var(--cream)]">
+  <div class="max-w-6xl mx-auto px-6 py-16 md:py-24 grid md:grid-cols-5 gap-12">
+
+    <div class="md:col-span-3">
+      <p class="uppercase tracking-[0.3em] text-xs text-[var(--gold)] font-semibold mb-3">Store Hours</p>
+      <h2 class="font-display font-bold text-[clamp(2rem,4vw,3rem)] mb-8">When to find us open</h2>
+
+      <table class="w-full text-left" id="hoursTable">
+        <tbody class="divide-y divide-white/10">
+          <tr data-day="Monday" class="px-2"><td class="py-3 pr-4 font-display text-lg">Monday</td><td class="py-3 text-[var(--cream)]/80">8:30 AM – 4:30 PM</td></tr>
+          <tr data-day="Tuesday" class="px-2"><td class="py-3 pr-4 font-display text-lg">Tuesday</td><td class="py-3 text-[var(--cream)]/80">8:30 AM – 4:30 PM</td></tr>
+          <tr data-day="Wednesday" class="px-2"><td class="py-3 pr-4 font-display text-lg">Wednesday</td><td class="py-3 text-[var(--cream)]/80">8:30 AM – 4:30 PM</td></tr>
+          <tr data-day="Thursday" class="px-2"><td class="py-3 pr-4 font-display text-lg">Thursday</td><td class="py-3 text-[var(--cream)]/80">8:30 AM – 4:30 PM</td></tr>
+          <tr data-day="Friday" class="px-2"><td class="py-3 pr-4 font-display text-lg">Friday</td><td class="py-3 text-[var(--cream)]/80">8:30 AM – 4:30 PM</td></tr>
+          <tr data-day="Saturday" class="px-2"><td class="py-3 pr-4 font-display text-lg">Saturday</td><td class="py-3 text-[var(--cream)]/80">8:30 AM – 4:00 PM</td></tr>
+          <tr data-day="Sunday" class="px-2"><td class="py-3 pr-4 font-display text-lg">Sunday</td><td class="py-3 text-[var(--cream)]/80">8:30 AM – 1:00 PM</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="md:col-span-2">
+      <div class="border-2 border-[var(--red)] p-8 h-full flex flex-col justify-between">
+        <div>
+          <p class="uppercase tracking-[0.3em] text-xs text-[var(--red)] font-semibold mb-3">Today's Selection</p>
+          <h3 class="font-display font-bold text-2xl leading-snug mb-4">
+            Inquire Directly for Daily Specials &amp; Full Menu
+          </h3>
+          <p class="text-[var(--cream)]/70 text-sm leading-relaxed">
+            What's fresh changes day to day — the fastest way to find out is a phone call.
+          </p>
+        </div>
+        <a href="tel:+12153364733" class="mt-6 inline-flex items-center justify-center gap-2 bg-[var(--red)] hover:bg-[#a11f24] transition-colors rounded-full px-6 py-3.5 font-semibold active:scale-95">
+          Call (215) 336-4733
+        </a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ================= FINAL CTA ================= -->
+<section class="bg-[var(--red)] text-white relative overflow-hidden">
+  <svg class="absolute -left-10 -bottom-16 w-72 h-72 opacity-20 pointer-events-none" viewBox="0 0 400 400" aria-hidden="true">
+    <circle cx="200" cy="200" r="190" fill="none" stroke="#F3E8D2" stroke-width="2"/>
+    <circle cx="200" cy="200" r="120" fill="none" stroke="#F3E8D2" stroke-width="2"/>
+    <circle cx="200" cy="200" r="55" fill="#F3E8D2"/>
+  </svg>
+  <div class="relative z-10 max-w-6xl mx-auto px-6 py-16 md:py-20 flex flex-col md:flex-row items-center justify-between gap-8 text-center md:text-left">
+    <h2 class="font-display font-bold text-[clamp(1.9rem,4.4vw,3.2rem)] leading-tight max-w-xl">
+      Stop in today on Mifflin Street.
+    </h2>
+    <div class="flex flex-wrap gap-4 justify-center">
+      <a href="tel:+12153364733" class="bg-[var(--ink)] hover:bg-black transition-colors rounded-full px-7 py-3.5 font-semibold active:scale-95">
+        Call Now
+      </a>
+      <a href="https://maps.google.com/?q=1206+Mifflin+St+Philadelphia+PA+19148" target="_blank" rel="noopener" class="border-2 border-white hover:bg-white hover:text-[var(--red)] transition-colors rounded-full px-7 py-3.5 font-semibold active:scale-95">
+        Directions
       </a>
     </div>
-  </section>
+  </div>
+</section>
+</main>
 
-  <!-- ABOUT / TRUST STRIP -->
-  <section class="max-w-5xl mx-auto px-4 py-16 grid sm:grid-cols-3 gap-8">
-    <div class="p-6 rounded-lg bg-white shadow-sm border border-brick-300/60 glass-shine">
-      <div class="text-tomato-600 text-3xl mb-3">🧀</div>
-      <h3 class="font-display text-xl font-semibold mb-1 text-awning-900">Neighborhood Deli</h3>
-      <p class="text-ink/70 text-sm">Old-school counter service on Mifflin Street.</p>
-    </div>
-    <div class="p-6 rounded-lg bg-white shadow-sm border border-brick-300/60 glass-shine">
-      <div class="text-tomato-600 text-3xl mb-3">🛒</div>
-      <h3 class="font-display text-xl font-semibold mb-1 text-awning-900">Grocery &amp; Produce</h3>
-      <p class="text-ink/70 text-sm">Everyday essentials, stocked fresh.</p>
-    </div>
-    <div class="p-6 rounded-lg bg-white shadow-sm border border-brick-300/60 glass-shine">
-      <div class="text-tomato-600 text-3xl mb-3">⭐</div>
-      <h3 class="font-display text-xl font-semibold mb-1 text-awning-900">4.9 on Google</h3>
-      <p class="text-ink/70 text-sm">Rating on Google from 155 reviews.</p>
-    </div>
-  </section>
-
-  <!-- HOURS + LOCATION -->
-  <section class="bg-brick-100/60 border-y border-brick-300/60">
-    <div class="max-w-5xl mx-auto px-4 py-16 grid md:grid-cols-2 gap-12">
-
-      <div>
-        <h2 class="font-display text-3xl font-semibold text-awning-900 mb-6">Hours</h2>
-        <ul class="divide-y divide-brick-300/70 bg-white rounded-lg shadow-sm border border-brick-300/60 overflow-hidden">
-          <li class="flex justify-between px-5 py-3 text-sm sm:text-base"><span class="font-medium">Monday</span><span>8:30 AM – 4:30 PM</span></li>
-          <li class="flex justify-between px-5 py-3 text-sm sm:text-base"><span class="font-medium">Tuesday</span><span>8:30 AM – 4:30 PM</span></li>
-          <li class="flex justify-between px-5 py-3 text-sm sm:text-base"><span class="font-medium">Wednesday</span><span>8:30 AM – 4:30 PM</span></li>
-          <li class="flex justify-between px-5 py-3 text-sm sm:text-base"><span class="font-medium">Thursday</span><span>8:30 AM – 4:30 PM</span></li>
-          <li class="flex justify-between px-5 py-3 text-sm sm:text-base"><span class="font-medium">Friday</span><span>8:30 AM – 4:30 PM</span></li>
-          <li class="flex justify-between px-5 py-3 text-sm sm:text-base"><span class="font-medium">Saturday</span><span>8:30 AM – 4:00 PM</span></li>
-          <li class="flex justify-between px-5 py-3 text-sm sm:text-base bg-brick-50"><span class="font-medium">Sunday</span><span>8:30 AM – 1:00 PM</span></li>
-        </ul>
+<!-- ================= FOOTER ================= -->
+<footer class="bg-[var(--ink-black)] text-[var(--cream)]/80 hatch">
+  <div class="max-w-6xl mx-auto px-6 py-14 grid sm:grid-cols-3 gap-10">
+    <div>
+      <div class="flex items-center gap-3 mb-4">
+        <div class="w-10 h-10 rounded-full border-2 border-[var(--gold)] flex items-center justify-center font-display font-bold text-[var(--cream)]">M&amp;M</div>
+        <span class="font-display text-lg text-[var(--cream)]">Mike &amp; Matt's</span>
       </div>
-
-      <div>
-        <h2 class="font-display text-3xl font-semibold text-awning-900 mb-6">Find Us</h2>
-        <div class="bg-white rounded-lg shadow-sm border border-brick-300/60 p-6">
-          <p class="text-lg font-medium text-ink">1206 Mifflin St</p>
-          <p class="text-ink/70 mb-6">Philadelphia, PA 19148</p>
-
-          <div class="rounded-md h-40 mb-6 awning-stripes opacity-80"></div>
-
-          <div class="flex flex-col sm:flex-row gap-3">
-            <a href="https://maps.google.com/?q=Mike%20%26%20Matt%27s%20Italian%20Market%2C%201206%20Mifflin%20St%2C%20Philadelphia%2C%20PA%2019148"
-               target="_blank" rel="noopener"
-               class="flex-1 text-center bg-awning-900 hover:bg-awning-700 text-brick-100 font-semibold px-5 py-3 rounded-md transition-colors">
-              Get Directions
-            </a>
-            <a href="tel:+12153364733"
-               class="flex-1 text-center bg-tomato-600 hover:bg-tomato-500 text-white font-semibold px-5 py-3 rounded-md transition-colors">
-              Call Now
-            </a>
-          </div>
-        </div>
-      </div>
-
+      <p class="text-sm leading-relaxed">Italian Market · Grocery Store<br>South Philadelphia, PA</p>
     </div>
-  </section>
 
-  <!-- FOOTER -->
-  <footer class="bg-awning-900 text-brick-100">
-    <div class="max-w-5xl mx-auto px-4 py-10 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm">
-      <div>
-        <p class="font-display text-lg font-semibold text-brick-50">Mike &amp; Matt's Italian Market</p>
-        <p class="text-brick-100/70">1206 Mifflin St, Philadelphia, PA 19148</p>
-      </div>
-      <a href="tel:+12153364733" class="font-semibold hover:text-gold-500 transition-colors">(215) 336-4733</a>
+    <div>
+      <p class="uppercase tracking-[0.25em] text-xs text-[var(--gold)] mb-3">Find Us</p>
+      <address class="not-italic text-sm leading-relaxed">
+        1206 Mifflin St<br>
+        Philadelphia, PA 19148
+      </address>
+      <a href="https://maps.google.com/?q=1206+Mifflin+St+Philadelphia+PA+19148" target="_blank" rel="noopener" class="inline-block mt-3 text-sm underline decoration-[var(--gold)] hover:text-[var(--gold)]">Get Directions</a>
     </div>
-  </footer>
+
+    <div>
+      <p class="uppercase tracking-[0.25em] text-xs text-[var(--gold)] mb-3">Contact</p>
+      <a href="tel:+12153364733" class="text-sm underline decoration-[var(--gold)] hover:text-[var(--gold)]">(215) 336-4733</a>
+      <p class="text-sm mt-3">4.9 Rating on Google · 155 reviews</p>
+    </div>
+  </div>
+  <div class="border-t border-white/10 py-6 text-center text-xs text-[var(--cream)]/40">
+    Mike &amp; Matt's Italian Market · Mifflin St, South Philadelphia
+  </div>
+</footer>
+
+<script>
+  const menuBtn = document.getElementById('menuBtn');
+  const mobileMenu = document.getElementById('mobileMenu');
+  menuBtn.addEventListener('click', () => {
+    mobileMenu.classList.toggle('hidden');
+  });
+
+  const days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+  const today = days[new Date().getDay()];
+  document.querySelectorAll('#hoursTable tr').forEach(row => {
+    if (row.getAttribute('data-day') === today) {
+      row.classList.add('today-row');
+    }
+  });
+</script>
 
 <style>body{padding-bottom:64px!important}</style><div id="preview-ribbon" style="position:fixed;bottom:0;left:0;right:0;z-index:99999;background:#111827;color:#f9fafb;text-align:center;padding:10px 16px;font:600 13px/1.5 system-ui,-apple-system,sans-serif;box-shadow:0 -2px 8px rgba(0,0,0,.25)">Design preview prepared for Mike &amp; Matt's Italian Market by Connor &mdash; not the official website.</div>
 </body>

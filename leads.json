@@ -4970,7 +4970,7 @@
     "ChIJFQ_bDAzGxokRwzdN-uTIimc": {
       "slug": "p-p-auto-services-utiimc",
       "business_name": "P&P Auto Services",
-      "status": "build",
+      "status": "generated",
       "lead_type": "NO_WEBSITE",
       "category": "Car repair and maintenance service",
       "address": "2008 S Bancroft St, Philadelphia, PA 19145, USA",
@@ -4994,7 +4994,8 @@
       "seen": "2026-09-10",
       "generated_at": "2026-09-15",
       "preview_path": "sites/p-p-auto-services-utiimc/",
-      "design_seed": "biQi2fFAvMLriwCsv4VUGSEdzIob8wrxzhi0bd3NFXhuBV4e"
+      "design_seed": "QXF7J33k51jffmbxE1AkRz1fN14TsVsa74QtsNoYEP8zIWDn",
+      "brief_path": "briefs/p-p-auto-services-utiimc-2026-09-15.md"
     },
     "ChIJs3qndQzGxokRi_Y1gsHQ15Q": {
       "slug": "marino-s-auto-repair-shq15q",
@@ -11089,7 +11090,7 @@
     "ChIJ4eQmhgXGxokRs5verhz120Y": {
       "slug": "mike-matt-s-italian-market-hz120y",
       "business_name": "Mike & Matt's Italian Market",
-      "status": "build",
+      "status": "generated",
       "lead_type": "NO_WEBSITE",
       "category": "Grocery Store",
       "address": "1206 Mifflin St, Philadelphia, PA 19148, USA",
@@ -11113,7 +11114,8 @@
       "seen": "2026-09-14",
       "generated_at": "2026-09-15",
       "preview_path": "sites/mike-matt-s-italian-market-hz120y/",
-      "design_seed": "hhzNssFfJnwfeC8HI0Aop0VLtqCNqr4dRhPwXqEAhoNy2Hk7"
+      "design_seed": "lwSHTaccd4neueLO27U9ZcaYdgTTmaeXf3cbKk2LzxraTjlH",
+      "brief_path": "briefs/mike-matt-s-italian-market-hz120y-2026-09-15.md"
     },
     "ChIJIWh3heHFxokRUJaJ-wruRKs": {
       "slug": "jeanne-s-corner-grocery-deli-wrurks",
