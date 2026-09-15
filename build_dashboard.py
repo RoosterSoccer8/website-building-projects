@@ -116,6 +116,8 @@ const REPO = "__REPO__";
 const SNAPSHOT = __LEADS_JSON__;
 const BUILT_AT = "__UPDATED__";
 const RAW = `https://raw.githubusercontent.com/${REPO}/main/leads.json`;
+const API = `https://api.github.com/repos/${REPO}/contents/leads.json?ref=main`;
+const BUILD_ID = "__BUILD_ID__";
 
 const ORDER = ["new","build","generated","pitched","replied","sold","dead"];
 const COLORS = {new:"--st-new",build:"--st-build",generated:"--st-generated",
@@ -215,21 +217,52 @@ document.getElementById("list").addEventListener("click", e => {
 async function refresh(){
   const dot = document.getElementById("dot"), txt = document.getElementById("freshtext");
   txt.textContent = "Checking for updates…";
-  try{
-    const r = await fetch(`${RAW}?t=${Date.now()}`, {cache:"no-store"});
-    if(!r.ok) throw new Error(r.status);
-    const j = await r.json();
-    RAW_LEADS = j.leads;
-    dot.classList.remove("stale");
-    txt.textContent = `Live — updated just now (${Object.keys(j.leads).length} businesses tracked)`;
-  }catch(e){
-    dot.classList.add("stale");
-    txt.textContent = `Offline — showing the copy saved ${BUILT_AT}`;
+  // The API copy is never CDN-cached; raw.githubusercontent holds a 5-minute
+  // cache, so it is only the fallback.
+  const sources = [
+    [API, {Accept:"application/vnd.github.raw"}, "Live"],
+    [RAW, {}, "Live (may lag up to 5 min)"],
+  ];
+  for(const [url, headers, label] of sources){
+    try{
+      const r = await fetch(`${url}${url.includes("?")?"&":"?"}t=${Date.now()}`,
+                            {cache:"no-store", headers});
+      if(!r.ok) throw new Error(r.status);
+      const j = await r.json();
+      if(!j.leads) throw new Error("no leads");
+      RAW_LEADS = j.leads;
+      dot.classList.remove("stale");
+      const n = Object.values(j.leads).filter(l=>l.status==="generated").length;
+      txt.textContent = `${label} — ${Object.keys(j.leads).length} tracked, ${n} preview${n===1?"":"s"} ready`;
+      render(); checkForNewVersion(); return;
+    }catch(e){ /* fall through to the next source */ }
   }
+  dot.classList.add("stale");
+  txt.textContent = `Offline — showing the copy saved ${BUILT_AT}`;
   render();
 }
+// A phone can hold this page in cache far longer than the data inside it.
+// Compare the deployed build id with ours and offer a one-tap hard reload.
+async function checkForNewVersion(){
+  try{
+    const r = await fetch(`${location.pathname}?cb=${Date.now()}`, {cache:"no-store"});
+    const t = await r.text();
+    const m = t.match(/const BUILD_ID = "([^"]+)"/);
+    if(m && m[1] !== BUILD_ID && !document.getElementById("newver")){
+      const bar = document.createElement("div");
+      bar.id = "newver";
+      bar.style.cssText = "position:fixed;left:0;right:0;bottom:0;z-index:999;background:var(--accent);"
+        + "color:#fff;padding:12px 16px;font-size:14px;font-weight:600;text-align:center;cursor:pointer";
+      bar.textContent = "You are viewing a saved copy — tap to load the current dashboard";
+      bar.onclick = () => location.replace(`${location.pathname}?v=${m[1]}`);
+      document.body.appendChild(bar);
+    }
+  }catch(e){ /* never fatal */ }
+}
+
 document.getElementById("refresh").onclick = refresh;
 document.addEventListener("visibilitychange", () => { if(!document.hidden) refresh(); });
+setInterval(() => { if(!document.hidden) refresh(); }, 30000);
 render();
 refresh();
 </script>
@@ -260,7 +293,8 @@ def main():
     html = (TEMPLATE
             .replace("__LEADS_JSON__", json.dumps(snapshot(ledger["leads"]), ensure_ascii=False))
             .replace("__UPDATED__", datetime.date.today().isoformat())
-            .replace("__REPO__", REPO))
+            .replace("__REPO__", REPO)
+            .replace("__BUILD_ID__", datetime.datetime.now().strftime("%Y%m%d-%H%M%S")))
     with open(config.DASHBOARD_PATH, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"Dashboard written to {config.DASHBOARD_PATH}")
