@@ -44,7 +44,7 @@ PARKED_PHRASES = (
 
 # ---- Generation ------------------------------------------------------------
 # Model for site generation. Override with env var CLAUDE_MODEL.
-DEFAULT_CLAUDE_MODEL = "claude-sonnet-4-5"
+DEFAULT_CLAUDE_MODEL = "claude-sonnet-5"
 MAX_TOKENS = 8000
 MAX_BUILDS_PER_RUN = 10  # cost guard: cap Claude builds per workflow run
 
