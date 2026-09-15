@@ -35,7 +35,12 @@ runs, repeats, symmetry — and let what you find drive a specific direction bef
 anything else: an actual color palette (name the hex values), a display + body type pairing,
 a layout structure, and a texture treatment.
 
-    QXF7J33k51jffmbxE1AkRz1fN14TsVsa74QtsNoYEP8zIWDn
+    1EvxKO9nocuYEI3f5oSo1FXOfL2tv2fhORaLgh8K3qWNloNs
+
+This seed is new. A different design for this same business already exists, and the point of
+this build is to arrive somewhere else — a different palette, a different type voice, a
+different structure — so the owner has two real options to react to. Follow the seed where it
+leads rather than reaching for the safe version.
 
 Then bend that direction toward this specific business and neighborhood (South Philadelphia)
 so it feels like this place and not a generic template. Commit to ONE layout archetype and
