@@ -40,10 +40,37 @@ the direction to fit the business you can see.
 If no images are attached, infer restraint from the category, neighborhood, and business name
 instead, and keep the seed's direction.
 
-STEP 4 — BUILD IT WELL:
-Use your judgment to bring the direction to life at a high level of craft: real typographic
-hierarchy, deliberate spacing, considered color, and a page that looks designed rather than
-assembled. Make it something the owner would be proud to show someone.
+STEP 4 — COMMIT TO A LAYOUT ARCHETYPE:
+Pick ONE of these and execute it properly. Do not blend them into a generic stack:
+  A) EDITORIAL SPLIT — a full-height type column beside a full-bleed color or texture field
+  B) TYPE POSTER — oversized display type IS the hero; almost no other ornament
+  C) ASYMMETRIC GRID — offset blocks, deliberate misalignment, content that steps down the page
+  D) FULL-BLEED BANDS — alternating edge-to-edge color bands with generous vertical rhythm
+  E) FRAMED COMPOSITION — content inside a drawn frame, wide margins, letterpress restraint
+
+BANNED — these are what make a page look like a free website builder:
+  - a centered gradient hero sitting above three rounded cards
+  - emoji used as icons, anywhere, for any reason
+  - the same border-radius on every element on the page
+  - a "Why Choose Us" row of checkmarks, or three identical trust tiles
+  - three-column feature grids as the default answer to any content
+  - stock-photo placeholder URLs of any kind
+
+STEP 5 — BUILD IT WELL:
+  - TYPE: a display face with real character paired with a readable body face, loaded from
+    Google Fonts. Set a real type scale with at least a 1.4 ratio, and let the largest size be
+    genuinely large. Tighten display tracking; give body copy room to breathe.
+  - GRAPHIC SUBSTANCE: because there are no photographs, at least one substantial graphic
+    element must be drawn in inline SVG or pure CSS and used at real scale — a halftone or dot
+    field, diagonal rule hatching, engraved line work, an arch or blade shape, a repeating
+    pattern, layered color blocks, a large numeral or monogram. Flat color with nothing drawn
+    on it is a failed page.
+  - COLOR: commit. A restrained two-color scheme with one confident accent beats five pastels.
+    Consider a dark page if the trade suits it.
+  - DETAIL: deliberate asymmetry, a considered footer, and hover/active states on anything
+    tappable. Every section should look like someone decided its edges on purpose.
+Make it something the owner would be proud to show someone, and something a competitor would
+assume was expensive.
 
 SEED SECRECY: Never print, display, embed, encode, or reference the seed anywhere in the output —
 not in the visible page, not in a comment, not in a class name, not in metadata. It is private
