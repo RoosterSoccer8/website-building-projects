@@ -11087,7 +11087,7 @@
     "ChIJ4eQmhgXGxokRs5verhz120Y": {
       "slug": "mike-matt-s-italian-market-hz120y",
       "business_name": "Mike & Matt's Italian Market",
-      "status": "new",
+      "status": "generated",
       "lead_type": "NO_WEBSITE",
       "category": "Grocery Store",
       "address": "1206 Mifflin St, Philadelphia, PA 19148, USA",
@@ -11109,8 +11109,9 @@
       "score": 99.8,
       "notes": "",
       "seen": "2026-09-14",
-      "generated_at": null,
-      "preview_path": null
+      "generated_at": "2026-09-15",
+      "preview_path": "sites/mike-matt-s-italian-market-hz120y/",
+      "design_seed": "hhzNssFfJnwfeC8HI0Aop0VLtqCNqr4dRhPwXqEAhoNy2Hk7"
     },
     "ChIJIWh3heHFxokRUJaJ-wruRKs": {
       "slug": "jeanne-s-corner-grocery-deli-wrurks",
