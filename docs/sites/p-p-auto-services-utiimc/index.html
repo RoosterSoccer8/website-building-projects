@@ -4,21 +4,43 @@
   <meta name="robots" content="noindex,nofollow">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>P&P Auto Services | Auto Repair & PA Inspection Station | South Philadelphia</title>
-<meta name="description" content="P&P Auto Services on S Bancroft St, Philadelphia — 5-star rated auto repair, diagnostics, and PA state inspections. Call (215) 463-1108.">
+<title>P&P Auto Services — Philadelphia, PA</title>
+<meta name="description" content="P&P Auto Services in South Philadelphia. Call (215) 463-1108 for hours and directions. Rated 5.0 on Google.">
 
-<script src="https://cdn.tailwindcss.com"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          brick:   '#8C2B24',
+          brickdark:'#5E1D19',
+          steel:   '#1B1D22',
+          steel2:  '#2A2D34',
+          concrete:'#C9C7C0',
+          bone:    '#F3F1EA',
+          navy:    '#1F3350',
+          gold:    '#D8A93A'
+        },
+        fontFamily: {
+          display: ['Oswald', 'sans-serif'],
+          body: ['Work Sans', 'sans-serif']
+        }
+      }
+    }
+  }
+</script>
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "AutoRepair",
   "name": "P&P Auto Services",
-  "image": "",
-  "telephone": "+12154631108",
+  "telephone": "+1-215-463-1108",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "2008 S Bancroft St",
@@ -27,271 +49,204 @@
     "postalCode": "19145",
     "addressCountry": "US"
   },
-  "openingHoursSpecification": [
-    { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" }
-  ],
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5",
     "reviewCount": "241"
-  }
+  },
+  "openingHoursSpecification": [
+    {"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"09:00","closes":"18:00"}
+  ]
 }
 </script>
 
 <style>
-  :root{
-    --brick:#B7311F;
-    --brick-dark:#8E2417;
-    --navy:#1C3452;
-    --navy-dark:#122336;
-    --cream:#F3EEE3;
-    --steel:#3B3B3B;
-    --caution:#F2B705;
-  }
-  html{scroll-behavior:smooth;}
-  body{background:var(--cream); font-family:'Inter',sans-serif; color:var(--steel);}
-  .display{font-family:'Bebas Neue',sans-serif; letter-spacing:0.03em;}
-  .hazard-strip{
-    background-image:repeating-linear-gradient(45deg, var(--caution) 0px, var(--caution) 18px, #111 18px, #111 36px);
-  }
-  .diamond-plate{
-    background-color:#232323;
-    background-image:
-      radial-gradient(circle at 4px 4px, rgba(255,255,255,0.06) 1.5px, transparent 1.6px);
-    background-size:16px 16px;
-  }
-  .brick-tex{
-    background-color:var(--brick-dark);
+  body { font-family: 'Work Sans', sans-serif; }
+  h1,h2,h3,.display { font-family: 'Oswald', sans-serif; }
+
+  .brick-texture {
+    background-color: #8C2B24;
     background-image:
       linear-gradient(335deg, rgba(0,0,0,0.18) 23px, transparent 23px),
       linear-gradient(155deg, rgba(0,0,0,0.18) 23px, transparent 23px),
       linear-gradient(335deg, rgba(0,0,0,0.18) 23px, transparent 23px),
       linear-gradient(155deg, rgba(0,0,0,0.18) 23px, transparent 23px);
-    background-size:58px 58px;
-    background-position:0px 2px, 4px 10px, 29px 31px, 34px 39px;
+    background-size: 58px 58px;
+    background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px;
   }
-  .fade-up{opacity:0; transform:translateY(18px); transition:opacity .6s ease, transform .6s ease;}
-  .fade-up.show{opacity:1; transform:translateY(0);}
-  .badge-notch{clip-path:polygon(0 0,100% 0,100% 100%,10% 100%,0 80%);}
+
+  .steel-grid {
+    background-image:
+      linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
+    background-size: 26px 26px;
+  }
+
+  .clip-plate {
+    clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 14px 100%, 0 calc(100% - 14px));
+  }
+
+  .stripe-beam {
+    background: repeating-linear-gradient(
+      -18deg,
+      #8C2B24,
+      #8C2B24 40px,
+      #6E211C 40px,
+      #6E211C 44px
+    );
+  }
+
+  @keyframes pulseGlow {
+    0%,100% { box-shadow: 0 0 0 0 rgba(216,169,58,0.45); }
+    50% { box-shadow: 0 0 0 10px rgba(216,169,58,0); }
+  }
+  .glow-pulse { animation: pulseGlow 2.4s ease-in-out infinite; }
 </style>
 </head>
-<body class="antialiased">
 
-<!-- ================= NAV ================= -->
-<header class="sticky top-0 z-50 bg-[var(--navy-dark)] text-white shadow-lg">
-  <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-    <div class="flex items-center gap-3">
-      <div class="w-11 h-11 rounded-sm bg-[var(--brick)] flex items-center justify-center border-2 border-[var(--caution)]">
-        <span class="display text-2xl leading-none">P&P</span>
-      </div>
-      <div class="leading-tight">
-        <p class="display text-xl tracking-wide">P&amp;P AUTO SERVICES</p>
-        <p class="text-[10px] uppercase tracking-[0.2em] text-gray-300">South Philadelphia, PA</p>
-      </div>
+<body class="bg-bone text-steel antialiased">
+
+<!-- NAV -->
+<header class="bg-steel text-bone sticky top-0 z-50 border-b-4 border-brick">
+  <div class="max-w-6xl mx-auto px-5 py-3 flex items-center justify-between">
+    <div class="display uppercase tracking-wide text-lg sm:text-xl font-semibold">
+      P<span class="text-gold">&amp;</span>P <span class="text-concrete font-normal text-sm sm:text-base align-middle">Auto Services</span>
     </div>
-    <a href="tel:+12154631108" class="hidden sm:inline-flex items-center gap-2 bg-[var(--brick)] hover:bg-[var(--brick-dark)] transition-colors px-4 py-2 rounded-sm font-semibold text-sm">
-      <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8c1.4 2.7 3.9 5.2 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.4.6 3.6.6.6 0 1 .4 1 1V21c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h4.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1.1L6.6 10.8z"/></svg>
-      (215) 463-1108
-    </a>
-    <a href="tel:+12154631108" class="sm:hidden bg-[var(--brick)] p-2.5 rounded-sm">
-      <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8c1.4 2.7 3.9 5.2 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.4.6 3.6.6.6 0 1 .4 1 1V21c0 .6-.4 1-1 1-9.4 0-17-7.6-17-17 0-.6.4-1 1-1h4.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1.1L6.6 10.8z"/></svg>
+    <a href="tel:+12154631108"
+       class="bg-brick hover:bg-brickdark transition-colors text-bone display uppercase text-sm tracking-wider px-4 py-2 clip-plate">
+      Call Now
     </a>
   </div>
-  <div class="hazard-strip h-1.5 w-full"></div>
 </header>
 
-<!-- ================= HERO ================= -->
-<section class="relative diamond-plate text-white overflow-hidden">
-  <div class="absolute inset-0 bg-gradient-to-b from-black/60 via-black/70 to-[var(--navy-dark)]"></div>
-  <div class="relative max-w-6xl mx-auto px-4 pt-14 pb-16 sm:pt-20 sm:pb-24">
-    <div class="flex flex-wrap gap-2 mb-6">
-      <span class="inline-flex items-center gap-1 bg-[var(--caution)] text-black text-xs font-bold px-3 py-1 rounded-sm uppercase tracking-wide">
-        ★★★★★ 5.0 Rating on Google
-      </span>
-      <span class="inline-flex items-center gap-1 bg-white/10 border border-white/30 text-xs font-semibold px-3 py-1 rounded-sm uppercase tracking-wide">
-        241 Google Reviews
-      </span>
+<!-- HERO -->
+<section class="relative overflow-hidden steel-grid bg-steel">
+  <div class="absolute inset-y-0 right-[-10%] w-2/3 stripe-beam opacity-90 -rotate-1 hidden sm:block"></div>
+  <div class="relative max-w-6xl mx-auto px-5 pt-16 pb-20 sm:pt-24 sm:pb-28">
+    <div class="max-w-2xl">
+      <p class="display uppercase tracking-[0.35em] text-gold text-xs sm:text-sm mb-4">South Philadelphia · Bancroft St</p>
+      <h1 class="display uppercase text-bone text-4xl sm:text-6xl leading-[1.05] font-semibold mb-6">
+        P&amp;P Auto Services
+      </h1>
+      <p class="text-concrete text-base sm:text-lg mb-8 max-w-lg">
+        Neighborhood auto repair shop on S Bancroft St. Call ahead for hours, appointments, and questions about your vehicle.
+      </p>
+
+      <div class="flex items-center gap-2 mb-8">
+        <div class="flex text-gold text-xl" aria-hidden="true">
+          <span>&#9733;</span><span>&#9733;</span><span>&#9733;</span><span>&#9733;</span><span>&#9733;</span>
+        </div>
+        <span class="text-bone font-semibold">5.0</span>
+        <span class="text-concrete text-sm">· Rating on Google (241)</span>
+      </div>
+
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a href="tel:+12154631108"
+           class="glow-pulse bg-brick hover:bg-brickdark transition-colors text-bone display uppercase tracking-wider text-center px-7 py-4 clip-plate">
+          &#9742; (215) 463-1108
+        </a>
+        <a href="https://maps.google.com/?q=2008%20S%20Bancroft%20St%2C%20Philadelphia%2C%20PA%2019145"
+           target="_blank" rel="noopener"
+           class="bg-transparent border-2 border-concrete text-bone hover:bg-bone hover:text-steel transition-colors display uppercase tracking-wider text-center px-7 py-4 clip-plate">
+          Get Directions
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TRUST STRIP -->
+<section class="bg-bone border-b border-concrete/40">
+  <div class="max-w-6xl mx-auto px-5 py-10 grid grid-cols-1 sm:grid-cols-3 gap-5">
+
+    <div class="bg-white clip-plate border border-concrete/50 p-6">
+      <p class="display uppercase text-brick text-sm tracking-widest mb-2">Location</p>
+      <p class="text-steel font-medium">2008 S Bancroft St</p>
+      <p class="text-steel/80">Philadelphia, PA 19145</p>
     </div>
 
-    <h1 class="display text-5xl sm:text-7xl leading-[0.95] mb-4">
-      HONEST WORK.<br>
-      <span class="text-[var(--brick)]">NO SHORTCUTS.</span>
-    </h1>
-    <p class="max-w-xl text-gray-200 text-base sm:text-lg mb-8">
-      A South Philly garage on S Bancroft St, trusted for straightforward auto repair, diagnostics,
-      and official PA state inspections — from everyday commuters to serious performance builds.
+    <div class="bg-white clip-plate border border-concrete/50 p-6">
+      <p class="display uppercase text-brick text-sm tracking-widest mb-2">Google Rating</p>
+      <p class="text-steel font-medium text-2xl display">5.0 <span class="text-base text-steel/60 font-body">/ 5</span></p>
+      <p class="text-steel/70 text-sm">Based on 241 Google reviews</p>
+    </div>
+
+    <div class="bg-white clip-plate border border-concrete/50 p-6">
+      <p class="display uppercase text-brick text-sm tracking-widest mb-2">Contact</p>
+      <a href="tel:+12154631108" class="text-steel font-medium hover:text-brick transition-colors block">(215) 463-1108</a>
+      <p class="text-steel/70 text-sm">Tap to call the shop</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- INQUIRE / SERVICES CALLOUT -->
+<section class="brick-texture">
+  <div class="max-w-6xl mx-auto px-5 py-16 text-center">
+    <h2 class="display uppercase text-bone text-3xl sm:text-4xl mb-4 tracking-wide">
+      Inquire Directly for Daily Specials &amp; Full Menu
+    </h2>
+    <p class="text-bone/85 max-w-xl mx-auto mb-8">
+      Every vehicle is different. Give the shop a call to talk through what's going on with your car and what it'll take to fix it.
     </p>
-
-    <div class="flex flex-col sm:flex-row gap-3">
-      <a href="tel:+12154631108" class="text-center bg-[var(--brick)] hover:bg-[var(--brick-dark)] transition-colors px-6 py-4 rounded-sm font-bold text-lg display tracking-wide">
-        CALL (215) 463-1108
-      </a>
-      <a href="https://maps.google.com/?q=2008%20S%20Bancroft%20St%2C%20Philadelphia%2C%20PA%2019145" target="_blank" rel="noopener"
-         class="text-center bg-transparent border-2 border-white/70 hover:bg-white hover:text-[var(--navy-dark)] transition-colors px-6 py-4 rounded-sm font-bold text-lg display tracking-wide">
-        GET DIRECTIONS
-      </a>
-    </div>
-
-    <div id="status-banner" class="mt-6 inline-flex items-center gap-2 text-sm font-semibold bg-black/30 px-4 py-2 rounded-sm border border-white/10"></div>
-  </div>
-</section>
-
-<!-- ================= TRUST STRIP ================= -->
-<section class="bg-[var(--navy)] text-white">
-  <div class="max-w-6xl mx-auto px-4 py-6 grid grid-cols-3 gap-3 text-center">
-    <div class="fade-up">
-      <p class="display text-3xl sm:text-4xl text-[var(--caution)]">5.0</p>
-      <p class="text-[11px] sm:text-xs uppercase tracking-wide text-gray-300">Rating on Google</p>
-    </div>
-    <div class="fade-up border-x border-white/15">
-      <p class="display text-3xl sm:text-4xl text-[var(--caution)]">241</p>
-      <p class="text-[11px] sm:text-xs uppercase tracking-wide text-gray-300">Google Reviews</p>
-    </div>
-    <div class="fade-up">
-      <p class="display text-3xl sm:text-4xl text-[var(--caution)]">PA</p>
-      <p class="text-[11px] sm:text-xs uppercase tracking-wide text-gray-300">Official Inspection Station</p>
-    </div>
-  </div>
-</section>
-
-<!-- ================= WHAT WE DO ================= -->
-<section class="max-w-6xl mx-auto px-4 py-16">
-  <div class="mb-10 fade-up">
-    <p class="text-[var(--brick)] font-bold uppercase tracking-[0.2em] text-xs mb-2">In the shop</p>
-    <h2 class="display text-4xl sm:text-5xl text-[var(--navy-dark)]">WHAT WE WORK ON</h2>
-  </div>
-
-  <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-    <div class="fade-up bg-white border border-gray-200 rounded-sm p-6 hover:border-[var(--brick)] hover:shadow-lg transition-all">
-      <div class="w-10 h-10 mb-4 flex items-center justify-center bg-[var(--navy)] rounded-sm text-white">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 3v2M15 3v2M4 8h16v13H4z" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 13h16" stroke-linecap="round"/></svg>
-      </div>
-      <h3 class="font-bold text-lg mb-1">PA State Inspection</h3>
-      <p class="text-sm text-gray-600">Official inspection station — safety &amp; emissions.</p>
-    </div>
-    <div class="fade-up bg-white border border-gray-200 rounded-sm p-6 hover:border-[var(--brick)] hover:shadow-lg transition-all">
-      <div class="w-10 h-10 mb-4 flex items-center justify-center bg-[var(--navy)] rounded-sm text-white">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 000 2l.1.1a2 2 0 11-2.8 2.8l-.1-.1a1.7 1.7 0 00-2-.3 1.7 1.7 0 00-1 1.5V21a2 2 0 11-4 0v-.1a1.7 1.7 0 00-1-1.6 1.7 1.7 0 00-2 .3l-.1.1a2 2 0 11-2.8-2.8l.1-.1a1.7 1.7 0 00.3-2 1.7 1.7 0 00-1.5-1H3a2 2 0 110-4h.1a1.7 1.7 0 001.5-1 1.7 1.7 0 00-.3-2l-.1-.1A2 2 0 117 2.5l.1.1a1.7 1.7 0 002 .3H9.2a1.7 1.7 0 001-1.5V1a2 2 0 114 0v.1a1.7 1.7 0 001 1.5h.1a1.7 1.7 0 002-.3l.1-.1a2 2 0 112.8 2.8l-.1.1a1.7 1.7 0 00-.3 2v.1a1.7 1.7 0 001.5 1H21a2 2 0 110 4h-.1a1.7 1.7 0 00-1.5 1z"/></svg>
-      </div>
-      <h3 class="font-bold text-lg mb-1">Diagnostics</h3>
-      <p class="text-sm text-gray-600">Check engine lights, electrical &amp; drivability issues.</p>
-    </div>
-    <div class="fade-up bg-white border border-gray-200 rounded-sm p-6 hover:border-[var(--brick)] hover:shadow-lg transition-all">
-      <div class="w-10 h-10 mb-4 flex items-center justify-center bg-[var(--navy)] rounded-sm text-white">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M4 12h16" stroke-linecap="round"/><circle cx="12" cy="12" r="9"/></svg>
-      </div>
-      <h3 class="font-bold text-lg mb-1">Brakes &amp; Suspension</h3>
-      <p class="text-sm text-gray-600">Two-post lift service for a smooth, safe ride.</p>
-    </div>
-    <div class="fade-up bg-white border border-gray-200 rounded-sm p-6 hover:border-[var(--brick)] hover:shadow-lg transition-all">
-      <div class="w-10 h-10 mb-4 flex items-center justify-center bg-[var(--navy)] rounded-sm text-white">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 13l2-5h14l2 5v6H3z" stroke-linejoin="round"/><circle cx="7.5" cy="19" r="1.5"/><circle cx="16.5" cy="19" r="1.5"/></svg>
-      </div>
-      <h3 class="font-bold text-lg mb-1">Performance Builds</h3>
-      <p class="text-sm text-gray-600">Comfortable working on modified &amp; import platforms.</p>
-    </div>
-  </div>
-
-  <!-- Callout for missing menu -->
-  <div class="fade-up mt-8 bg-[var(--navy-dark)] text-white rounded-sm p-6 sm:p-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-5">
-    <div>
-      <p class="text-[var(--caution)] font-bold uppercase tracking-wide text-xs mb-1">Full service list</p>
-      <p class="text-lg sm:text-xl font-semibold">Inquire Directly for Daily Specials &amp; Full Service List</p>
-      <p class="text-gray-300 text-sm mt-1">Call the shop — we'll walk you through what your vehicle needs.</p>
-    </div>
-    <a href="tel:+12154631108" class="shrink-0 bg-[var(--brick)] hover:bg-white hover:text-[var(--navy-dark)] transition-colors px-6 py-3 rounded-sm font-bold display text-lg tracking-wide">
-      CALL NOW
+    <a href="tel:+12154631108"
+       class="inline-block bg-steel hover:bg-steel2 transition-colors text-bone display uppercase tracking-wider px-8 py-4 clip-plate">
+      &#9742; Call (215) 463-1108
     </a>
   </div>
 </section>
 
-<!-- ================= HOURS + LOCATION ================= -->
-<section class="brick-tex text-white">
-  <div class="max-w-6xl mx-auto px-4 py-16 grid lg:grid-cols-2 gap-10">
-
-    <div class="fade-up">
-      <p class="text-[var(--caution)] font-bold uppercase tracking-[0.2em] text-xs mb-2">Shop Hours</p>
-      <h2 class="display text-4xl mb-6">WHEN WE'RE OPEN</h2>
-      <ul class="divide-y divide-white/15 bg-black/25 rounded-sm overflow-hidden">
-        <li class="flex justify-between px-5 py-3 text-sm"><span>Monday</span><span class="font-semibold">9:00 AM – 6:00 PM</span></li>
-        <li class="flex justify-between px-5 py-3 text-sm"><span>Tuesday</span><span class="font-semibold">9:00 AM – 6:00 PM</span></li>
-        <li class="flex justify-between px-5 py-3 text-sm"><span>Wednesday</span><span class="font-semibold">9:00 AM – 6:00 PM</span></li>
-        <li class="flex justify-between px-5 py-3 text-sm"><span>Thursday</span><span class="font-semibold">9:00 AM – 6:00 PM</span></li>
-        <li class="flex justify-between px-5 py-3 text-sm"><span>Friday</span><span class="font-semibold">9:00 AM – 6:00 PM</span></li>
-        <li class="flex justify-between px-5 py-3 text-sm text-gray-400"><span>Saturday</span><span>Closed</span></li>
-        <li class="flex justify-between px-5 py-3 text-sm text-gray-400"><span>Sunday</span><span>Closed</span></li>
-      </ul>
-    </div>
-
-    <div class="fade-up">
-      <p class="text-[var(--caution)] font-bold uppercase tracking-[0.2em] text-xs mb-2">Find Us</p>
-      <h2 class="display text-4xl mb-6">SOUTH BANCROFT ST.</h2>
-      <div class="bg-black/25 rounded-sm p-6">
-        <p class="text-lg font-semibold">P&amp;P Auto Services</p>
-        <p class="text-gray-300 mb-6">2008 S Bancroft St<br>Philadelphia, PA 19145</p>
-        <div class="flex flex-col sm:flex-row gap-3">
-          <a href="tel:+12154631108" class="text-center bg-[var(--brick)] hover:bg-white hover:text-[var(--navy-dark)] transition-colors px-5 py-3 rounded-sm font-bold">
-            (215) 463-1108
-          </a>
-          <a href="https://maps.google.com/?q=2008%20S%20Bancroft%20St%2C%20Philadelphia%2C%20PA%2019145" target="_blank" rel="noopener"
-             class="text-center border-2 border-white/60 hover:bg-white hover:text-[var(--navy-dark)] transition-colors px-5 py-3 rounded-sm font-bold">
-            Directions
-          </a>
+<!-- HOURS -->
+<section class="bg-bone">
+  <div class="max-w-3xl mx-auto px-5 py-16">
+    <h2 class="display uppercase text-steel text-3xl mb-8 text-center tracking-wide">Shop Hours</h2>
+    <div class="bg-white border border-concrete/50 clip-plate overflow-hidden">
+      <div class="grid grid-cols-2 divide-y divide-concrete/30">
+        <div class="col-span-2 grid grid-cols-2 bg-steel text-bone px-6 py-3 display uppercase text-sm tracking-widest">
+          <span>Day</span><span class="text-right">Hours</span>
         </div>
+        <div class="col-span-2 grid grid-cols-2 px-6 py-3"><span>Monday</span><span class="text-right">9:00 AM – 6:00 PM</span></div>
+        <div class="col-span-2 grid grid-cols-2 px-6 py-3 bg-bone/60"><span>Tuesday</span><span class="text-right">9:00 AM – 6:00 PM</span></div>
+        <div class="col-span-2 grid grid-cols-2 px-6 py-3"><span>Wednesday</span><span class="text-right">9:00 AM – 6:00 PM</span></div>
+        <div class="col-span-2 grid grid-cols-2 px-6 py-3 bg-bone/60"><span>Thursday</span><span class="text-right">9:00 AM – 6:00 PM</span></div>
+        <div class="col-span-2 grid grid-cols-2 px-6 py-3"><span>Friday</span><span class="text-right">9:00 AM – 6:00 PM</span></div>
+        <div class="col-span-2 grid grid-cols-2 px-6 py-3 bg-bone/60 text-steel/50"><span>Saturday</span><span class="text-right">Closed</span></div>
+        <div class="col-span-2 grid grid-cols-2 px-6 py-3 text-steel/50"><span>Sunday</span><span class="text-right">Closed</span></div>
       </div>
     </div>
-
   </div>
 </section>
 
-<!-- ================= FOOTER ================= -->
-<footer class="bg-[var(--navy-dark)] text-gray-300">
-  <div class="hazard-strip h-1.5 w-full"></div>
-  <div class="max-w-6xl mx-auto px-4 py-10 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm">
-    <div class="flex items-center gap-3">
-      <div class="w-9 h-9 rounded-sm bg-[var(--brick)] flex items-center justify-center border border-[var(--caution)]">
-        <span class="display text-lg leading-none text-white">P&P</span>
-      </div>
-      <p class="display text-lg text-white tracking-wide">P&amp;P AUTO SERVICES</p>
+<!-- LOCATION -->
+<section class="bg-steel steel-grid">
+  <div class="max-w-6xl mx-auto px-5 py-16 grid grid-cols-1 sm:grid-cols-2 gap-10 items-center">
+    <div>
+      <h2 class="display uppercase text-bone text-3xl mb-4 tracking-wide">Find the Shop</h2>
+      <p class="text-concrete mb-6">2008 S Bancroft St, Philadelphia, PA 19145</p>
+      <a href="https://maps.google.com/?q=2008%20S%20Bancroft%20St%2C%20Philadelphia%2C%20PA%2019145"
+         target="_blank" rel="noopener"
+         class="inline-block bg-brick hover:bg-brickdark transition-colors text-bone display uppercase tracking-wider px-7 py-4 clip-plate">
+        Open in Google Maps
+      </a>
     </div>
-    <p>2008 S Bancroft St, Philadelphia, PA 19145</p>
-    <a href="tel:+12154631108" class="text-white font-semibold">(215) 463-1108</a>
+    <div class="border-2 border-concrete/40 clip-plate p-8 bg-steel2 text-center">
+      <p class="display text-gold text-5xl mb-2">&#9670;</p>
+      <p class="text-concrete display uppercase tracking-widest text-sm">S. Bancroft St</p>
+      <p class="text-concrete/70 text-sm">Philadelphia, PA</p>
+    </div>
   </div>
-  <p class="text-center text-xs text-gray-500 pb-6">© <span id="year"></span> P&P Auto Services. All rights reserved.</p>
+</section>
+
+<!-- FOOTER -->
+<footer class="bg-steel border-t-4 border-brick text-concrete">
+  <div class="max-w-6xl mx-auto px-5 py-10 flex flex-col sm:flex-row justify-between items-center gap-4">
+    <div class="display uppercase text-bone tracking-wide">P&amp;P Auto Services</div>
+    <div class="flex flex-col sm:flex-row gap-2 sm:gap-6 text-sm text-center">
+      <a href="tel:+12154631108" class="hover:text-gold transition-colors">(215) 463-1108</a>
+      <span>2008 S Bancroft St, Philadelphia, PA 19145</span>
+    </div>
+  </div>
 </footer>
-
-<script>
-  document.getElementById('year').textContent = new Date().getFullYear();
-
-  // Open/closed banner
-  (function(){
-    const hours = {
-      0: null, // Sunday
-      1: [9,18], 2: [9,18], 3: [9,18], 4: [9,18], 5: [9,18],
-      6: null // Saturday
-    };
-    const now = new Date();
-    const day = now.getDay();
-    const h = now.getHours() + now.getMinutes()/60;
-    const el = document.getElementById('status-banner');
-    const todayRange = hours[day];
-    let open = false;
-    if(todayRange){
-      open = h >= todayRange[0] && h < todayRange[1];
-    }
-    if(open){
-      el.innerHTML = '<span class="w-2.5 h-2.5 rounded-full bg-green-400 inline-block"></span> Open Now — Closes 6:00 PM';
-    } else {
-      el.innerHTML = '<span class="w-2.5 h-2.5 rounded-full bg-red-400 inline-block"></span> Closed Now — Opens Monday 9:00 AM';
-    }
-  })();
-
-  // Scroll reveal
-  const io = new IntersectionObserver((entries)=>{
-    entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('show'); io.unobserve(e.target); } });
-  }, {threshold:0.15});
-  document.querySelectorAll('.fade-up').forEach(el=>io.observe(el));
-</script>
 
 <style>body{padding-bottom:64px!important}</style><div id="preview-ribbon" style="position:fixed;bottom:0;left:0;right:0;z-index:99999;background:#111827;color:#f9fafb;text-align:center;padding:10px 16px;font:600 13px/1.5 system-ui,-apple-system,sans-serif;box-shadow:0 -2px 8px rgba(0,0,0,.25)">Design preview prepared for P&amp;P Auto Services by Connor &mdash; not the official website.</div>
 </body>
