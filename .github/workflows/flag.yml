@@ -58,6 +58,7 @@ jobs:
         if: steps.flag.outputs.ok == 'true' && steps.flag.outputs.action == 'build'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
         run: python generator.py "${{ steps.flag.outputs.slug }}"
 
