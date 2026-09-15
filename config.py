@@ -48,6 +48,13 @@ DEFAULT_CLAUDE_MODEL = "claude-sonnet-5"
 MAX_TOKENS = 8000
 MAX_BUILDS_PER_RUN = 10  # cost guard: cap Claude builds per workflow run
 
+# Creative direction. Every build gets a fresh random seed so no two sites
+# come out looking like the same template; the business's own photos then
+# pull that direction toward what the place actually looks like.
+SEED_LENGTH = 48
+REFERENCE_PHOTOS = 3          # Google photos shown to the model (design input only)
+REFERENCE_PHOTO_WIDTH = 800   # px; bigger costs more tokens for no design benefit
+
 PREVIEW_RIBBON_NAME = "Connor"  # who the ribbon credits
 
 # ---- Files -----------------------------------------------------------------
