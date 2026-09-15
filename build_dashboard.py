@@ -179,7 +179,8 @@ function card(l){
     ${l.status==="build" ? `<div class="pending">⚒ Queued — the preview builds in about a minute, then this page shows it.</div>` : ""}
     <div class="actions">
       ${previewUrl ? `<a class="primary" href="${previewUrl}" target="_blank">Open preview</a>
-        <button data-qr-url="${esc(previewUrl)}" data-qr-name="${esc(l.business_name)}">QR code</button>` : ""}
+        <button data-qr-url="${esc(previewUrl)}" data-qr-name="${esc(l.business_name)}">QR code</button>
+        <a href="https://github.com/${REPO}/raw/main/docs/sites/${l.slug}/index.html" target="_blank" rel="noopener">Source file</a>` : ""}
       ${steps}
       ${l.website ? `<a href="${esc(l.website)}" target="_blank" rel="noopener">Current site</a>` : ""}
       ${l.phone ? `<a href="tel:${esc(l.phone)}">Call</a>` : ""}
