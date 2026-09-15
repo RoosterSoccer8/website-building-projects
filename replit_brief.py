@@ -19,6 +19,7 @@ import sys
 
 import config
 from scanner import load_ledger, save_ledger
+from seed import design_seed
 
 BRIEFS_DIR = "briefs"
 
@@ -65,8 +66,14 @@ def fact_or_missing(value, label=None):
 
 
 def build_brief(lead, seed=None):
+    """Render the brief.
+
+    The seed is FRESH by default — deliberately not the one the automated
+    preview used. That way Replit explores a different direction and you walk
+    into the meeting with two real options instead of one idea twice.
+    """
     name = lead.get("business_name") or "This business"
-    seed = seed or lead.get("design_seed") or ""
+    seed = seed or design_seed()
     today = datetime.date.today().isoformat()
     rating = lead.get("rating")
     reviews = lead.get("review_count")
@@ -103,7 +110,12 @@ runs, repeats, symmetry — and let what you find drive a specific direction bef
 anything else: an actual color palette (name the hex values), a display + body type pairing,
 a layout structure, and a texture treatment.
 
-    {seed or '(generate your own 40+ character random string first, then use it)'}
+    {seed}
+
+This seed is new. A different design for this same business already exists, and the point of
+this build is to arrive somewhere else — a different palette, a different type voice, a
+different structure — so the owner has two real options to react to. Follow the seed where it
+leads rather than reaching for the safe version.
 
 Then bend that direction toward this specific business and neighborhood (South Philadelphia)
 so it feels like this place and not a generic template. Commit to ONE layout archetype and
@@ -164,13 +176,15 @@ Build it so the owner's first reaction is that someone took their business serio
 """
 
 
-def write_brief(lead, path_dir=BRIEFS_DIR):
+def write_brief(lead, path_dir=BRIEFS_DIR, seed=None):
     os.makedirs(path_dir, exist_ok=True)
     fname = f"{lead.get('slug','lead')}-{datetime.date.today().isoformat()}.md"
     full = os.path.join(path_dir, fname)
+    seed = seed or design_seed()
     with open(full, "w", encoding="utf-8") as f:
-        f.write(build_brief(lead))
+        f.write(build_brief(lead, seed=seed))
     lead["brief_path"] = f"{path_dir}/{fname}"
+    lead["brief_seed"] = seed   # recorded so a re-roll is a deliberate choice
     return full
 
 
