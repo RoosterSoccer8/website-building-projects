@@ -13109,6 +13109,144 @@
       "seen": "2026-09-15",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJ4-Jgg8LFxokR-T7A7YU5NzA": {
+      "slug": "anthony-curci-construction-llc-yu5nza",
+      "business_name": "Anthony Curci Construction LLC",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "General Contractor",
+      "address": "2117 Moyamensing Rd fd, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 924-0315",
+      "rating": 4.8,
+      "review_count": 21,
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:30 PM",
+        "Saturday: 7:00 AM – 5:30 PM",
+        "Sunday: 7:00 AM – 5:00 PM"
+      ],
+      "website": "http://anthonycurciconstruction.com/",
+      "audit_flags": [
+        "unreachable_ConnectionError"
+      ],
+      "score": 51.8,
+      "notes": "",
+      "seen": "2026-09-16",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJmWxfa-LFxokRqxJ-MZsV-0M": {
+      "business_name": "CRO Construction",
+      "status": "skipped_good_site",
+      "website": "http://www.croconstruction.com/",
+      "seen": "2026-09-16"
+    },
+    "ChIJReyRG-zHxokRdhORXZ0H3ZY": {
+      "business_name": "Jencom Group",
+      "status": "skipped_good_site",
+      "website": "http://www.jencomgroup.com/",
+      "seen": "2026-09-16"
+    },
+    "ChIJuWJpygjGxokR7aDv96Zyt-Q": {
+      "business_name": "JPC Group Inc",
+      "status": "skipped_good_site",
+      "website": "https://www.jpcgroupinc.com/",
+      "seen": "2026-09-16"
+    },
+    "ChIJRfexRSzHxokR0lUeFiSCWB0": {
+      "business_name": "Philly Kitchen & Bath",
+      "status": "skipped_good_site",
+      "website": "https://phillykitchenandbathllc.com/",
+      "seen": "2026-09-16"
+    },
+    "ChIJRY6ypgrGxokRh4MTbkuTV0c": {
+      "slug": "mark-concrete-contractors-kutv0c",
+      "business_name": "MARK Concrete Contractors",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "General Contractor",
+      "address": "2516 Snyder Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 389-9979",
+      "rating": 4.4,
+      "review_count": 114,
+      "hours": [
+        "Monday: 7:00 AM – 5:00 PM",
+        "Tuesday: 7:00 AM – 5:00 PM",
+        "Wednesday: 7:00 AM – 5:00 PM",
+        "Thursday: 7:00 AM – 5:00 PM",
+        "Friday: 7:00 AM – 5:00 PM",
+        "Saturday: 7:00 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.markcement.com/",
+      "audit_flags": [
+        "not_mobile_responsive"
+      ],
+      "score": 69.6,
+      "notes": "",
+      "seen": "2026-09-16",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJGYj5017HxokRGfZG7MwLTvI": {
+      "slug": "dhi-mwltvi",
+      "business_name": "DHI",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "1712 Point Breeze Ave, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 730-1889",
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-16",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJueQF32fGxokRvVQXcNMjESE": {
+      "slug": "kenny-construction-co-nmjese",
+      "business_name": "Kenny Construction Co",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "General Contractor",
+      "address": "2899 Peltz St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 462-6200",
+      "rating": null,
+      "review_count": null,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-16",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJmSzlFfXBxokRTr5b9xPHVCA": {
+      "business_name": "Raya Electric",
+      "status": "skipped_good_site",
+      "website": "https://rayaelectric.com/",
+      "seen": "2026-09-16"
     }
   }
 }
