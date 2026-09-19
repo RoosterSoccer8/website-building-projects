@@ -15909,6 +15909,54 @@
       "seen": "2026-09-18",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJ_RB6hqFlyIkRNdcTTF_SnBw": {
+      "slug": "refine-a-movement-studio-tfsnbw",
+      "business_name": "Refine A Movement Studio",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Health",
+      "address": "810 S 23rd St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(443) 465-0552",
+      "rating": 5,
+      "review_count": 19,
+      "hours": [
+        "Monday: 7:00 AM – 8:00 PM",
+        "Tuesday: 7:00 AM – 8:00 PM",
+        "Wednesday: 7:00 AM – 8:00 PM",
+        "Thursday: 7:00 AM – 8:00 PM",
+        "Friday: 7:00 AM – 8:00 PM",
+        "Saturday: 7:00 AM – 8:00 PM",
+        "Sunday: 7:00 AM – 8:00 PM"
+      ],
+      "website": "https://www.refinemovementstudio.com/",
+      "audit_flags": [
+        "stale_copyright_2015"
+      ],
+      "score": 51.8,
+      "notes": "",
+      "seen": "2026-09-19",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJF29r_zHHxokRwzD9DBfkneI": {
+      "business_name": "Liberty Yoga",
+      "status": "skipped_good_site",
+      "website": "https://www.libertyyogaphilly.com/",
+      "seen": "2026-09-19"
+    },
+    "ChIJgZc_ohfGxokR-mnVBXUxYE4": {
+      "business_name": "Marine Club",
+      "status": "skipped_good_site",
+      "website": "https://www.livemarineclub.com/?utm_medium=organic&utm_source=google&utm_campaign=gbp-website-button",
+      "seen": "2026-09-19"
+    },
+    "ChIJRzsvRInJxokRHesVPLFFRaE": {
+      "business_name": "Philly InMovement",
+      "status": "skipped_good_site",
+      "website": "http://phillyinmovement.com/",
+      "seen": "2026-09-19"
     }
   }
 }
