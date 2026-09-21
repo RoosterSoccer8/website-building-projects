@@ -16446,6 +16446,36 @@
       "seen": "2026-09-20",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJLV8I2eDHxokRrTmQFZ3cgls": {
+      "business_name": "Indo Spice Restaurant",
+      "status": "skipped_unverified",
+      "website": "https://indospicephilly.com/?utm_source=google",
+      "seen": "2026-09-21"
+    },
+    "ChIJvZzVRMbHxokRAuYZeuVl_-I": {
+      "business_name": "Grace & Proper",
+      "status": "skipped_good_site",
+      "website": "http://www.graceandproper.com/",
+      "seen": "2026-09-21"
+    },
+    "ChIJR_DkMprHxokR8AHGzddMff8": {
+      "business_name": "Chateau Rouge",
+      "status": "skipped_good_site",
+      "website": "https://chateaurougephilly.com/",
+      "seen": "2026-09-21"
+    },
+    "ChIJUwU6IZrIxokRgX-V0_Y0eRM": {
+      "business_name": "Bistro Romano",
+      "status": "skipped_good_site",
+      "website": "http://www.bistroromano.com/",
+      "seen": "2026-09-21"
+    },
+    "ChIJayOC6uO5xokR0wx6Y2Pyhxw": {
+      "business_name": "The Landing Kitchen",
+      "status": "skipped_good_site",
+      "website": "http://thelandingkitchen.com/",
+      "seen": "2026-09-21"
     }
   }
 }
