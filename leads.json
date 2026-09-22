@@ -16476,6 +16476,34 @@
       "status": "skipped_good_site",
       "website": "http://thelandingkitchen.com/",
       "seen": "2026-09-21"
+    },
+    "ChIJdanrbAPGxokRd3zi-ejIHPQ": {
+      "slug": "t-t-barber-shop-ejihpq",
+      "business_name": "T & T Barber Shop",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Barber shop",
+      "address": "1740 S 8th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(267) 250-0904",
+      "rating": 4.5,
+      "review_count": 24,
+      "hours": [
+        "Monday: 9:30 AM – 5:30 PM",
+        "Tuesday: Closed",
+        "Wednesday: 9:30 AM – 5:30 PM",
+        "Thursday: 9:30 AM – 5:30 PM",
+        "Friday: 9:30 AM – 5:30 PM",
+        "Saturday: 9:30 AM – 5:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 73.8,
+      "notes": "",
+      "seen": "2026-09-22",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
