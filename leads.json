@@ -16504,6 +16504,132 @@
       "seen": "2026-09-22",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJsUtwVn7h1ygR22b6LZT1CM4": {
+      "slug": "defiore-carpentry-llc-zt1cm4",
+      "business_name": "DeFiore Carpentry LLC",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "General Contractor",
+      "address": "1201 Federal St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(610) 416-2989",
+      "rating": 5,
+      "review_count": 1,
+      "hours": [
+        "Monday: 7:00 AM – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 7:00 AM – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 7:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.2,
+      "notes": "",
+      "seen": "2026-09-23",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJj_FoX4THxokRj4LI0FZzBls": {
+      "business_name": "Ben Franklin Residences",
+      "status": "skipped_good_site",
+      "website": "https://www.benfranklinresidences.com/",
+      "seen": "2026-09-23"
+    },
+    "ChIJsxbofXXGxokR6AE5zjm5lUw": {
+      "slug": "florio-home-remodeling-llc-jm5luw",
+      "business_name": "Florio Home Remodeling LLC",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "General Contractor",
+      "address": "2424 S 20th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 972-5928",
+      "rating": 3.7,
+      "review_count": 6,
+      "hours": [
+        "Monday: 8:15 AM – 6:00 PM",
+        "Tuesday: 8:15 AM – 6:00 PM",
+        "Wednesday: 8:15 AM – 6:00 PM",
+        "Thursday: 8:15 AM – 6:00 PM",
+        "Friday: 8:15 AM – 6:00 PM",
+        "Saturday: 9:15 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 68.6,
+      "notes": "",
+      "seen": "2026-09-23",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJc0isZhbGxokRcj7c1DZTff4": {
+      "slug": "c-r-building-supply-dztff4",
+      "business_name": "C & R Building Supply",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Building Materials Store",
+      "address": "1600 Washington Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 462-0505",
+      "rating": 4.4,
+      "review_count": 247,
+      "hours": [
+        "Monday: 8:00 AM – 5:00 PM",
+        "Tuesday: 8:00 AM – 5:00 PM",
+        "Wednesday: 8:00 AM – 5:00 PM",
+        "Thursday: 8:00 AM – 5:00 PM",
+        "Friday: 8:00 AM – 5:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.candrsurfaces.com/",
+      "audit_flags": [
+        "near_empty_page"
+      ],
+      "score": 76.8,
+      "notes": "",
+      "seen": "2026-09-23",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJLzQ7tXDGxokRL3Z7St_yZ4U": {
+      "business_name": "Jarman Sales & Service, Inc.",
+      "status": "skipped_good_site",
+      "website": "https://www.jarmansalesandservice.com/",
+      "seen": "2026-09-23"
+    },
+    "ChIJ2ysR2mnGxokRxO2pxYpqyFs": {
+      "slug": "anthony-home-improvement-ypqyfs",
+      "business_name": "Anthony Home Improvement",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Roofing Contractor",
+      "address": "2546 Grays Ferry Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 730-6209",
+      "rating": 4.3,
+      "review_count": 8,
+      "hours": [
+        "Monday: 9:00 AM – 5:00 PM",
+        "Tuesday: 9:00 AM – 5:00 PM",
+        "Wednesday: 9:00 AM – 5:00 PM",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.2,
+      "notes": "",
+      "seen": "2026-09-23",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
