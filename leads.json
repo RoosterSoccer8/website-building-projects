@@ -16664,6 +16664,88 @@
       "seen": "2026-09-24",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJTfeOfhnJxokRinB23xzPsQc": {
+      "business_name": "Rougarou Baking",
+      "status": "skipped_good_site",
+      "website": "https://rougaroubaking.com/",
+      "seen": "2026-09-25"
+    },
+    "ChIJFe8WB23GxokRBHs0OAktUfY": {
+      "slug": "culture-exchange-aktufy",
+      "business_name": "Culture Exchange",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Gift Shop",
+      "address": "1450 Point Breeze Ave, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 463-8966",
+      "rating": 4.8,
+      "review_count": 30,
+      "hours": [
+        "Monday: 9:00 AM – 6:00 PM",
+        "Tuesday: 9:00 AM – 6:00 PM",
+        "Wednesday: 9:00 AM – 6:00 PM",
+        "Thursday: 9:00 AM – 6:00 PM",
+        "Friday: 9:00 AM – 6:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": "https://www.facebook.com/pointbreezecultureexchange/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 53.6,
+      "notes": "",
+      "seen": "2026-09-25",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJm0vjEXTGxokRUeTg1JqeseA": {
+      "slug": "donut-shop-jqesea",
+      "business_name": "Donut Shop",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Cafe",
+      "address": "2101 S 22nd St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 626-3187",
+      "rating": 4.7,
+      "review_count": 28,
+      "hours": [
+        "Monday: 5:30 AM – 4:00 PM",
+        "Tuesday: 5:30 AM – 4:00 PM",
+        "Wednesday: 5:30 AM – 4:00 PM",
+        "Thursday: 5:30 AM – 4:00 PM",
+        "Friday: 5:30 AM – 4:00 PM",
+        "Saturday: 7:00 AM – 3:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 75.0,
+      "notes": "",
+      "seen": "2026-09-25",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJj6watKfIxokRp8O5hETvhyA": {
+      "business_name": "Grindcore House",
+      "status": "skipped_good_site",
+      "website": "http://www.grindcorehouse.com/",
+      "seen": "2026-09-25"
+    },
+    "ChIJmbmHD_THxokRTUWXtw_KmDk": {
+      "business_name": "Guzo Cafe",
+      "status": "skipped_good_site",
+      "website": "https://guzo-cafe.com/about",
+      "seen": "2026-09-25"
+    },
+    "ChIJeRW0-3HHxokRO5QTyPoEu6Q": {
+      "business_name": "The Breakfast Den",
+      "status": "skipped_good_site",
+      "website": "http://thebreakfastden.com/",
+      "seen": "2026-09-25"
     }
   }
 }
