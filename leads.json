@@ -16746,6 +16746,134 @@
       "status": "skipped_good_site",
       "website": "http://thebreakfastden.com/",
       "seen": "2026-09-25"
+    },
+    "ChIJ6_jI4F3HxokRi_lBbt5tyKI": {
+      "business_name": "LA Fitness",
+      "status": "skipped_good_site",
+      "website": "https://www.lafitness.com/Pages/clubhome.aspx?clubid=243&utm_source=google&utm_medium=googlemaps&utm_campaign=maps",
+      "seen": "2026-09-26"
+    },
+    "ChIJC4e8kGbHxokRKQcghehUTK0": {
+      "business_name": "Heavy Metal Strength Training",
+      "status": "skipped_good_site",
+      "website": "https://heavymetalstrengthtraining.com/",
+      "seen": "2026-09-26"
+    },
+    "ChIJOUpFNZnIxokR2BWkSXrVTkY": {
+      "slug": "red-condition-fitness-xrvtky",
+      "business_name": "Red Condition Fitness",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Fitness center",
+      "address": "714 Reed St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 645-0045",
+      "rating": 4.9,
+      "review_count": 10,
+      "hours": [
+        "Monday: 7:00 – 8:00 PM",
+        "Tuesday: 12:00 – 7:30 PM",
+        "Wednesday: 9:00 – 10:00 AM",
+        "Thursday: 7:00 AM – 1:00 PM",
+        "Friday: 6:00 – 7:00 PM",
+        "Saturday: 10:30 – 11:30 AM",
+        "Sunday: 9:00 – 10:00 AM"
+      ],
+      "website": "https://fitnessworksphiladelphia.com/red-condition-fitness-%E2%80%BC%EF%B8%8F-fitnessworksphl/",
+      "audit_flags": [
+        "stale_copyright_2020"
+      ],
+      "score": 49.8,
+      "notes": "",
+      "seen": "2026-09-26",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJS_Tsp27GxokRXYtTJn1kxpo": {
+      "slug": "wharton-square-recreation-center-n1kxpo",
+      "business_name": "WHARTON SQUARE RECREATION CENTER",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Sports Activity Location",
+      "address": "2300 Wharton St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": null,
+      "rating": 5,
+      "review_count": 3,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 70.6,
+      "notes": "",
+      "seen": "2026-09-26",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJo9tHa5PJxokRO-m3JWxaxyM": {
+      "slug": "phl-fit-wxaxym",
+      "business_name": "PHL FIT",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Health",
+      "address": "708 S 4th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 253-7137",
+      "rating": 5,
+      "review_count": 6,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 71.2,
+      "notes": "",
+      "seen": "2026-09-26",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ1Wn0Dv3HxokRwiAEeVmKhSQ": {
+      "business_name": "Hive Yoga and Pilates",
+      "status": "skipped_good_site",
+      "website": "https://www.hiveyogapilates.com/",
+      "seen": "2026-09-26"
+    },
+    "ChIJg-XFF5HHxokR3rAt_SVpPMg": {
+      "slug": "xpressmaids-house-cleaning-passyunk-inc-svppmg",
+      "business_name": "XpressMaids House Cleaning Passyunk Inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Manufacturer",
+      "address": "1716 Jackson St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(484) 498-8870",
+      "rating": 4.4,
+      "review_count": 5,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 69.8,
+      "notes": "",
+      "seen": "2026-09-26",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJXzOUb1G5xokREvS_JiH1v10": {
+      "business_name": "Life Maid Easy",
+      "status": "skipped_good_site",
+      "website": "https://www.lifemaideasy.net/",
+      "seen": "2026-09-26"
+    },
+    "ChIJvU6-xiC6xokRpGAE9i0jwpQ": {
+      "business_name": "Robertson's Flowers & Events",
+      "status": "skipped_good_site",
+      "website": "https://www.robertsonsflowers.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "seen": "2026-09-26"
     }
   }
 }
