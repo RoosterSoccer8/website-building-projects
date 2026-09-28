@@ -16898,6 +16898,174 @@
       "status": "skipped_good_site",
       "website": "https://www.pandaspetsitting.com/",
       "seen": "2026-09-27"
+    },
+    "ChIJkR6Hl5_IxokRF-1qy9aRMGo": {
+      "business_name": "Adoro BYOB",
+      "status": "skipped_good_site",
+      "website": "https://www.adorobistro.com/",
+      "seen": "2026-09-28"
+    },
+    "ChIJL8XgIgDHxokR_FVIH_U9lho": {
+      "business_name": "Perfect Together Restaurant and Cafe",
+      "status": "skipped_good_site",
+      "website": "https://perfecttogetherrestaurant.com/?utm_source=google",
+      "seen": "2026-09-28"
+    },
+    "ChIJ47z-CyHFxokRKjEDfMMhkDQ": {
+      "business_name": "Nifty Fifty's(South Philly)",
+      "status": "skipped_good_site",
+      "website": "http://www.niftyfiftys.com/",
+      "seen": "2026-09-28"
+    },
+    "ChIJjdncyAu5xokRLQl8Hb923qU": {
+      "business_name": "Tabachoy",
+      "status": "skipped_good_site",
+      "website": "https://www.tabachoyphilly.com/",
+      "seen": "2026-09-28"
+    },
+    "ChIJf4a8gr3HxokRvGPWfJCYQrg": {
+      "business_name": "OK SMASHED BURGER",
+      "status": "skipped_good_site",
+      "website": "https://oksmashedburger.com/",
+      "seen": "2026-09-28"
+    },
+    "ChIJtSaxWnXGxokRoPXEWtnmhyU": {
+      "slug": "tap-room-on-19th-tnmhyu",
+      "business_name": "Tap Room On 19th",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Bar & Grill",
+      "address": "2400 S 19th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 687-7817",
+      "rating": 4.6,
+      "review_count": 539,
+      "hours": [
+        "Monday: 12:00 PM – 12:00 AM",
+        "Tuesday: 12:00 PM – 12:00 AM",
+        "Wednesday: 12:00 PM – 12:00 AM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "website": "http://www.taproomon19th.com/",
+      "audit_flags": [
+        "no_https",
+        "not_mobile_responsive",
+        "stale_copyright_2014"
+      ],
+      "score": 93.2,
+      "notes": "",
+      "seen": "2026-09-28",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJj9I0wQTGxokRdqdULPUAWWM": {
+      "slug": "watkins-drinkery-puawwm",
+      "business_name": "Watkins Drinkery",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Bar & Grill",
+      "address": "1712 S 10th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 339-0175",
+      "rating": 4.6,
+      "review_count": 405,
+      "hours": [
+        "Monday: 5:00 PM – 2:00 AM",
+        "Tuesday: 5:00 PM – 2:00 AM",
+        "Wednesday: 5:00 PM – 2:00 AM",
+        "Thursday: 5:00 PM – 2:00 AM",
+        "Friday: 12:00 PM – 2:00 AM",
+        "Saturday: 12:00 PM – 2:00 AM",
+        "Sunday: 12:00 PM – 2:00 AM"
+      ],
+      "website": "https://www.instagram.com/watkinsdrinkery/",
+      "audit_flags": [
+        "social_profile_only"
+      ],
+      "score": 77.2,
+      "notes": "",
+      "seen": "2026-09-28",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ0cB9C3bGxokR5EfLkLBghiU": {
+      "slug": "sq-philip-s-steaks-lbghiu",
+      "business_name": "SQ Philip's Steaks",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "American Restaurant",
+      "address": "2234 W Passyunk Ave #3318, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 755-4820",
+      "rating": 4.2,
+      "review_count": 2700,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": "https://sqphilipssteaks.com/",
+      "audit_flags": [
+        "not_mobile_responsive"
+      ],
+      "score": 76.4,
+      "notes": "",
+      "seen": "2026-09-28",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJz8jyQxvGxokRXL57TcP5wfI": {
+      "business_name": "Messina Club",
+      "status": "skipped_good_site",
+      "website": "http://www.messinasocialclub.com/",
+      "seen": "2026-09-28"
+    },
+    "ChIJG0W7kB7GxokRHh43G_FZr9I": {
+      "business_name": "Late Night Tacos Philly",
+      "status": "skipped_good_site",
+      "website": "https://www.latenighttacosphiladelphia.com/",
+      "seen": "2026-09-28"
+    },
+    "ChIJfUvQQWrHxokRB4nd3ehfSbQ": {
+      "business_name": "Casablanca Mediterranean Grill",
+      "status": "skipped_good_site",
+      "website": "http://www.casablanca-grill.com/",
+      "seen": "2026-09-28"
+    },
+    "ChIJv-K-KADHxokRteDrhDKOYDg": {
+      "slug": "south-sichuan-dkoydg",
+      "business_name": "South Sichuan",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Chinese Restaurant",
+      "address": "1548 S 19th St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(610) 803-1593",
+      "rating": 4.9,
+      "review_count": 229,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 3:00 – 9:30 PM",
+        "Wednesday: 3:00 – 9:30 PM",
+        "Thursday: 3:00 – 9:30 PM",
+        "Friday: 3:00 – 9:30 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 99.8,
+      "notes": "",
+      "seen": "2026-09-28",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
