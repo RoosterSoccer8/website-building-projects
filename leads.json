@@ -17362,6 +17362,128 @@
       "seen": "2026-09-29",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJ8-KzDiXFxokRKOgowgDcMTc": {
+      "slug": "vilar-construction-gdcmtc",
+      "business_name": "Vilar construction",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "General Contractor",
+      "address": "2849 S Warnock St B1, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(610) 659-3938",
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 4:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-30",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJX_EdMm7GxokRDlrAzbt5snw": {
+      "slug": "nesmith-co-inc-bt5snw",
+      "business_name": "Nesmith & Co Inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "General Contractor",
+      "address": "419 Titan St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 755-4570",
+      "rating": 3.7,
+      "review_count": 3,
+      "hours": [
+        "Monday: 7:00 AM – 3:00 PM",
+        "Tuesday: 7:00 AM – 3:00 PM",
+        "Wednesday: 7:00 AM – 3:00 PM",
+        "Thursday: 7:00 AM – 3:00 PM",
+        "Friday: 7:00 AM – 1:00 PM",
+        "Saturday: 10:00 AM – 1:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 68.0,
+      "notes": "",
+      "seen": "2026-09-30",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ_abX5R7GxokR-VOXOGtRTFs": {
+      "slug": "jc-general-contractor-inc-gtrtfs",
+      "business_name": "JC General Contractor Inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "General Contractor",
+      "address": "1135 S 9th St 1st floor, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 279-7865",
+      "rating": null,
+      "review_count": null,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 60.0,
+      "notes": "",
+      "seen": "2026-09-30",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJgbtYCz7GxokRrdtflbAbV6A": {
+      "business_name": "Hybar Construction",
+      "status": "skipped_good_site",
+      "website": "http://hybarconstruction.com/",
+      "seen": "2026-09-30"
+    },
+    "ChIJaWhT-I_CxokRgq32gXBErn8": {
+      "business_name": "SPN Contracting LLC",
+      "status": "skipped_good_site",
+      "website": "http://www.spncontracting.com/",
+      "seen": "2026-09-30"
+    },
+    "ChIJa6KS8h7GxokRRtPKgOR_B4w": {
+      "business_name": "Stallion | Heating Plumbing and Air Conditioning",
+      "status": "skipped_unverified",
+      "website": "https://26stallion.com/about-us/privacy-policy/",
+      "seen": "2026-09-30"
+    },
+    "ChIJo8cg7R3GxokRG89YCAePM7s": {
+      "slug": "apex-plumbing-heating-inc-aepm7s",
+      "business_name": "Apex Plumbing & Heating Inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Services",
+      "address": "625 Earp St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": null,
+      "rating": 3,
+      "review_count": 2,
+      "hours": [
+        "Monday: 7:00 AM – 10:00 PM",
+        "Tuesday: 7:00 AM – 10:00 PM",
+        "Wednesday: 7:00 AM – 10:00 PM",
+        "Thursday: 7:00 AM – 10:00 PM",
+        "Friday: 7:00 AM – 10:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 66.4,
+      "notes": "",
+      "seen": "2026-09-30",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
