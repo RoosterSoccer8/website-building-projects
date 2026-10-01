@@ -17484,6 +17484,62 @@
       "seen": "2026-09-30",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJP5Gtf6XIxokRMdEvnNE80-I": {
+      "slug": "southport-plaza-nne80i",
+      "business_name": "Southport Plaza",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Business Center",
+      "address": "1600 S Christopher Columbus Blvd, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 501-2614",
+      "rating": 4.2,
+      "review_count": 801,
+      "hours": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.4,
+      "notes": "",
+      "seen": "2026-10-01",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJtz4Lk__HxokRalA_1Q7VZD4": {
+      "slug": "mr-cesar-detail-center-q7vzd4",
+      "business_name": "MR.CESAR DETAIL CENTER",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Car Wash",
+      "address": "1915 S 6th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 303-0456",
+      "rating": 5,
+      "review_count": 1,
+      "hours": [
+        "Monday: 8:00 AM – 7:00 PM",
+        "Tuesday: 8:00 AM – 7:00 PM",
+        "Wednesday: 8:00 AM – 7:00 PM",
+        "Thursday: 8:00 AM – 7:00 PM",
+        "Friday: 8:00 AM – 7:00 PM",
+        "Saturday: 8:00 AM – 7:00 PM",
+        "Sunday: 8:00 AM – 4:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 70.2,
+      "notes": "",
+      "seen": "2026-10-01",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
