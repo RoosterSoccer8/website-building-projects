@@ -17546,6 +17546,42 @@
       "status": "skipped_good_site",
       "website": "https://roomamoocafe.com/",
       "seen": "2026-10-02"
+    },
+    "ChIJC2PsD9nFxokRQnT22Zj0mZ8": {
+      "business_name": "South Philadelphia",
+      "status": "skipped_good_site",
+      "website": "http://cedarrealtytrust.propertycapsule.com/property/output/center/detail/id:1584/",
+      "seen": "2026-10-03"
+    },
+    "ChIJR0NyjZnHxokRa_WOc7A1Cko": {
+      "slug": "kaiju-combat-sports-7a1cko",
+      "business_name": "Kaiju Combat Sports",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Sports Coaching",
+      "address": "2013 S 20th St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(267) 251-8105",
+      "rating": 5,
+      "review_count": 1,
+      "hours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 7:00 AM – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 7:00 AM – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 9:30 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 3:00 PM"
+      ],
+      "website": "https://kaijucombatsports.com/",
+      "audit_flags": [
+        "unreachable_ConnectionError"
+      ],
+      "score": 48.2,
+      "notes": "",
+      "seen": "2026-10-03",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
