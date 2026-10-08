@@ -18118,6 +18118,92 @@
       "seen": "2026-10-07",
       "generated_at": null,
       "preview_path": null
+    },
+    "ChIJYZJWqAXDxokR1oO0iEYQgqw": {
+      "business_name": "Reliable Automotive Repair",
+      "status": "skipped_good_site",
+      "website": "https://veryreliableauto.com/",
+      "seen": "2026-10-08"
+    },
+    "ChIJGx4HD2LGxokR7sG40_7Crj4": {
+      "business_name": "Best Hands Detailing",
+      "status": "skipped_good_site",
+      "website": "https://www.besthandsdetailingllc.com/contact-us",
+      "seen": "2026-10-08"
+    },
+    "ChIJ3RN7ho7LxokRbd5NI5O4TDU": {
+      "business_name": "M&G Automotive Detailing",
+      "status": "skipped_good_site",
+      "website": "https://www.mgmobiledetail.com/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile",
+      "seen": "2026-10-08"
+    },
+    "ChIJJ6XEvf3BxokRTa4C_LWBvBc": {
+      "business_name": "Meyers Automotive Detailing",
+      "status": "skipped_good_site",
+      "website": "https://meyerswash.com/",
+      "seen": "2026-10-08"
+    },
+    "ChIJsapZxb7DxokRbLhYXi2DQ6o": {
+      "slug": "action-auto-detailing-llc-i2dq6o",
+      "business_name": "Action Auto Detailing LLC",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Point Of Interest",
+      "address": "99 Clifton Ave #4, Collingdale, PA 19023, USA",
+      "zip": null,
+      "phone": "(610) 803-8865",
+      "rating": 5,
+      "review_count": 35,
+      "hours": [
+        "Monday: 8:00 AM – 8:00 PM",
+        "Tuesday: 8:00 AM – 8:00 PM",
+        "Wednesday: 8:00 AM – 8:00 PM",
+        "Thursday: 8:00 AM – 8:00 PM",
+        "Friday: 8:00 AM – 8:00 PM",
+        "Saturday: 8:00 AM – 8:00 PM",
+        "Sunday: 8:00 AM – 8:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 77.0,
+      "notes": "",
+      "seen": "2026-10-08",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ5XiX8OvDxokRMhDhPycBQ50": {
+      "slug": "top-class-detailing-ycbq50",
+      "business_name": "Top Class Detailing",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Point Of Interest",
+      "address": "131 Pine St, Collingdale, PA 19023, USA",
+      "zip": null,
+      "phone": "(610) 202-0064",
+      "rating": 4.8,
+      "review_count": 103,
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 8:30 AM – 6:00 PM",
+        "Sunday: 9:00 AM – 4:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 90.2,
+      "notes": "",
+      "seen": "2026-10-08",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJC_58swzGxokRGPDPQQvWxFA": {
+      "business_name": "BODIES BY STONE",
+      "status": "skipped_good_site",
+      "website": "http://www.bodiesbystonedetailing.com/",
+      "seen": "2026-10-08"
     }
   }
 }
