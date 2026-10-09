@@ -18204,6 +18204,74 @@
       "status": "skipped_good_site",
       "website": "http://www.bodiesbystonedetailing.com/",
       "seen": "2026-10-08"
+    },
+    "ChIJnxFxppLJxokR6etmh5kzrtw": {
+      "business_name": "Sprinkled Sweetness",
+      "status": "skipped_good_site",
+      "website": "http://www.dessertsbysprinkledsweetness.com/",
+      "seen": "2026-10-09"
+    },
+    "ChIJNbF7eVLHxokRMqvBsrwopOc": {
+      "business_name": "The Underbite Bites",
+      "status": "skipped_good_site",
+      "website": "https://www.underbitebites.com/",
+      "seen": "2026-10-09"
+    },
+    "ChIJX4IAER_GxokRMTXMnpgctR0": {
+      "slug": "las-lomas-grocery-bakery-pgctr0",
+      "business_name": "Las Lomas Grocery & Bakery",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Grocery Store",
+      "address": "1032 S 9th St, Philadelphia, PA 19147, USA",
+      "zip": "19147",
+      "phone": "(215) 551-1808",
+      "rating": 3.4,
+      "review_count": 65,
+      "hours": [
+        "Monday: 8:00 AM – 12:00 AM",
+        "Tuesday: 8:00 AM – 12:00 AM",
+        "Wednesday: 8:00 AM – 12:00 AM",
+        "Thursday: 8:00 AM – 12:00 AM",
+        "Friday: 8:00 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 8:00 AM – 12:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 79.8,
+      "notes": "",
+      "seen": "2026-10-09",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ5w9WbQTGxokRKO1BFMEhm98": {
+      "slug": "wilson-and-son-mini-market-inc-mehm98",
+      "business_name": "Wilson And Son Mini Market Inc",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Store",
+      "address": "1928 S 9th St #2349, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(215) 501-9805",
+      "rating": 4.9,
+      "review_count": 10,
+      "hours": [
+        "Monday: 6:00 AM – 2:00 AM",
+        "Tuesday: 6:00 AM – 2:00 AM",
+        "Wednesday: 6:00 AM – 2:00 AM",
+        "Thursday: 6:00 AM – 2:00 AM",
+        "Friday: 6:00 AM – 2:00 AM",
+        "Saturday: 6:00 AM – 2:00 AM",
+        "Sunday: 6:00 AM – 2:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 71.8,
+      "notes": "",
+      "seen": "2026-10-09",
+      "generated_at": null,
+      "preview_path": null
     }
   }
 }
