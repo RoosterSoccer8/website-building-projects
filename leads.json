@@ -18284,6 +18284,48 @@
       "status": "skipped_good_site",
       "website": "http://www.politesflorist.com/",
       "seen": "2026-10-10"
+    },
+    "ChIJAfp2wz7GxokRxBq51wG7uVA": {
+      "business_name": "Loop",
+      "status": "skipped_good_site",
+      "website": "https://www.loopyarn.com/?y_source=1_MTY3ODg1MzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "seen": "2026-10-11"
+    },
+    "ChIJgV-vOOXHxokRJGDytx7383o": {
+      "slug": "good-inktentions-tattoo-x7383o",
+      "business_name": "Good Inktentions Tattoo",
+      "status": "new",
+      "lead_type": "OUTDATED_WEBSITE",
+      "category": "Body art service",
+      "address": "Private Studio, Bethlehem &, Philadelphia, PA 18015, USA",
+      "zip": null,
+      "phone": "(484) 714-9803",
+      "rating": null,
+      "review_count": null,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Closed"
+      ],
+      "website": "https://good_inktentions_tattoo.llc/",
+      "audit_flags": [
+        "unreachable_ConnectionError"
+      ],
+      "score": 38.0,
+      "notes": "",
+      "seen": "2026-10-11",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJn-fr1-7PxokRvHvGwbwhiP4": {
+      "business_name": "Oregon Laundry Philly",
+      "status": "skipped_good_site",
+      "website": "http://www.oregonlaundryphilly.com/",
+      "seen": "2026-10-11"
     }
   }
 }
