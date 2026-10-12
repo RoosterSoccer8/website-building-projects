@@ -18326,6 +18326,258 @@
       "status": "skipped_good_site",
       "website": "http://www.oregonlaundryphilly.com/",
       "seen": "2026-10-11"
+    },
+    "ChIJsa4JeCDGxokRNQIGOE23MRg": {
+      "business_name": "Saloon Restaurant",
+      "status": "skipped_good_site",
+      "website": "https://www.saloonrestaurant.net/",
+      "seen": "2026-10-12"
+    },
+    "ChIJq6qv8aW5xokRDQCsYJM9BsE": {
+      "business_name": "South Philly Italian Kitchen",
+      "status": "skipped_good_site",
+      "website": "https://southphillyitaliankitchen.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJUaanwS7JxokR4VDhtfhJ3io": {
+      "business_name": "Provenance",
+      "status": "skipped_good_site",
+      "website": "https://provenancephl.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJeb64ypzHxokR37gfkTbyOOA": {
+      "business_name": "Human Robot Süd",
+      "status": "skipped_good_site",
+      "website": "https://www.humanrobotsud.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJN3sknQ_GxokRoIRmp5RKU7c": {
+      "business_name": "Lucky 13 Pub",
+      "status": "skipped_good_site",
+      "website": "https://lucky13pubphilly.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJry9fNx3ExokRS2sDX4B70Lw": {
+      "business_name": "PPF Group llc.",
+      "status": "skipped_good_site",
+      "website": "http://timefinancialcenter.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJAQBllWzGxokRrh-EXXwexwM": {
+      "slug": "hyon-s-seafood-south-philly-xwexwm",
+      "business_name": "Hyon's Seafood south philly",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Seafood Restaurant",
+      "address": "1320 S 21st St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 336-4138",
+      "rating": 4.2,
+      "review_count": 339,
+      "hours": [
+        "Monday: 11:30 AM – 9:30 PM",
+        "Tuesday: 11:30 AM – 9:30 PM",
+        "Wednesday: 11:30 AM – 9:30 PM",
+        "Thursday: 11:30 AM – 9:30 PM",
+        "Friday: 11:30 AM – 10:30 PM",
+        "Saturday: 11:30 AM – 10:30 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 98.4,
+      "notes": "",
+      "seen": "2026-10-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJl1ZTAxPGxokRFq6dtTRioVY": {
+      "slug": "super-kitchen-triovy",
+      "business_name": "Super Kitchen",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Chinese Restaurant",
+      "address": "1415 S 19th St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 755-6072",
+      "rating": 4.3,
+      "review_count": 72,
+      "hours": [
+        "Monday: 11:00 AM – 11:30 PM",
+        "Tuesday: 11:00 AM – 11:30 PM",
+        "Wednesday: 11:00 AM – 11:30 PM",
+        "Thursday: 11:00 AM – 11:30 PM",
+        "Friday: 11:00 AM – 11:30 PM",
+        "Saturday: 11:00 AM – 11:30 PM",
+        "Sunday: 11:00 AM – 11:30 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 83.0,
+      "notes": "",
+      "seen": "2026-10-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJZ5qbom3GxokRPuSudqq8684": {
+      "slug": "choy-yung-inn-restaurant-qq8684",
+      "business_name": "Choy Yung Inn Restaurant",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Chinese Restaurant",
+      "address": "1526 S 22nd St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 334-6030",
+      "rating": 4.1,
+      "review_count": 85,
+      "hours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 85.2,
+      "notes": "",
+      "seen": "2026-10-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJPz5P723GxokRi65P7v1tqfc": {
+      "business_name": "Lid's Cafe",
+      "status": "skipped_good_site",
+      "website": "https://usmapid.org/details/lid-s-cafe-ChIJPz5",
+      "seen": "2026-10-12"
+    },
+    "ChIJwRRXSRHGxokRdIhvYkAPpUo": {
+      "business_name": "Michael’s Chinese Restaurant",
+      "status": "skipped_unverified",
+      "website": "https://www.michaelschineserestaurant.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJy3w6A2vGxokR7amEkxMCpME": {
+      "slug": "super-star-chinese-take-out-xmcpme",
+      "business_name": "Super Star Chinese Take Out",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Chinese Restaurant",
+      "address": "1122 S 22nd St, Philadelphia, PA 19146, USA",
+      "zip": "19146",
+      "phone": "(215) 732-9620",
+      "rating": 4.3,
+      "review_count": 70,
+      "hours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 82.6,
+      "notes": "",
+      "seen": "2026-10-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJZwxw-hHGxokRVvcVf8hMJQ4": {
+      "slug": "16th-street-seafood-8hmjq4",
+      "business_name": "16th Street Seafood",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Seafood Restaurant",
+      "address": "1542 Tasker St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 551-0739",
+      "rating": 4.1,
+      "review_count": 139,
+      "hours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 1:00 – 9:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 96.0,
+      "notes": "",
+      "seen": "2026-10-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ90_VCA3GxokRXtqA5UuyO6Q": {
+      "slug": "great-wall-chinese-food-uuyo6q",
+      "business_name": "Great Wall Chinese Food",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Chinese Restaurant",
+      "address": "1801 Moore St, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 336-7105",
+      "rating": 3.8,
+      "review_count": 73,
+      "hours": [
+        "Monday: 1:00 – 11:00 PM",
+        "Tuesday: 1:00 – 11:00 PM",
+        "Wednesday: 1:00 – 11:00 PM",
+        "Thursday: 1:00 – 11:00 PM",
+        "Friday: 1:00 – 11:00 PM",
+        "Saturday: 1:00 – 11:00 PM",
+        "Sunday: 1:00 – 11:00 PM"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 82.2,
+      "notes": "",
+      "seen": "2026-10-12",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJEe-XM5jHxokRYF456VMQYB4": {
+      "business_name": "El Amiguito | Food Truck",
+      "status": "skipped_good_site",
+      "website": "http://elamiguitophilly.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJ78if7ivHxokRRC-NeJTFJRE": {
+      "business_name": "La Cocina del Cafe - Mexican Grill",
+      "status": "skipped_good_site",
+      "website": "https://www.lacocinadelcafe.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJBSRzexfGxokRP49xHoiSBUk": {
+      "business_name": "Broad Street Diner",
+      "status": "skipped_good_site",
+      "website": "https://broadstreetdiner.shop/",
+      "seen": "2026-10-12"
+    },
+    "ChIJGxL2oqLFxokR9dcNUBQEjDg": {
+      "business_name": "Angelina’s Pizza",
+      "status": "skipped_good_site",
+      "website": "https://angelinaspizzas.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJ2xm-oufFxokRKbrCa9UPxro": {
+      "business_name": "Philadium",
+      "status": "skipped_good_site",
+      "website": "http://www.philadium.com/",
+      "seen": "2026-10-12"
+    },
+    "ChIJv033Lf3FxokRzOcQ2Pr5KRE": {
+      "business_name": "Steak 'Em-Up - South Philly",
+      "status": "skipped_good_site",
+      "website": "https://www.steakemupmenu.com/",
+      "seen": "2026-10-12"
     }
   }
 }
