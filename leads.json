@@ -19086,6 +19086,86 @@
       "status": "skipped_good_site",
       "website": "http://harmony-nail-and-spa.slue.io/",
       "seen": "2026-10-13"
+    },
+    "ChIJh8QUUOTFxokRIO5D8bADRmE": {
+      "slug": "monster-plumbing-badrme",
+      "business_name": "Monster Plumbing",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Plumber",
+      "address": "2947 S 13th St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": null,
+      "rating": 1,
+      "review_count": 1,
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 62.2,
+      "notes": "",
+      "seen": "2026-10-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJ2_MMpCzJxokRy5i-C_vQkaI": {
+      "slug": "bob-esposito-licensed-electrician-cvqkai",
+      "business_name": "Bob Esposito: Licensed Electrician",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Electrician",
+      "address": "2118 S Front St, Philadelphia, PA 19148, USA",
+      "zip": "19148",
+      "phone": "(267) 251-5880",
+      "rating": 5,
+      "review_count": 30,
+      "hours": [
+        "Monday: 8:00 AM – 6:00 PM",
+        "Tuesday: 8:00 AM – 6:00 PM",
+        "Wednesday: 8:00 AM – 6:00 PM",
+        "Thursday: 8:00 AM – 6:00 PM",
+        "Friday: 8:00 AM – 6:00 PM",
+        "Saturday: 8:00 AM – 6:00 PM",
+        "Sunday: Closed"
+      ],
+      "website": null,
+      "audit_flags": [],
+      "score": 76.0,
+      "notes": "",
+      "seen": "2026-10-14",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJK4op96fE8ysR-_inw90TMuE": {
+      "business_name": "MrFix Appliance Repair",
+      "status": "skipped_good_site",
+      "website": "https://www.misterfixappliance.com/",
+      "seen": "2026-10-14"
+    },
+    "ChIJq0HcUdOtxokRFms7yJ4fJ-M": {
+      "business_name": "Brian Millman Electric, Bucks County PA",
+      "status": "skipped_good_site",
+      "website": "http://www.brianmillmanelectric.com/",
+      "seen": "2026-10-14"
+    },
+    "ChIJsXb2_OYMJmEROMGRgg4CWww": {
+      "business_name": "Best Appliance Repair",
+      "status": "skipped_good_site",
+      "website": "https://bestappliancerpr.com/",
+      "seen": "2026-10-14"
+    },
+    "ChIJnSpimRDGxokRadOw50AZOQw": {
+      "business_name": "PCI Rebuilders",
+      "status": "skipped_good_site",
+      "website": "http://www.pcirebuilders.com/",
+      "seen": "2026-10-14"
     }
   }
 }
