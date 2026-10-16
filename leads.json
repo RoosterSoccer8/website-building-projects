@@ -19166,6 +19166,68 @@
       "status": "skipped_good_site",
       "website": "http://www.pcirebuilders.com/",
       "seen": "2026-10-14"
+    },
+    "ChIJBUQ9BePFxokRRDGlF0LeTX0": {
+      "business_name": "Carangi Baking Company",
+      "status": "skipped_good_site",
+      "website": "http://www.carangibakingco.com/",
+      "seen": "2026-10-16"
+    },
+    "ChIJc992jTbHxokRWERfu3ud8gI": {
+      "business_name": "Schmear Bagel Parlor - Passyunk Ave",
+      "status": "skipped_good_site",
+      "website": "https://schmearit.com/",
+      "seen": "2026-10-16"
+    },
+    "ChIJd9eBxQ7GxokRCuh69hRJnaY": {
+      "business_name": "Philly Pretzel Factory",
+      "status": "skipped_good_site",
+      "website": "https://phillypretzelfactory.com/locations/broad-passyunk/",
+      "seen": "2026-10-16"
+    },
+    "ChIJG3ZZhRvGxokRmxBVmNbhhfQ": {
+      "business_name": "ACME Markets",
+      "status": "skipped_good_site",
+      "website": "https://local.acmemarkets.com/pa/philadelphia/1400-e-passyunk-ave.html",
+      "seen": "2026-10-16"
+    },
+    "ChIJuxDGXI7HxokRJzD440ihKN4": {
+      "business_name": "Insomnia Cookies",
+      "status": "skipped_good_site",
+      "website": "https://insomniacookies.com/",
+      "seen": "2026-10-16"
+    },
+    "ChIJa4MJa3DGxokRvq40JyEWnYo": {
+      "slug": "amco-biscuit-distributors-yewnyo",
+      "business_name": "Amco Biscuit Distributors",
+      "status": "new",
+      "lead_type": "NO_WEBSITE",
+      "category": "Manufacturer",
+      "address": "1717 S 26th St #172, Philadelphia, PA 19145, USA",
+      "zip": "19145",
+      "phone": "(215) 467-8775",
+      "rating": 5,
+      "review_count": 4,
+      "hours": null,
+      "website": null,
+      "audit_flags": [],
+      "score": 70.8,
+      "notes": "",
+      "seen": "2026-10-16",
+      "generated_at": null,
+      "preview_path": null
+    },
+    "ChIJlXZj7PfHxokRQlYSzUQbBqY": {
+      "business_name": "Tindley Tea Cafe",
+      "status": "skipped_unverified",
+      "website": "https://order.toasttab.com/online/tindley-tea-cafe-762-s-broad-st",
+      "seen": "2026-10-16"
+    },
+    "ChIJX9jA_pTHxokRaS4O1FPGWPU": {
+      "business_name": "Schmaltz",
+      "status": "skipped_good_site",
+      "website": "https://schmaltzphilly.com/",
+      "seen": "2026-10-16"
     }
   }
 }
